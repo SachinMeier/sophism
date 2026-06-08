@@ -5,6 +5,7 @@
   "scripts": {
     "start": "python3 -m http.server 8080",
     "report": "node research/scripts/build-dataset-visualization-report.mjs",
+    "build:pages": "npm run report && rm -rf dist && mkdir -p dist/research && cp index.html app.js styles.css dist/ && cp -R data dist/data && cp research/dataset-visualizations.html dist/research/dataset-visualizations.html && if [ -d assets ]; then cp -R assets dist/assets; fi && touch dist/.nojekyll",
     "promote:battles": "node research/scripts/promote-battles.mjs",
     "test": "node tests/data-integrity.test.js && npm run report && playwright test"
   },

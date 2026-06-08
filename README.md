@@ -11,6 +11,15 @@ npm start
 
 Open `http://127.0.0.1:8080`.
 
+## GitHub Pages
+
+The Pages deployment publishes two entry points:
+
+- Flashcards: `/`
+- Dataset visualization report: `/research/dataset-visualizations.html`
+
+The visualization report is generated during the Pages workflow on every push to `master`, then included in the deployed artifact.
+
 ## Test
 
 ```sh
@@ -48,4 +57,10 @@ Regenerate the local dataset visualization report:
 
 ```sh
 npm run report
+```
+
+Build the GitHub Pages artifact locally:
+
+```sh
+npm run build:pages
 ```
