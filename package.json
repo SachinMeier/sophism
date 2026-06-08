@@ -1,0 +1,14 @@
+{
+  "name": "sophism",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "report": "node research/scripts/build-dataset-visualization-report.mjs",
+    "promote:battles": "node research/scripts/promote-battles.mjs",
+    "test": "node tests/data-integrity.test.js && npm run report && playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}

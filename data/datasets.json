@@ -1,0 +1,143 @@
+[
+  {
+    "id": "battles",
+    "label": "Historical Battles",
+    "dataPath": "/data/battles.json",
+    "searchFields": ["title", "details.war", "details.combatants", "details.location"],
+    "series": {
+      "label": "Battle Series",
+      "keyPath": "details.series.key",
+      "labelPath": "details.series.label",
+      "orderPath": "details.series.order"
+    },
+    "filters": [
+      {
+        "id": "continent",
+        "label": "Continent",
+        "type": "multi",
+        "path": "details.continent",
+        "required": true,
+        "options": ["Africa", "Asia", "Europe", "North America", "South America", "Oceania"]
+      },
+      {
+        "id": "epoch",
+        "label": "Epoch",
+        "type": "multi",
+        "path": "details.epoch",
+        "required": true,
+        "options": ["Ancient", "Medieval", "Early Modern", "Modern", "World Wars", "Contemporary"]
+      }
+    ],
+    "requiredDetailFields": ["year", "location", "combatants", "outcome", "war", "continent", "epoch", "series", "gloss"],
+    "optionalDetailFields": ["casualties"],
+    "glossGuidance": { "style": "concise", "maxCharacters": 280 },
+    "frontTemplate": [
+      { "type": "image" },
+      { "type": "title" }
+    ],
+    "backTemplate": [
+      {
+        "type": "statGrid",
+        "fields": [
+          { "label": "Year", "path": "details.year" },
+          { "label": "Location", "path": "details.location" },
+          { "label": "Combatants", "path": "details.combatants" },
+          { "label": "Outcome", "path": "details.outcome" },
+          { "label": "War", "path": "details.war" },
+          { "label": "Casualties", "path": "details.casualties", "optional": true }
+        ]
+      },
+      { "type": "gloss", "path": "details.gloss" },
+      { "type": "seriesNav" }
+    ]
+  },
+  {
+    "id": "paintings",
+    "label": "Famous Paintings",
+    "dataPath": "/data/paintings.json",
+    "searchFields": ["title", "details.artist", "details.movement", "details.year"],
+    "series": {
+      "label": "Artist Series",
+      "keyPath": "details.series.key",
+      "labelPath": "details.series.label",
+      "orderPath": "details.series.order"
+    },
+    "filters": [
+      {
+        "id": "movement",
+        "label": "Movement",
+        "type": "multi",
+        "path": "details.movement",
+        "required": true,
+        "options": ["Medieval", "Renaissance", "Mannerism", "Baroque", "Rococo", "Neoclassicism", "Romanticism", "Realism", "Pre-Raphaelite", "Impressionism", "Post-Impressionism", "Symbolism", "Expressionism", "Cubism", "Futurism", "Modernism", "Surrealism", "Abstract Expressionism", "Pop Art", "Contemporary", "Ukiyo-e", "Japanese Painting", "Chinese Painting", "Korean Painting", "Persian and Mughal Miniature"]
+      }
+    ],
+    "requiredDetailFields": ["artist", "year", "movement", "series", "gloss"],
+    "glossGuidance": { "style": "concise", "maxCharacters": 240 },
+    "frontTemplate": [
+      { "type": "image" }
+    ],
+    "backTemplate": [
+      { "type": "title" },
+      {
+        "type": "fieldList",
+        "fields": [
+          { "label": "Artist", "path": "details.artist" },
+          { "label": "Year", "path": "details.year" },
+          { "label": "Movement", "path": "details.movement" }
+        ]
+      },
+      { "type": "gloss", "path": "details.gloss" },
+      { "type": "seriesNav" }
+    ]
+  },
+  {
+    "id": "buildings",
+    "label": "Famous Buildings",
+    "dataPath": "/data/buildings.json",
+    "searchFields": ["title", "details.architect", "details.style", "details.location"],
+    "series": {
+      "label": "Style Series",
+      "keyPath": "details.series.key",
+      "labelPath": "details.series.label",
+      "orderPath": "details.series.order"
+    },
+    "filters": [
+      {
+        "id": "epoch",
+        "label": "Epoch",
+        "type": "multi",
+        "path": "details.epoch",
+        "required": true,
+        "options": ["Ancient", "Medieval", "Early Modern", "Industrial", "Modern", "Contemporary"]
+      },
+      {
+        "id": "style",
+        "label": "Style/Movement",
+        "type": "multi",
+        "path": "details.style",
+        "required": true,
+        "options": ["Ancient Egyptian", "Classical", "Ancient Roman", "Byzantine", "Romanesque", "Gothic", "Islamic", "Renaissance", "Neo-Renaissance", "Baroque", "Neoclassical", "Beaux-Arts", "Art Nouveau", "Art Deco", "Modernist", "Brutalist", "Postmodern", "High-Tech", "Contemporary", "Vernacular or Traditional", "Other or Unknown"]
+      }
+    ],
+    "requiredDetailFields": ["architect", "constructionDates", "style", "epoch", "city", "country", "location", "series", "gloss"],
+    "glossGuidance": { "style": "concise", "maxCharacters": 240 },
+    "frontTemplate": [
+      { "type": "image" }
+    ],
+    "backTemplate": [
+      { "type": "title" },
+      {
+        "type": "fieldList",
+        "fields": [
+          { "label": "Architect", "path": "details.architect" },
+          { "label": "Construction", "path": "details.constructionDates" },
+          { "label": "Style", "path": "details.style" },
+          { "label": "Location", "path": "details.location" }
+        ]
+      },
+      { "type": "gloss", "path": "details.gloss" },
+      { "type": "seriesNav" }
+    ]
+  }
+]

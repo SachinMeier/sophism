@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "the-great-wave-off-kanagawa",
+    "title": "The Great Wave off Kanagawa",
+    "wikipedia": [
+      "The Great Wave off Kanagawa"
+    ],
+    "artist": "Katsushika Hokusai",
+    "artistKey": "katsushika-hokusai",
+    "year": "c. 1831",
+    "order": 18310000,
+    "century": "19th century",
+    "movement": "Ukiyo-e",
+    "gloss": "Hokusai's woodblock print sends a clawed wave towering over fishing boats, Mount Fuji tiny in the trough. The most reproduced image in Japanese art, it shaped Impressionism and Japonisme in the West."
+  },
+  {
+    "slug": "fine-wind-clear-morning",
+    "title": "Fine Wind, Clear Morning (Red Fuji)",
+    "wikipedia": [
+      "Fine Wind, Clear Morning"
+    ],
+    "artist": "Katsushika Hokusai",
+    "artistKey": "katsushika-hokusai",
+    "year": "c. 1830-1832",
+    "order": 18310100,
+    "century": "19th century",
+    "movement": "Ukiyo-e",
+    "gloss": "Mount Fuji glows red against a blue sky combed with cloud, snow receding from its summit at dawn. From the same Thirty-six Views series as the Great Wave, it is Japan's most celebrated mountain image."
+  },
+  {
+    "slug": "sudden-shower-over-shin-ohashi-bridge-and-atake",
+    "title": "Sudden Shower over Shin-Ohashi Bridge and Atake",
+    "wikipedia": [
+      "Sudden Shower over Shin-Ōhashi bridge and Atake",
+      "Sudden Shower over Shin-Ohashi bridge and Atake"
+    ],
+    "artist": "Utagawa Hiroshige",
+    "artistKey": "utagawa-hiroshige",
+    "year": "1857",
+    "order": 18570000,
+    "century": "19th century",
+    "movement": "Ukiyo-e",
+    "gloss": "Pedestrians dash across a wooden bridge under slanting lines of sudden rain, from One Hundred Famous Views of Edo. Van Gogh copied it in oils, making it a touchstone of Japonisme."
+  },
+  {
+    "slug": "three-beauties-of-the-present-day",
+    "title": "Three Beauties of the Present Day",
+    "wikipedia": [
+      "Three Beauties of the Present Day"
+    ],
+    "artist": "Kitagawa Utamaro",
+    "artistKey": "kitagawa-utamaro",
+    "year": "c. 1793",
+    "order": 17930000,
+    "century": "18th century",
+    "movement": "Ukiyo-e",
+    "gloss": "Utamaro groups three celebrated Edo beauties in a triangular bust composition, their faces near-identical yet subtly distinct. A masterpiece of bijin-ga, the ukiyo-e genre of beautiful women."
+  },
+  {
+    "slug": "pine-trees-screen",
+    "title": "Pine Trees",
+    "wikipedia": [
+      "Pine Trees screen",
+      "Shōrin-zu byōbu"
+    ],
+    "artist": "Hasegawa Tohaku",
+    "artistKey": "hasegawa-tohaku",
+    "year": "c. 1595",
+    "order": 15950000,
+    "century": "16th century",
+    "movement": "Japanese Painting",
+    "gloss": "Tohaku's pair of six-panel screens conjures pines emerging from mist with bold wet ink and vast emptiness. A pinnacle of Japanese ink painting in the Zen-inflected spirit of suggestion over statement."
+  },
+  {
+    "slug": "wind-god-and-thunder-god",
+    "title": "Wind God and Thunder God",
+    "wikipedia": [
+      "Tawaraya Sōtatsu"
+    ],
+    "artist": "Tawaraya Sotatsu",
+    "artistKey": "tawaraya-sotatsu",
+    "year": "c. 1630s",
+    "order": 16300000,
+    "century": "17th century",
+    "movement": "Japanese Painting",
+    "gloss": "Sotatsu flings the green thunder god and white wind god across gold-leaf screens, leaving the center empty. The defining image of the decorative Rinpa school, later repainted by Korin in homage.",
+    "imageFile": "Wind God and Thunder God Screens by Tawaraya Sotatsu hi-res.png",
+    "skipWikidata": true
+  },
+  {
+    "slug": "along-the-river-during-the-qingming-festival",
+    "title": "Along the River During the Qingming Festival",
+    "wikipedia": [
+      "Along the River During the Qingming Festival"
+    ],
+    "artist": "Zhang Zeduan",
+    "artistKey": "zhang-zeduan",
+    "year": "early 12th century",
+    "order": 11200000,
+    "century": "13th century and earlier",
+    "movement": "Chinese Painting",
+    "gloss": "Zhang Zeduan's five-meter handscroll teems with boats, bridges, markets, and hundreds of figures along the Bian River at the Song capital. Often called China's Mona Lisa, it defined the panoramic city scroll."
+  },
+  {
+    "slug": "a-thousand-li-of-rivers-and-mountains",
+    "title": "A Thousand Li of Rivers and Mountains",
+    "wikipedia": [
+      "A Thousand Li of Rivers and Mountains"
+    ],
+    "artist": "Wang Ximeng",
+    "artistKey": "wang-ximeng",
+    "year": "1113",
+    "order": 11130000,
+    "century": "13th century and earlier",
+    "movement": "Chinese Painting",
+    "gloss": "Wang Ximeng painted this eleven-meter blue-green landscape scroll at eighteen for Emperor Huizong and died soon after. Its malachite-and-azurite peaks are a summit of Song dynasty painting."
+  },
+  {
+    "slug": "travelers-among-mountains-and-streams",
+    "title": "Travelers Among Mountains and Streams",
+    "wikipedia": [
+      "Fan Kuan"
+    ],
+    "artist": "Fan Kuan",
+    "artistKey": "fan-kuan",
+    "year": "c. 1000",
+    "order": 10000000,
+    "century": "13th century and earlier",
+    "movement": "Chinese Painting",
+    "gloss": "A monumental cliff hangs over tiny travelers and their mules in Fan Kuan's Northern Song masterwork. Its towering composition fixed the ideal of Chinese monumental landscape painting for centuries.",
+    "imageFile": "Fan Kuan - Travelers Among Mountains and Streams - Google Art Project.jpg",
+    "skipWikidata": true
+  },
+  {
+    "slug": "irworobongdo",
+    "title": "Irworobongdo",
+    "wikipedia": [
+      "Irworobongdo"
+    ],
+    "artist": "Unknown Korean court painters",
+    "artistKey": "unknown-korean-court-painters",
+    "year": "Joseon dynasty, 19th century",
+    "order": 18000000,
+    "century": "19th century",
+    "movement": "Korean Painting",
+    "gloss": "Five peaks flank a red sun and white moon over rolling waves in this Joseon court screen, placed behind the king's throne as a cosmic emblem of royal authority. It appears on South Korea's 10,000-won note."
+  },
+  {
+    "slug": "the-court-of-gayumars",
+    "title": "The Court of Gayumars",
+    "wikipedia": [
+      "Sultan Mohammed"
+    ],
+    "artist": "Sultan Muhammad",
+    "artistKey": "sultan-muhammad",
+    "year": "c. 1522-1525",
+    "order": 15220000,
+    "century": "16th century",
+    "movement": "Persian and Mughal Miniature",
+    "gloss": "Sultan Muhammad's miniature for Shah Tahmasp's Shahnameh sets the first king's mountain court in a swirling, jewel-colored paradise of rocks and clouds. Widely held to be the finest Persian painting ever made.",
+    "imageFile": "The Court of Gayumars.jpg",
+    "skipWikidata": true
+  },
+  {
+    "slug": "jahangir-preferring-a-sufi-shaikh-to-kings",
+    "title": "Jahangir Preferring a Sufi Shaikh to Kings",
+    "wikipedia": [
+      "Jahangir Preferring a Sufi Shaikh to Kings"
+    ],
+    "artist": "Bichitr",
+    "artistKey": "bichitr",
+    "year": "c. 1615-1618",
+    "order": 16150000,
+    "century": "17th century",
+    "movement": "Persian and Mughal Miniature",
+    "gloss": "Bichitr's Mughal miniature seats Emperor Jahangir on an hourglass throne, handing a book to a Sufi saint while kings wait below, James I of England among them. Allegory as imperial propaganda."
+  }
+]

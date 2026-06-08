@@ -1,0 +1,1438 @@
+[
+  {
+    "slug": "santa-trinita-maesta",
+    "title": "Santa Trinita Maesta",
+    "wikipedia": [
+      "Santa Trinita Maestà",
+      "Santa Trinita Madonna"
+    ],
+    "artist": "Cimabue",
+    "artistKey": "cimabue",
+    "year": "c. 1290-1300",
+    "order": 12900000,
+    "century": "13th century and earlier",
+    "movement": "Medieval",
+    "gloss": "Cimabue's monumental altarpiece enthrones the Virgin among angels and prophets on a towering gold ground. Its Byzantine formality, softened by hints of real depth, made it a bridge to the naturalism of his pupil Giotto."
+  },
+  {
+    "slug": "annunciation-simone-martini",
+    "title": "Annunciation with St. Margaret and St. Ansanus",
+    "wikipedia": [
+      "Annunciation with St. Margaret and St. Ansanus",
+      "Annunciation (Simone Martini)"
+    ],
+    "artist": "Simone Martini",
+    "artistKey": "simone-martini",
+    "year": "1333",
+    "order": 13330000,
+    "century": "14th century",
+    "movement": "Medieval",
+    "gloss": "Simone Martini's gold-ground altarpiece for Siena Cathedral catches the Virgin recoiling from Gabriel's embossed greeting. Its swaying line and courtly elegance epitomize Sienese Gothic painting."
+  },
+  {
+    "slug": "ognissanti-madonna",
+    "title": "Ognissanti Madonna",
+    "wikipedia": [
+      "Ognissanti Madonna"
+    ],
+    "artist": "Giotto di Bondone",
+    "artistKey": "giotto-di-bondone",
+    "year": "c. 1310",
+    "order": 13100000,
+    "century": "14th century",
+    "movement": "Renaissance",
+    "gloss": "Giotto gives the enthroned Virgin real weight and a believable space, breaking with flat Byzantine convention. Painted for Florence's Ognissanti church, it marks a turning point toward naturalism in Western painting."
+  },
+  {
+    "slug": "portrait-of-a-man-in-a-red-turban",
+    "title": "Portrait of a Man in a Red Turban",
+    "wikipedia": [
+      "Portrait of a Man (van Eyck)",
+      "Portrait of a Man in a Red Turban"
+    ],
+    "artist": "Jan van Eyck",
+    "artistKey": "jan-van-eyck",
+    "year": "1433",
+    "order": 14330000,
+    "century": "15th century",
+    "movement": "Renaissance",
+    "gloss": "Van Eyck's man in a flamboyant red chaperon meets the viewer's gaze directly, most likely the painter himself. The frame's motto 'Als Ich Can' and minute oil detail make it a touchstone of early Netherlandish portraiture."
+  },
+  {
+    "slug": "the-battle-of-san-romano",
+    "title": "The Battle of San Romano",
+    "wikipedia": [
+      "The Battle of San Romano"
+    ],
+    "artist": "Paolo Uccello",
+    "artistKey": "paolo-uccello",
+    "year": "c. 1438-1440",
+    "order": 14380000,
+    "century": "15th century",
+    "movement": "Renaissance",
+    "gloss": "Uccello turns a Florentine cavalry clash into a pageant of perspective, with broken lances laid along the orthogonals. Its rocking-horse steeds and bold geometry show the early Renaissance obsession with constructed space."
+  },
+  {
+    "slug": "lamentation-over-the-dead-christ",
+    "title": "Lamentation over the Dead Christ",
+    "wikipedia": [
+      "Lamentation of Christ (Mantegna)",
+      "Lamentation over the Dead Christ"
+    ],
+    "artist": "Andrea Mantegna",
+    "artistKey": "andrea-mantegna",
+    "year": "c. 1480",
+    "order": 14800000,
+    "century": "15th century",
+    "movement": "Renaissance",
+    "gloss": "Mantegna foreshortens the dead Christ feet-first toward the viewer, compressing the body into a stark sculptural slab. Its radical perspective and gray pallor make it one of the most arresting images of the Renaissance."
+  },
+  {
+    "slug": "self-portrait-at-twenty-eight",
+    "title": "Self-Portrait at Twenty-Eight",
+    "wikipedia": [
+      "Self-Portrait (Dürer, Munich)",
+      "Self-Portrait at Twenty-Eight"
+    ],
+    "artist": "Albrecht Durer",
+    "artistKey": "albrecht-durer",
+    "year": "1500",
+    "order": 15000000,
+    "century": "16th century",
+    "movement": "Renaissance",
+    "gloss": "Durer faces the viewer frontally like an icon of Christ, fur-trimmed and long-haired, asserting the artist's God-given creative power. It is the boldest of his self-portraits and a landmark of Northern Renaissance self-fashioning."
+  },
+  {
+    "slug": "young-hare",
+    "title": "Young Hare",
+    "wikipedia": [
+      "Young Hare"
+    ],
+    "artist": "Albrecht Durer",
+    "artistKey": "albrecht-durer",
+    "year": "1502",
+    "order": 15020000,
+    "century": "16th century",
+    "movement": "Renaissance",
+    "gloss": "Durer's watercolor study renders a wild hare with astonishing fidelity, its fur built from thousands of layered strokes. A touchstone of Northern Renaissance naturalism and one of the most reproduced nature studies in art."
+  },
+  {
+    "slug": "portrait-of-doge-leonardo-loredan",
+    "title": "Portrait of Doge Leonardo Loredan",
+    "wikipedia": [
+      "Portrait of Doge Leonardo Loredan"
+    ],
+    "artist": "Giovanni Bellini",
+    "artistKey": "giovanni-bellini",
+    "year": "c. 1501-1502",
+    "order": 15020100,
+    "century": "16th century",
+    "movement": "Renaissance",
+    "gloss": "Bellini portrays Venice's doge in brocaded robes of state with the calm permanence of a marble bust, modeled in clear Venetian light. It set the standard for official portraiture in oil."
+  },
+  {
+    "slug": "portrait-of-henry-viii",
+    "title": "Portrait of Henry VIII",
+    "wikipedia": [
+      "Portrait of Henry VIII"
+    ],
+    "artist": "Hans Holbein the Younger",
+    "artistKey": "hans-holbein-the-younger",
+    "year": "c. 1537",
+    "order": 15370000,
+    "century": "16th century",
+    "movement": "Renaissance",
+    "gloss": "Holbein fixed the defining image of Henry VIII: broad-shouldered, frontal, and magnificently dressed. Copied across Tudor England after the original mural burned, it turned royal portraiture into an instrument of power.",
+    "imageFile": "Hans Holbein, the Younger, Around 1497-1543 - Portrait of Henry VIII of England - Google Art Project.jpg"
+  },
+  {
+    "slug": "madonna-with-the-long-neck",
+    "title": "Madonna with the Long Neck",
+    "wikipedia": [
+      "Madonna with the Long Neck"
+    ],
+    "artist": "Parmigianino",
+    "artistKey": "parmigianino",
+    "year": "c. 1535-1540",
+    "order": 15350000,
+    "century": "16th century",
+    "movement": "Mannerism",
+    "gloss": "Parmigianino elongates the Virgin's neck and fingers into elegant artifice, with a single unfinished column behind. Its refined distortion of natural proportion is the textbook example of Mannerist style."
+  },
+  {
+    "slug": "vertumnus",
+    "title": "Vertumnus",
+    "wikipedia": [
+      "Vertumnus (Arcimboldo)",
+      "Vertumnus (painting)"
+    ],
+    "artist": "Giuseppe Arcimboldo",
+    "artistKey": "giuseppe-arcimboldo",
+    "year": "c. 1590-1591",
+    "order": 15900000,
+    "century": "16th century",
+    "movement": "Mannerism",
+    "gloss": "Arcimboldo portrays Emperor Rudolf II as the Roman god of the seasons, his face composed entirely of fruits, flowers, and vegetables. The witty composite head is the most famous of his painted puzzles."
+  },
+  {
+    "slug": "view-of-toledo",
+    "title": "View of Toledo",
+    "wikipedia": [
+      "View of Toledo"
+    ],
+    "artist": "El Greco",
+    "artistKey": "el-greco",
+    "year": "c. 1599-1600",
+    "order": 16000000,
+    "century": "16th century",
+    "movement": "Mannerism",
+    "gloss": "El Greco rearranges Toledo beneath a churning green-black storm sky, trading topographic truth for spiritual drama. It stands among the first great expressive landscapes in Western art."
+  },
+  {
+    "slug": "conversion-on-the-way-to-damascus",
+    "title": "Conversion on the Way to Damascus",
+    "wikipedia": [
+      "Conversion on the Way to Damascus"
+    ],
+    "artist": "Caravaggio",
+    "artistKey": "caravaggio",
+    "year": "1601",
+    "order": 16010100,
+    "century": "17th century",
+    "movement": "Baroque",
+    "gloss": "Caravaggio throws Saul flat beneath his horse, arms flung open to a blinding light only he perceives. The radical close-up and deep tenebrism made this Cerasi Chapel canvas a manifesto of Baroque religious drama."
+  },
+  {
+    "slug": "david-with-the-head-of-goliath",
+    "title": "David with the Head of Goliath",
+    "wikipedia": [
+      "David with the Head of Goliath (Caravaggio, Rome)",
+      "David with the Head of Goliath (Caravaggio)"
+    ],
+    "artist": "Caravaggio",
+    "artistKey": "caravaggio",
+    "year": "c. 1610",
+    "order": 16100000,
+    "century": "17th century",
+    "movement": "Baroque",
+    "gloss": "Caravaggio's somber David holds out Goliath's severed head, which bears the fugitive painter's own features. Made near the end of his life, it reads as both a plea for pardon and a stark meditation on guilt."
+  },
+  {
+    "slug": "the-storm-on-the-sea-of-galilee",
+    "title": "The Storm on the Sea of Galilee",
+    "wikipedia": [
+      "The Storm on the Sea of Galilee"
+    ],
+    "artist": "Rembrandt van Rijn",
+    "artistKey": "rembrandt-van-rijn",
+    "year": "1633",
+    "order": 16330000,
+    "century": "17th century",
+    "movement": "Baroque",
+    "gloss": "Rembrandt's only seascape pitches Christ and the panicking disciples on a cresting wave of light. Stolen from Boston's Gardner Museum in 1990, it remains the most famous missing painting in the world."
+  },
+  {
+    "slug": "belshazzar-s-feast",
+    "title": "Belshazzar's Feast",
+    "wikipedia": [
+      "Belshazzar's Feast (Rembrandt)"
+    ],
+    "artist": "Rembrandt van Rijn",
+    "artistKey": "rembrandt-van-rijn",
+    "year": "c. 1635-1638",
+    "order": 16380000,
+    "century": "17th century",
+    "movement": "Baroque",
+    "gloss": "Rembrandt freezes the instant divine writing blazes across the wall as Belshazzar twists in terror and wine spills from golden vessels. A bravura Baroque display of light, brocade, and theatrical shock."
+  },
+  {
+    "slug": "magdalene-with-the-smoking-flame",
+    "title": "Magdalene with the Smoking Flame",
+    "wikipedia": [
+      "Magdalene with the Smoking Flame"
+    ],
+    "artist": "Georges de La Tour",
+    "artistKey": "georges-de-la-tour",
+    "year": "c. 1640",
+    "order": 16400000,
+    "century": "17th century",
+    "movement": "Baroque",
+    "gloss": "La Tour's Magdalene meditates by a single oil lamp, a skull on her lap, in near-total darkness. His serene candlelit geometry gives Baroque tenebrism a stillness closer to silence than drama."
+  },
+  {
+    "slug": "portrait-of-innocent-x",
+    "title": "Portrait of Innocent X",
+    "wikipedia": [
+      "Portrait of Innocent X"
+    ],
+    "artist": "Diego Velazquez",
+    "artistKey": "diego-velazquez",
+    "year": "c. 1650",
+    "order": 16500000,
+    "century": "17th century",
+    "movement": "Baroque",
+    "gloss": "Velazquez caught the pope so truthfully that Innocent X reportedly pronounced it 'too real.' Its crimson intensity later obsessed Francis Bacon, who painted dozens of screaming variations."
+  },
+  {
+    "slug": "the-goldfinch",
+    "title": "The Goldfinch",
+    "wikipedia": [
+      "The Goldfinch (painting)"
+    ],
+    "artist": "Carel Fabritius",
+    "artistKey": "carel-fabritius",
+    "year": "1654",
+    "order": 16540000,
+    "century": "17th century",
+    "movement": "Baroque",
+    "gloss": "Fabritius's small trompe-l'oeil panel shows a chained goldfinch on its feeder in plain daylight. Painted the year he died in the Delft gunpowder explosion, it links Rembrandt's studio to Vermeer's quiet luminosity."
+  },
+  {
+    "slug": "pierrot-gilles",
+    "title": "Pierrot (Gilles)",
+    "wikipedia": [
+      "Pierrot (Watteau)",
+      "Gilles (painting)"
+    ],
+    "artist": "Jean-Antoine Watteau",
+    "artistKey": "jean-antoine-watteau",
+    "year": "c. 1718-1719",
+    "order": 17190000,
+    "century": "18th century",
+    "movement": "Rococo",
+    "gloss": "Watteau's life-size sad clown stands isolated in white satin while fellow comedians mill below. Its melancholy beneath the theater costume made it an enduring emblem of the artist as outsider."
+  },
+  {
+    "slug": "a-young-girl-reading",
+    "title": "A Young Girl Reading",
+    "wikipedia": [
+      "A Young Girl Reading"
+    ],
+    "artist": "Jean-Honore Fragonard",
+    "artistKey": "jean-honore-fragonard",
+    "year": "c. 1770-1772",
+    "order": 17700000,
+    "century": "18th century",
+    "movement": "Rococo",
+    "gloss": "Fragonard's lemon-yellow profile of a girl absorbed in her little book is painted with dashing, creamy speed. A beloved Rococo image of private pleasure and effortless brushwork."
+  },
+  {
+    "slug": "self-portrait-in-a-straw-hat",
+    "title": "Self-Portrait in a Straw Hat",
+    "wikipedia": [
+      "Self-Portrait in a Straw Hat"
+    ],
+    "artist": "Elisabeth Vigee Le Brun",
+    "artistKey": "elisabeth-vigee-le-brun",
+    "year": "1782",
+    "order": 17820000,
+    "century": "18th century",
+    "movement": "Rococo",
+    "gloss": "Vigee Le Brun presents herself fresh-faced and confident, palette in hand, in open homage to Rubens. The portrait advertised the skill that made her Marie Antoinette's favorite painter."
+  },
+  {
+    "slug": "the-death-of-general-wolfe",
+    "title": "The Death of General Wolfe",
+    "wikipedia": [
+      "The Death of General Wolfe"
+    ],
+    "artist": "Benjamin West",
+    "artistKey": "benjamin-west",
+    "year": "1770",
+    "order": 17700001,
+    "century": "18th century",
+    "movement": "Neoclassicism",
+    "gloss": "West painted a modern British general dying at Quebec in contemporary uniform but with the pathos of a Lamentation. It scandalized academic convention and redefined history painting around current events."
+  },
+  {
+    "slug": "watson-and-the-shark",
+    "title": "Watson and the Shark",
+    "wikipedia": [
+      "Watson and the Shark"
+    ],
+    "artist": "John Singleton Copley",
+    "artistKey": "john-singleton-copley",
+    "year": "1778",
+    "order": 17780000,
+    "century": "18th century",
+    "movement": "Neoclassicism",
+    "gloss": "Copley dramatizes a real shark attack on a young sailor in Havana harbor as rescuers lunge from a rowboat. Its news-story subject and theatrical horror anticipated Romantic disaster painting."
+  },
+  {
+    "slug": "napoleon-i-on-his-imperial-throne",
+    "title": "Napoleon I on His Imperial Throne",
+    "wikipedia": [
+      "Napoleon I on His Imperial Throne"
+    ],
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "artistKey": "jean-auguste-dominique-ingres",
+    "year": "1806",
+    "order": 18060000,
+    "century": "19th century",
+    "movement": "Neoclassicism",
+    "gloss": "Ingres enthrones Napoleon frontally with scepter and golden laurel, half Jupiter, half Carolingian icon. Its hieratic precision unsettled critics but became a defining image of imperial absolutism."
+  },
+  {
+    "slug": "portrait-of-monsieur-bertin",
+    "title": "Portrait of Monsieur Bertin",
+    "wikipedia": [
+      "Portrait of Monsieur Bertin"
+    ],
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "artistKey": "jean-auguste-dominique-ingres",
+    "year": "1832",
+    "order": 18320000,
+    "century": "19th century",
+    "movement": "Neoclassicism",
+    "gloss": "Ingres's press magnate leans forward with hands clamped on his knees, embodying the confident bourgeoisie of the July Monarchy. Its unsparing realism within flawless drawing made it a landmark of portraiture."
+  },
+  {
+    "slug": "the-ancient-of-days",
+    "title": "The Ancient of Days",
+    "wikipedia": [
+      "The Ancient of Days"
+    ],
+    "artist": "William Blake",
+    "artistKey": "william-blake",
+    "year": "1794",
+    "order": 17940000,
+    "century": "18th century",
+    "movement": "Romanticism",
+    "gloss": "Blake's crouching deity Urizen reaches down from a fiery disc with golden compasses to circumscribe creation. The visionary frontispiece to 'Europe a Prophecy' became his most iconic single image."
+  },
+  {
+    "slug": "the-abbey-in-the-oakwood",
+    "title": "The Abbey in the Oakwood",
+    "wikipedia": [
+      "The Abbey in the Oakwood"
+    ],
+    "artist": "Caspar David Friedrich",
+    "artistKey": "caspar-david-friedrich",
+    "year": "1809-1810",
+    "order": 18100000,
+    "century": "19th century",
+    "movement": "Romanticism",
+    "gloss": "Monks bear a coffin through the ruined choir of a Gothic abbey among bare oaks in winter twilight. Friedrich's funereal landscape fuses German Romantic piety, death, and the sublime."
+  },
+  {
+    "slug": "the-sea-of-ice",
+    "title": "The Sea of Ice",
+    "wikipedia": [
+      "The Sea of Ice"
+    ],
+    "artist": "Caspar David Friedrich",
+    "artistKey": "caspar-david-friedrich",
+    "year": "1823-1824",
+    "order": 18240000,
+    "century": "19th century",
+    "movement": "Romanticism",
+    "gloss": "Friedrich stacks shattered ice slabs into a jagged pyramid that crushes a barely visible shipwreck. The Arctic disaster scene is Romanticism's bleakest statement of nature's indifference to human ambition."
+  },
+  {
+    "slug": "the-dog",
+    "title": "The Dog",
+    "wikipedia": [
+      "The Dog (Goya)"
+    ],
+    "artist": "Francisco Goya",
+    "artistKey": "francisco-goya",
+    "year": "c. 1819-1823",
+    "order": 18230000,
+    "century": "19th century",
+    "movement": "Romanticism",
+    "gloss": "A dog's head peers over a dark slope into a vast empty field of ochre, one of the Black Paintings Goya made on the walls of his house. Its desolate near-abstraction has haunted painters ever since.",
+    "imageFile": "Perro semihundido.jpg"
+  },
+  {
+    "slug": "the-death-of-sardanapalus",
+    "title": "The Death of Sardanapalus",
+    "wikipedia": [
+      "The Death of Sardanapalus"
+    ],
+    "artist": "Eugene Delacroix",
+    "artistKey": "eugene-delacroix",
+    "year": "1827",
+    "order": 18270000,
+    "century": "19th century",
+    "movement": "Romanticism",
+    "gloss": "Delacroix's Assyrian king watches impassively from his bed as his concubines, horses, and treasure are destroyed around him. Inspired by Byron, its swirling crimson violence is Romanticism at full pitch."
+  },
+  {
+    "slug": "rain-steam-and-speed",
+    "title": "Rain, Steam and Speed - The Great Western Railway",
+    "wikipedia": [
+      "Rain, Steam and Speed – The Great Western Railway"
+    ],
+    "artist": "J. M. W. Turner",
+    "artistKey": "j-m-w-turner",
+    "year": "1844",
+    "order": 18440000,
+    "century": "19th century",
+    "movement": "Romanticism",
+    "gloss": "Turner dissolves a Great Western locomotive crossing Maidenhead bridge into driving rain and golden haze, a hare racing ahead of it. Modern speed swallowed whole into Romantic atmosphere."
+  },
+  {
+    "slug": "the-heart-of-the-andes",
+    "title": "The Heart of the Andes",
+    "wikipedia": [
+      "The Heart of the Andes"
+    ],
+    "artist": "Frederic Edwin Church",
+    "artistKey": "frederic-edwin-church",
+    "year": "1859",
+    "order": 18590000,
+    "century": "19th century",
+    "movement": "Romanticism",
+    "gloss": "Church's ten-foot panorama compresses Ecuador's ecology from snowcap to jungle into one luminous view. Exhibited as a single-painting spectacle with opera glasses, it crowned Hudson River School ambition."
+  },
+  {
+    "slug": "the-sower",
+    "title": "The Sower",
+    "wikipedia": [
+      "The Sower (Millet)",
+      "The Sower (painting)"
+    ],
+    "artist": "Jean-Francois Millet",
+    "artistKey": "jean-francois-millet",
+    "year": "1850",
+    "order": 18500000,
+    "century": "19th century",
+    "movement": "Realism",
+    "gloss": "Millet monumentalizes a peasant striding down a darkening hillside, flinging seed with a fixed rhythm. Its heroic treatment of field labor unsettled Salon audiences and deeply influenced Van Gogh."
+  },
+  {
+    "slug": "the-third-class-carriage",
+    "title": "The Third-Class Carriage",
+    "wikipedia": [
+      "The Third-Class Carriage"
+    ],
+    "artist": "Honore Daumier",
+    "artistKey": "honore-daumier",
+    "year": "c. 1862-1864",
+    "order": 18620000,
+    "century": "19th century",
+    "movement": "Realism",
+    "gloss": "Daumier crowds a weary grandmother, a nursing mother, and a sleeping boy into the cheap seats of a railway car. His broad, graphic handling gives modern urban poverty a quiet monumental dignity."
+  },
+  {
+    "slug": "the-apotheosis-of-war",
+    "title": "The Apotheosis of War",
+    "wikipedia": [
+      "The Apotheosis of War"
+    ],
+    "artist": "Vasily Vereshchagin",
+    "artistKey": "vasily-vereshchagin",
+    "year": "1871",
+    "order": 18710000,
+    "century": "19th century",
+    "movement": "Realism",
+    "gloss": "A pyramid of skulls under circling crows on a ruined steppe, dedicated 'to all great conquerors, past, present and to come.' Vereshchagin distilled his battlefield reportage into one antiwar emblem."
+  },
+  {
+    "slug": "madame-x",
+    "title": "Madame X",
+    "wikipedia": [
+      "Portrait of Madame X",
+      "Madame X (Sargent painting)"
+    ],
+    "artist": "John Singer Sargent",
+    "artistKey": "john-singer-sargent",
+    "year": "1883-1884",
+    "order": 18840000,
+    "century": "19th century",
+    "movement": "Realism",
+    "gloss": "Sargent's portrait of Virginie Gautreau in a plunging black gown, with haughty profile and lavender-pale skin, scandalized the 1884 Salon and drove him to London. He later called it the best thing he had done."
+  },
+  {
+    "slug": "morning-in-a-pine-forest",
+    "title": "Morning in a Pine Forest",
+    "wikipedia": [
+      "Morning in a Pine Forest"
+    ],
+    "artist": "Ivan Shishkin and Konstantin Savitsky",
+    "artistKey": "ivan-shishkin-and-konstantin-savitsky",
+    "year": "1889",
+    "order": 18890000,
+    "century": "19th century",
+    "movement": "Realism",
+    "gloss": "Shishkin painted the mist-filled pines and dawn light; Savitsky added the four playing bear cubs. Endlessly reproduced, famously on Russian candy wrappers, it is Russia's most familiar forest landscape."
+  },
+  {
+    "slug": "the-gulf-stream",
+    "title": "The Gulf Stream",
+    "wikipedia": [
+      "The Gulf Stream (painting)"
+    ],
+    "artist": "Winslow Homer",
+    "artistKey": "winslow-homer",
+    "year": "1899",
+    "order": 18990000,
+    "century": "19th century",
+    "movement": "Realism",
+    "gloss": "Homer strands a lone Black sailor on a dismasted sloop circled by sharks, a waterspout looming behind. Painted after his Bahamas voyages, it is his starkest image of man against the sea."
+  },
+  {
+    "slug": "automat",
+    "title": "Automat",
+    "wikipedia": [
+      "Automat (painting)"
+    ],
+    "artist": "Edward Hopper",
+    "artistKey": "edward-hopper",
+    "year": "1927",
+    "order": 19270000,
+    "century": "20th century",
+    "movement": "Realism",
+    "gloss": "A lone woman in a cloche hat stares into her coffee cup in a late-night automat, the black window behind reflecting only two rows of receding lights. Hopper's quintessential image of urban solitude."
+  },
+  {
+    "slug": "beata-beatrix",
+    "title": "Beata Beatrix",
+    "wikipedia": [
+      "Beata Beatrix"
+    ],
+    "artist": "Dante Gabriel Rossetti",
+    "artistKey": "dante-gabriel-rossetti",
+    "year": "c. 1864-1870",
+    "order": 18700000,
+    "century": "19th century",
+    "movement": "Pre-Raphaelite",
+    "gloss": "Rossetti paints Dante's Beatrice in ecstatic trance as a red dove delivers a poppy, an elegy for his wife Elizabeth Siddal, who died of laudanum. A defining Pre-Raphaelite image of love and loss."
+  },
+  {
+    "slug": "the-light-of-the-world",
+    "title": "The Light of the World",
+    "wikipedia": [
+      "The Light of the World (Hunt)"
+    ],
+    "artist": "William Holman Hunt",
+    "artistKey": "william-holman-hunt",
+    "year": "1851-1853",
+    "order": 18530000,
+    "century": "19th century",
+    "movement": "Pre-Raphaelite",
+    "gloss": "Hunt's lantern-bearing Christ knocks at a long-shut, weed-choked door that has no outer handle: the soul must open from within. World tours and engravings made it the most famous devotional image of its age."
+  },
+  {
+    "slug": "king-cophetua-and-the-beggar-maid",
+    "title": "King Cophetua and the Beggar Maid",
+    "wikipedia": [
+      "King Cophetua and the Beggar Maid (Burne-Jones)",
+      "King Cophetua and the Beggar Maid (painting)"
+    ],
+    "artist": "Edward Burne-Jones",
+    "artistKey": "edward-burne-jones",
+    "year": "1884",
+    "order": 18840001,
+    "century": "19th century",
+    "movement": "Pre-Raphaelite",
+    "gloss": "Burne-Jones's armored king sits at the feet of the beggar maid he will marry, in a jewel-toned vertical dream of brass and dusk. Its medieval romance and languid idealism crown late Pre-Raphaelite art."
+  },
+  {
+    "slug": "the-magpie",
+    "title": "The Magpie",
+    "wikipedia": [
+      "The Magpie (Monet)"
+    ],
+    "artist": "Claude Monet",
+    "artistKey": "claude-monet",
+    "year": "1868-1869",
+    "order": 18690000,
+    "century": "19th century",
+    "movement": "Impressionism",
+    "gloss": "A lone magpie perches on a wattle gate in fresh snow that casts blue shadows. Monet's luminous winter scene, rejected by the Salon, is now one of the most loved snowscapes in art."
+  },
+  {
+    "slug": "the-floor-scrapers",
+    "title": "The Floor Scrapers",
+    "wikipedia": [
+      "Les raboteurs de parquet",
+      "The Floor Scrapers"
+    ],
+    "artist": "Gustave Caillebotte",
+    "artistKey": "gustave-caillebotte",
+    "year": "1875",
+    "order": 18750000,
+    "century": "19th century",
+    "movement": "Impressionism",
+    "gloss": "Three bare-backed workers plane a Parisian parquet floor in raking window light. Rejected by the Salon as 'vulgar,' Caillebotte's urban laborers became an Impressionist landmark of modern subject matter."
+  },
+  {
+    "slug": "l-absinthe",
+    "title": "L'Absinthe",
+    "wikipedia": [
+      "L'Absinthe"
+    ],
+    "artist": "Edgar Degas",
+    "artistKey": "edgar-degas",
+    "year": "1875-1876",
+    "order": 18760000,
+    "century": "19th century",
+    "movement": "Impressionism",
+    "gloss": "A glazed-eyed woman sits before her absinthe glass beside a rumpled companion in a cafe, cropped off-center as if glimpsed in passing. Degas's clinical slice of modern life scandalized Victorian London."
+  },
+  {
+    "slug": "the-gare-saint-lazare",
+    "title": "The Gare Saint-Lazare",
+    "wikipedia": [
+      "Gare Saint-Lazare (Monet series)",
+      "La Gare Saint-Lazare"
+    ],
+    "artist": "Claude Monet",
+    "artistKey": "claude-monet",
+    "year": "1877",
+    "order": 18770100,
+    "century": "19th century",
+    "movement": "Impressionism",
+    "gloss": "Monet set his easel inside Paris's busiest rail terminus to paint locomotives dissolving into steam beneath the glass shed. The series made industrial modernity a fit subject for Impressionism."
+  },
+  {
+    "slug": "summer-s-day",
+    "title": "Summer's Day",
+    "wikipedia": [
+      "Summer's Day",
+      "Summer's Day (Morisot)"
+    ],
+    "artist": "Berthe Morisot",
+    "artistKey": "berthe-morisot",
+    "year": "1879",
+    "order": 18790000,
+    "century": "19th century",
+    "movement": "Impressionism",
+    "gloss": "Two fashionable women drift in a rowboat on the Bois de Boulogne lake, rendered in Morisot's flickering zigzag strokes. A quintessential Impressionist study of leisure, light, and water."
+  },
+  {
+    "slug": "the-umbrellas",
+    "title": "The Umbrellas",
+    "wikipedia": [
+      "The Umbrellas (Renoir painting)",
+      "The Umbrellas (Renoir)"
+    ],
+    "artist": "Pierre-Auguste Renoir",
+    "artistKey": "pierre-auguste-renoir",
+    "year": "c. 1881-1886",
+    "order": 18860000,
+    "century": "19th century",
+    "movement": "Impressionism",
+    "gloss": "Renoir began this crowded Parisian street of bobbing umbrellas in feathery Impressionist style and finished it years later in crisp, Ingres-inspired drawing; the change of manner is visible across one canvas."
+  },
+  {
+    "slug": "tiger-in-a-tropical-storm",
+    "title": "Tiger in a Tropical Storm (Surprised!)",
+    "wikipedia": [
+      "Tiger in a Tropical Storm"
+    ],
+    "artist": "Henri Rousseau",
+    "artistKey": "henri-rousseau",
+    "year": "1891",
+    "order": 18910000,
+    "century": "19th century",
+    "movement": "Post-Impressionism",
+    "gloss": "Rousseau's first jungle picture: a wide-eyed tiger crouches through wind-whipped, rain-slashed foliage. Mocked at the Salon des Independants, its stylized vegetation became his signature world."
+  },
+  {
+    "slug": "moulin-rouge-la-goulue",
+    "title": "Moulin Rouge: La Goulue",
+    "wikipedia": [
+      "Moulin Rouge: La Goulue"
+    ],
+    "artist": "Henri de Toulouse-Lautrec",
+    "artistKey": "henri-de-toulouse-lautrec",
+    "year": "1891",
+    "order": 18910100,
+    "century": "19th century",
+    "movement": "Post-Impressionism",
+    "gloss": "Lautrec's first poster: the dancer La Goulue kicks through the cancan between a silhouetted crowd and her lanky partner Valentin. Its flat shapes and bold cropping made the street poster modern art."
+  },
+  {
+    "slug": "when-will-you-marry",
+    "title": "When Will You Marry?",
+    "wikipedia": [
+      "When Will You Marry?"
+    ],
+    "artist": "Paul Gauguin",
+    "artistKey": "paul-gauguin",
+    "year": "1892",
+    "order": 18920000,
+    "century": "19th century",
+    "movement": "Post-Impressionism",
+    "gloss": "Two Tahitian women crouch among flat planes of green, yellow, and orange, one wearing a white marriage flower. In 2015 it made headlines as one of the most expensive paintings ever sold."
+  },
+  {
+    "slug": "starry-night-over-the-rhone",
+    "title": "Starry Night Over the Rhone",
+    "wikipedia": [
+      "Starry Night Over the Rhône"
+    ],
+    "artist": "Vincent van Gogh",
+    "artistKey": "vincent-van-gogh",
+    "year": "1888",
+    "order": 18880920,
+    "century": "19th century",
+    "movement": "Post-Impressionism",
+    "gloss": "Van Gogh painted Arles's gaslit quay at night from the riverbank itself, the Great Bear overhead and lamplight streaking gold across the water. The calmer nocturne that preceded The Starry Night."
+  },
+  {
+    "slug": "the-night-cafe",
+    "title": "The Night Cafe",
+    "wikipedia": [
+      "The Night Café"
+    ],
+    "artist": "Vincent van Gogh",
+    "artistKey": "vincent-van-gogh",
+    "year": "1888",
+    "order": 18880905,
+    "century": "19th century",
+    "movement": "Post-Impressionism",
+    "gloss": "Van Gogh's all-night Arles cafe glows in clashing blood-red and green under sulfurous lamps. He said he tried to show a place where one could 'ruin oneself, go mad, or commit a crime.'"
+  },
+  {
+    "slug": "the-large-bathers",
+    "title": "The Large Bathers",
+    "wikipedia": [
+      "The Bathers (Cézanne)",
+      "The Large Bathers"
+    ],
+    "artist": "Paul Cezanne",
+    "artistKey": "paul-cezanne",
+    "year": "1898-1905",
+    "order": 19050000,
+    "century": "19th century",
+    "movement": "Post-Impressionism",
+    "gloss": "Cezanne's largest canvas locks nude bathers and arching trees into one architectural triangle. Left unresolved after seven years of work, its constructed forms opened the road to Matisse and Cubism."
+  },
+  {
+    "slug": "the-dream-rousseau",
+    "title": "The Dream",
+    "wikipedia": [
+      "The Dream (Rousseau painting)",
+      "The Dream (Henri Rousseau)"
+    ],
+    "artist": "Henri Rousseau",
+    "artistKey": "henri-rousseau",
+    "year": "1910",
+    "order": 19100000,
+    "century": "20th century",
+    "movement": "Post-Impressionism",
+    "gloss": "A nude reclines on a velvet sofa improbably set in moonlit jungle thick with lions, lotuses, and a snake charmer's music. Rousseau's last great painting crowned his self-taught visionary style."
+  },
+  {
+    "slug": "isle-of-the-dead",
+    "title": "Isle of the Dead",
+    "wikipedia": [
+      "Isle of the Dead (painting)"
+    ],
+    "artist": "Arnold Bocklin",
+    "artistKey": "arnold-bocklin",
+    "year": "1880",
+    "order": 18800000,
+    "century": "19th century",
+    "movement": "Symbolism",
+    "gloss": "A shrouded figure is rowed toward a cypress-filled rock island under a darkening sky. Bocklin's funereal vision, painted in five versions, hung in countless homes and obsessed Freud, Dali, and Rachmaninoff."
+  },
+  {
+    "slug": "hope",
+    "title": "Hope",
+    "wikipedia": [
+      "Hope (Watts)",
+      "Hope (painting)"
+    ],
+    "artist": "George Frederic Watts",
+    "artistKey": "george-frederic-watts",
+    "year": "1886",
+    "order": 18860001,
+    "century": "19th century",
+    "movement": "Symbolism",
+    "gloss": "Watts's blindfolded Hope sits atop the globe, straining to hear the one unbroken string of her lyre. The Symbolist allegory inspired sermons and, through one of them, Barack Obama's 'Audacity of Hope.'"
+  },
+  {
+    "slug": "death-and-life",
+    "title": "Death and Life",
+    "wikipedia": [
+      "Death and Life"
+    ],
+    "artist": "Gustav Klimt",
+    "artistKey": "gustav-klimt",
+    "year": "1910-1915",
+    "order": 19100001,
+    "century": "20th century",
+    "movement": "Symbolism",
+    "gloss": "Klimt sets a grinning skeleton in patterned robes against a tower of sleeping humanity wrapped in flowered quilts. The allegory won first prize at the 1911 International Art Exhibition in Rome."
+  },
+  {
+    "slug": "the-cyclops",
+    "title": "The Cyclops",
+    "wikipedia": [
+      "The Cyclops (Redon)"
+    ],
+    "artist": "Odilon Redon",
+    "artistKey": "odilon-redon",
+    "year": "c. 1914",
+    "order": 19140000,
+    "century": "20th century",
+    "movement": "Symbolism",
+    "gloss": "Redon's gentle one-eyed Polyphemus peers shyly over a flowering hillside at the sleeping nymph Galatea. Painted in his late color period, it turns a monster myth into a tender Symbolist dreamscape."
+  },
+  {
+    "slug": "the-sick-child",
+    "title": "The Sick Child",
+    "wikipedia": [
+      "The Sick Child (Munch)"
+    ],
+    "artist": "Edvard Munch",
+    "artistKey": "edvard-munch",
+    "year": "1885-1886",
+    "order": 18860002,
+    "century": "19th century",
+    "movement": "Expressionism",
+    "gloss": "Munch's dying sister Sophie rests against a pillow as her grieving aunt bows beside her, the paint scraped and scarred. He called it his breakthrough, the seed of his lifelong art of memory and loss."
+  },
+  {
+    "slug": "blue-horse-i",
+    "title": "Blue Horse I",
+    "wikipedia": [
+      "Blue Horse I"
+    ],
+    "artist": "Franz Marc",
+    "artistKey": "franz-marc",
+    "year": "1911",
+    "order": 19110000,
+    "century": "20th century",
+    "movement": "Expressionism",
+    "gloss": "Marc's young blue horse bows its head against rolling rainbow hills. For Der Blaue Reiter, blue stood for the spiritual; the painting remains German Expressionism's gentlest icon."
+  },
+  {
+    "slug": "fate-of-the-animals",
+    "title": "Fate of the Animals",
+    "wikipedia": [
+      "Fate of the Animals"
+    ],
+    "artist": "Franz Marc",
+    "artistKey": "franz-marc",
+    "year": "1913",
+    "order": 19130000,
+    "century": "20th century",
+    "movement": "Expressionism",
+    "gloss": "Marc's forest splinters into red shards as deer and horses twist beneath falling trees; he inscribed it 'all being is flaming agony.' Painted on the eve of World War I, in which he died at Verdun."
+  },
+  {
+    "slug": "self-portrait-with-physalis",
+    "title": "Self-Portrait with Physalis",
+    "wikipedia": [
+      "Egon Schiele"
+    ],
+    "artist": "Egon Schiele",
+    "artistKey": "egon-schiele",
+    "year": "1912",
+    "order": 19120000,
+    "century": "20th century",
+    "movement": "Expressionism",
+    "gloss": "Schiele tilts his cropped head against sprigs of orange lantern fruit, his gaze at once defiant and wary. Its taut line and jagged self-scrutiny distill Viennese Expressionist portraiture.",
+    "imageFile": "Egon Schiele - Self-Portrait with Physalis - Google Art Project.jpg",
+    "skipWikidata": true
+  },
+  {
+    "slug": "the-night-beckmann",
+    "title": "The Night",
+    "wikipedia": [
+      "The Night (Beckmann)",
+      "The Night (Max Beckmann)"
+    ],
+    "artist": "Max Beckmann",
+    "artistKey": "max-beckmann",
+    "year": "1918-1919",
+    "order": 19190000,
+    "century": "20th century",
+    "movement": "Expressionism",
+    "gloss": "Intruders torture a family in a cramped attic in Beckmann's nightmarish allegory of postwar Germany. Its compressed space and cold brutality mark Expressionism's turn toward the New Objectivity."
+  },
+  {
+    "slug": "violin-and-candlestick",
+    "title": "Violin and Candlestick",
+    "wikipedia": [
+      "Georges Braque"
+    ],
+    "artist": "Georges Braque",
+    "artistKey": "georges-braque",
+    "year": "1910",
+    "order": 19100002,
+    "century": "20th century",
+    "movement": "Cubism",
+    "gloss": "Braque shatters a violin and candlestick into shifting brown-gray facets seen from every angle at once. A textbook image of Analytic Cubism, painted in close daily dialogue with Picasso.",
+    "imageFile": "Violin and Candlestick.jpg",
+    "skipWikidata": true
+  },
+  {
+    "slug": "nude-descending-a-staircase-no-2",
+    "title": "Nude Descending a Staircase, No. 2",
+    "wikipedia": [
+      "Nude Descending a Staircase, No. 2"
+    ],
+    "artist": "Marcel Duchamp",
+    "artistKey": "marcel-duchamp",
+    "year": "1912",
+    "order": 19120001,
+    "century": "20th century",
+    "movement": "Cubism",
+    "gloss": "Duchamp fractures a figure into staccato machine-like planes caught mid-descent. Rejected by the Cubists and mocked at the 1913 Armory Show as 'an explosion in a shingle factory,' it made him famous."
+  },
+  {
+    "slug": "portrait-of-picasso",
+    "title": "Portrait of Picasso",
+    "wikipedia": [
+      "Juan Gris"
+    ],
+    "artist": "Juan Gris",
+    "artistKey": "juan-gris",
+    "year": "1912",
+    "order": 19120002,
+    "century": "20th century",
+    "movement": "Cubism",
+    "gloss": "Gris renders his Bateau-Lavoir neighbor in crystalline blue facets, palette in hand: homage from Cubism's so-called third musketeer. Its ordered geometry announces his cooler, more systematic Cubism.",
+    "imageFile": "Juan Gris - Portrait of Pablo Picasso - Google Art Project.jpg",
+    "skipWikidata": true
+  },
+  {
+    "slug": "the-city-leger",
+    "title": "The City",
+    "wikipedia": [
+      "The City (Léger)"
+    ],
+    "artist": "Fernand Leger",
+    "artistKey": "fernand-leger",
+    "year": "1919",
+    "order": 19190001,
+    "century": "20th century",
+    "movement": "Cubism",
+    "gloss": "Leger assembles billboards, scaffolding, stenciled letters, and robotic figures into a jazzy urban machine. His tubular Cubism celebrates the modern metropolis instead of dissecting still lifes."
+  },
+  {
+    "slug": "three-musicians",
+    "title": "Three Musicians",
+    "wikipedia": [
+      "Three Musicians (Picasso)"
+    ],
+    "artist": "Pablo Picasso",
+    "artistKey": "pablo-picasso",
+    "year": "1921",
+    "order": 19210000,
+    "century": "20th century",
+    "movement": "Cubism",
+    "gloss": "Picasso's masked Pierrot, Harlequin, and monk play music in flat interlocking planes like cut paper. The jaunty trio is the grand summation of Synthetic Cubism."
+  },
+  {
+    "slug": "street-light",
+    "title": "Street Light",
+    "wikipedia": [
+      "Street Light (painting)"
+    ],
+    "artist": "Giacomo Balla",
+    "artistKey": "giacomo-balla",
+    "year": "c. 1909-1911",
+    "order": 19110001,
+    "century": "20th century",
+    "movement": "Futurism",
+    "gloss": "Balla's electric streetlamp radiates chevrons of colored light that outshine the crescent moon beside it. A Futurist manifesto in paint: modern technology triumphant over romantic nature."
+  },
+  {
+    "slug": "the-funeral-of-the-anarchist-galli",
+    "title": "The Funeral of the Anarchist Galli",
+    "wikipedia": [
+      "The Funeral of the Anarchist Galli"
+    ],
+    "artist": "Carlo Carra",
+    "artistKey": "carlo-carra",
+    "year": "1910-1911",
+    "order": 19110002,
+    "century": "20th century",
+    "movement": "Futurism",
+    "gloss": "Carra recalls a riot he witnessed at an anarchist's funeral as a whirl of black figures, lances, and red banners under slashing light. Futurist dynamism applied to political violence."
+  },
+  {
+    "slug": "the-old-guitarist",
+    "title": "The Old Guitarist",
+    "wikipedia": [
+      "The Old Guitarist"
+    ],
+    "artist": "Pablo Picasso",
+    "artistKey": "pablo-picasso",
+    "year": "1903-1904",
+    "order": 19030000,
+    "century": "20th century",
+    "movement": "Modernism",
+    "gloss": "A gaunt blind musician folds around his guitar in near-monochrome blue. The masterpiece of Picasso's Blue Period, painted in poverty in Barcelona, with a ghostly earlier figure visible beneath the paint."
+  },
+  {
+    "slug": "the-ten-largest-no-7-adulthood",
+    "title": "The Ten Largest, No. 7, Adulthood",
+    "wikipedia": [
+      "Hilma af Klint"
+    ],
+    "artist": "Hilma af Klint",
+    "artistKey": "hilma-af-klint",
+    "year": "1907",
+    "order": 19070000,
+    "century": "20th century",
+    "movement": "Modernism",
+    "gloss": "One of af Klint's ten monumental canvases charting the stages of life in swirling botanical forms and looping script, painted years before Kandinsky's abstraction and kept hidden for decades at her wish.",
+    "imageFile": "Hilma af Klint - The Ten Largest No. 7 - Adulthood - 1907.jpg",
+    "skipWikidata": true
+  },
+  {
+    "slug": "reclining-nude-modigliani",
+    "title": "Reclining Nude",
+    "wikipedia": [
+      "Nu couché",
+      "Reclining Nude (Modigliani)"
+    ],
+    "artist": "Amedeo Modigliani",
+    "artistKey": "amedeo-modigliani",
+    "year": "1917",
+    "order": 19170000,
+    "century": "20th century",
+    "movement": "Modernism",
+    "gloss": "Modigliani's amber nude stretches across crimson velvet, her almond face serene. The 1917 nude series got his only solo show closed by Paris police; this canvas later sold for over $170 million."
+  },
+  {
+    "slug": "i-saw-the-figure-5-in-gold",
+    "title": "I Saw the Figure 5 in Gold",
+    "wikipedia": [
+      "I Saw the Figure 5 in Gold"
+    ],
+    "artist": "Charles Demuth",
+    "artistKey": "charles-demuth",
+    "year": "1928",
+    "order": 19280000,
+    "century": "20th century",
+    "movement": "Modernism",
+    "gloss": "Demuth's poster-portrait of poet William Carlos Williams recreates his poem: a gold 5 echoing through red fire-truck planes and city lights. A Precisionist landmark that anticipated Pop."
+  },
+  {
+    "slug": "cow-s-skull-red-white-and-blue",
+    "title": "Cow's Skull: Red, White, and Blue",
+    "wikipedia": [
+      "Cow's Skull: Red, White, and Blue"
+    ],
+    "artist": "Georgia O'Keeffe",
+    "artistKey": "georgia-okeeffe",
+    "year": "1931",
+    "order": 19310000,
+    "century": "20th century",
+    "movement": "Modernism",
+    "gloss": "O'Keeffe centers a bleached desert skull against a red, white, and blue band, half icon, half flag. Her wry answer to calls for the Great American Painting fused Southwest bones with national myth."
+  },
+  {
+    "slug": "man-at-the-crossroads",
+    "title": "Man at the Crossroads",
+    "wikipedia": [
+      "Man at the Crossroads"
+    ],
+    "artist": "Diego Rivera",
+    "artistKey": "diego-rivera",
+    "year": "1934",
+    "order": 19340000,
+    "century": "20th century",
+    "movement": "Modernism",
+    "gloss": "Rivera's Rockefeller Center mural was chiseled off the wall in 1934 after he refused to remove Lenin; he repainted it in Mexico City as Man, Controller of the Universe. The defining scandal of Depression-era mural art."
+  },
+  {
+    "slug": "broadway-boogie-woogie",
+    "title": "Broadway Boogie Woogie",
+    "wikipedia": [
+      "Broadway Boogie Woogie"
+    ],
+    "artist": "Piet Mondrian",
+    "artistKey": "piet-mondrian",
+    "year": "1942-1943",
+    "order": 19430000,
+    "century": "20th century",
+    "movement": "Modernism",
+    "gloss": "Mondrian's last completed painting pulses with small blocks of yellow, red, and blue along gridded avenues: Manhattan's lights set to boogie-woogie rhythm. His austere geometry learns to dance."
+  },
+  {
+    "slug": "the-song-of-love",
+    "title": "The Song of Love",
+    "wikipedia": [
+      "The Song of Love"
+    ],
+    "artist": "Giorgio de Chirico",
+    "artistKey": "giorgio-de-chirico",
+    "year": "1914",
+    "order": 19140001,
+    "century": "20th century",
+    "movement": "Surrealism",
+    "gloss": "A classical head, a surgeon's rubber glove, and a green ball meet on a melancholy arcaded square. De Chirico's Metaphysical juxtapositions moved Magritte to tears and seeded Surrealism."
+  },
+  {
+    "slug": "harlequin-s-carnival",
+    "title": "Harlequin's Carnival",
+    "wikipedia": [
+      "The Harlequin's Carnival"
+    ],
+    "artist": "Joan Miro",
+    "artistKey": "joan-miro",
+    "year": "1924-1925",
+    "order": 19250000,
+    "century": "20th century",
+    "movement": "Surrealism",
+    "gloss": "Miro fills a blue-walled room with cavorting biomorphic creatures, music, and a ladder of escape, painted, he said, from hunger-induced hallucinations. A founding image of Surrealist automatism."
+  },
+  {
+    "slug": "self-portrait-inn-of-the-dawn-horse",
+    "title": "Self-Portrait (Inn of the Dawn Horse)",
+    "wikipedia": [
+      "Self-Portrait (Leonora Carrington)",
+      "Self-Portrait (Inn of the Dawn Horse)"
+    ],
+    "artist": "Leonora Carrington",
+    "artistKey": "leonora-carrington",
+    "year": "c. 1937-1938",
+    "order": 19380000,
+    "century": "20th century",
+    "movement": "Surrealism",
+    "gloss": "Carrington perches wild-haired in a chair as a hyena mirrors her stance and a rocking horse gallops free outside the window. Her best-known canvas announces Surrealism's untamed feminine mythology."
+  },
+  {
+    "slug": "the-broken-column",
+    "title": "The Broken Column",
+    "wikipedia": [
+      "The Broken Column"
+    ],
+    "artist": "Frida Kahlo",
+    "artistKey": "frida-kahlo",
+    "year": "1944",
+    "order": 19440000,
+    "century": "20th century",
+    "movement": "Surrealism",
+    "gloss": "Kahlo splits her torso open to reveal a crumbling Ionic column in place of her spine, her flesh studded with nails. Painted after spinal surgery, it is her starkest image of pain endured."
+  },
+  {
+    "slug": "christ-of-saint-john-of-the-cross",
+    "title": "Christ of Saint John of the Cross",
+    "wikipedia": [
+      "Christ of Saint John of the Cross"
+    ],
+    "artist": "Salvador Dali",
+    "artistKey": "salvador-dali",
+    "year": "1951",
+    "order": 19510000,
+    "century": "20th century",
+    "movement": "Surrealism",
+    "gloss": "Dali suspends Christ on a cross seen steeply from above, floating over the bay of Port Lligat without nails or blood. Based on a Spanish mystic's drawing, it is his most popular religious work."
+  },
+  {
+    "slug": "the-son-of-man",
+    "title": "The Son of Man",
+    "wikipedia": [
+      "The Son of Man"
+    ],
+    "artist": "Rene Magritte",
+    "artistKey": "rene-magritte",
+    "year": "1964",
+    "order": 19640000,
+    "century": "20th century",
+    "movement": "Surrealism",
+    "gloss": "Magritte's bowler-hatted self-portrait, its face hidden behind a hovering green apple, plays on the visible that hides the visible. It became the universal shorthand for Surrealism."
+  },
+  {
+    "slug": "woman-iii",
+    "title": "Woman III",
+    "wikipedia": [
+      "Woman III"
+    ],
+    "artist": "Willem de Kooning",
+    "artistKey": "willem-de-kooning",
+    "year": "1953",
+    "order": 19530002,
+    "century": "20th century",
+    "movement": "Abstract Expressionism",
+    "gloss": "De Kooning's slashing, wide-eyed woman fuses figure and ground in aggressive strokes, one of six Women from 1951-1953. Quietly traded out of Tehran in 1994, it later sold for $137.5 million."
+  },
+  {
+    "slug": "vir-heroicus-sublimis",
+    "title": "Vir Heroicus Sublimis",
+    "wikipedia": [
+      "Vir Heroicus Sublimis",
+      "Vir heroicus sublimis"
+    ],
+    "artist": "Barnett Newman",
+    "artistKey": "barnett-newman",
+    "year": "1950-1951",
+    "order": 19510001,
+    "century": "20th century",
+    "movement": "Abstract Expressionism",
+    "gloss": "Newman's eighteen-foot field of cadmium red, divided by five thin vertical 'zips,' was meant to be seen from up close, engulfing the viewer. Its Latin title proposes man, heroic and sublime."
+  },
+  {
+    "slug": "mountains-and-sea",
+    "title": "Mountains and Sea",
+    "wikipedia": [
+      "Mountains and Sea"
+    ],
+    "artist": "Helen Frankenthaler",
+    "artistKey": "helen-frankenthaler",
+    "year": "1952",
+    "order": 19520000,
+    "century": "20th century",
+    "movement": "Abstract Expressionism",
+    "gloss": "Frankenthaler stained thinned paint directly into raw canvas, letting washes of blue, pink, and green bloom like watercolor. Painted at twenty-three, it launched Color Field painting."
+  },
+  {
+    "slug": "orange-red-yellow",
+    "title": "Orange, Red, Yellow",
+    "wikipedia": [
+      "Orange, Red, Yellow"
+    ],
+    "artist": "Mark Rothko",
+    "artistKey": "mark-rothko",
+    "year": "1961",
+    "order": 19610000,
+    "century": "20th century",
+    "movement": "Abstract Expressionism",
+    "gloss": "Three soft-edged rectangles of saturated orange, red, and yellow hover on a vermilion field. In 2012 it set the auction record for postwar art, emblematic of Rothko's color-field sublimity."
+  },
+  {
+    "slug": "elegy-to-the-spanish-republic-no-110",
+    "title": "Elegy to the Spanish Republic No. 110",
+    "wikipedia": [
+      "Robert Motherwell"
+    ],
+    "artist": "Robert Motherwell",
+    "artistKey": "robert-motherwell",
+    "year": "1971",
+    "order": 19710000,
+    "century": "20th century",
+    "movement": "Abstract Expressionism",
+    "gloss": "Black ovals and slab verticals march across a white field in Motherwell's recurring funeral chant for the Spanish Civil War. He painted more than one hundred Elegies; No. 110 hangs in the Guggenheim.",
+    "imageFile": "Robert Motherwell's 'Elegy to the Spanish Republic No. 110'.jpg",
+    "skipWikidata": true
+  },
+  {
+    "slug": "flag",
+    "title": "Flag",
+    "wikipedia": [
+      "Flag (painting)"
+    ],
+    "artist": "Jasper Johns",
+    "artistKey": "jasper-johns",
+    "year": "1954-1955",
+    "order": 19550000,
+    "century": "20th century",
+    "movement": "Pop Art",
+    "gloss": "Johns rebuilt the American flag in encaustic over collaged newsprint, making a painting that is also the thing it depicts. Its deadpan object-ness broke with Abstract Expressionism and fed Pop."
+  },
+  {
+    "slug": "drowning-girl",
+    "title": "Drowning Girl",
+    "wikipedia": [
+      "Drowning Girl"
+    ],
+    "artist": "Roy Lichtenstein",
+    "artistKey": "roy-lichtenstein",
+    "year": "1963",
+    "order": 19630100,
+    "century": "20th century",
+    "movement": "Pop Art",
+    "gloss": "Lifted from a romance comic panel, a tearful heroine in stylized waves declares she would 'rather sink than call Brad for help.' Benday dots and melodrama distilled into a Pop Art icon."
+  },
+  {
+    "slug": "just-what-is-it-that-makes-today-s-homes-so-different-so-appealing",
+    "title": "Just What Is It That Makes Today's Homes So Different, So Appealing?",
+    "wikipedia": [
+      "Just what is it that makes today's homes so different, so appealing?"
+    ],
+    "artist": "Richard Hamilton",
+    "artistKey": "richard-hamilton",
+    "year": "1956",
+    "order": 19560000,
+    "century": "20th century",
+    "movement": "Pop Art",
+    "gloss": "Hamilton furnishes a modern living room from magazine ads: a bodybuilder with a giant POP lollipop, a pin-up, a Ford logo, a tin of ham. Made for the 1956 show This Is Tomorrow, it is Pop Art's founding collage."
+  },
+  {
+    "slug": "portrait-of-an-artist-pool-with-two-figures",
+    "title": "Portrait of an Artist (Pool with Two Figures)",
+    "wikipedia": [
+      "Portrait of an Artist (Pool with Two Figures)"
+    ],
+    "artist": "David Hockney",
+    "artistKey": "david-hockney",
+    "year": "1972",
+    "order": 19720000,
+    "century": "20th century",
+    "movement": "Pop Art",
+    "gloss": "A clothed man gazes down at a swimmer gliding underwater in a sunlit pool against Provencal hills. In 2018 it briefly became the most expensive work by a living artist ever auctioned."
+  },
+  {
+    "slug": "study-after-velazquez-s-portrait-of-pope-innocent-x",
+    "title": "Study after Velazquez's Portrait of Pope Innocent X",
+    "wikipedia": [
+      "Study after Velázquez's Portrait of Pope Innocent X"
+    ],
+    "artist": "Francis Bacon",
+    "artistKey": "francis-bacon",
+    "year": "1953",
+    "order": 19530001,
+    "century": "20th century",
+    "movement": "Contemporary",
+    "gloss": "Bacon traps Velazquez's pope in a cage of vertical streaks, mouth torn open in a silent scream. The most famous of his roughly forty-five 'screaming popes.'",
+    "imageFile": "Study after Velazquez's Portrait of Pope Innocent X.jpg"
+  },
+  {
+    "slug": "untitled-skull",
+    "title": "Untitled (Skull)",
+    "wikipedia": [
+      "Untitled (1982 Basquiat skull painting)"
+    ],
+    "artist": "Jean-Michel Basquiat",
+    "artistKey": "jean-michel-basquiat",
+    "year": "1982",
+    "order": 19820100,
+    "century": "20th century",
+    "movement": "Contemporary",
+    "gloss": "A grinning blue-black skull-head crackles with graffiti energy over a subway-blue field. Painted at twenty-one, it sold for $110.5 million in 2017, then the auction record for any American artist."
+  },
+  {
+    "slug": "no-woman-no-cry",
+    "title": "No Woman, No Cry",
+    "wikipedia": [
+      "No Woman, No Cry (painting)",
+      "No Woman No Cry"
+    ],
+    "artist": "Chris Ofili",
+    "artistKey": "chris-ofili",
+    "year": "1998",
+    "order": 19980000,
+    "century": "20th century",
+    "movement": "Contemporary",
+    "gloss": "Ofili's weeping woman holds a tiny photograph of murdered teenager Stephen Lawrence in every tear, the canvas propped on varnished elephant dung. The Turner Prize winner's most moving meditation on grief."
+  },
+  {
+    "slug": "benefits-supervisor-sleeping",
+    "title": "Benefits Supervisor Sleeping",
+    "wikipedia": [
+      "Benefits Supervisor Sleeping"
+    ],
+    "artist": "Lucian Freud",
+    "artistKey": "lucian-freud",
+    "year": "1995",
+    "order": 19950000,
+    "century": "20th century",
+    "movement": "Contemporary",
+    "gloss": "Freud's monumental nude of Sue Tilley asleep on a battered sofa renders flesh in thick, unidealized impasto. In 2008 it set the auction record for a work by a living artist."
+  },
+  {
+    "slug": "girl-with-balloon",
+    "title": "Girl with Balloon",
+    "wikipedia": [
+      "Girl with Balloon"
+    ],
+    "artist": "Banksy",
+    "artistKey": "banksy",
+    "year": "2002",
+    "order": 20020000,
+    "century": "21st century",
+    "movement": "Contemporary",
+    "gloss": "Banksy's stencil of a girl reaching for a heart-shaped balloon first appeared on a London bridge. In 2018 a framed version shredded itself at Sotheby's the moment it sold, becoming 'Love Is in the Bin.'"
+  }
+]

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Sophism</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app" id="app">
+      <header class="topbar">
+        <div class="brand-block">
+          <h1>Sophism</h1>
+          <div class="header-selects">
+            <select id="datasetSelect" aria-label="Dataset"></select>
+            <div class="filter-menu" id="filterMenu">
+              <button type="button" class="filter-button" id="filterButton" aria-expanded="false">Filters</button>
+              <div class="filter-panel hidden" id="filterPanel"></div>
+            </div>
+            <button
+              id="searchToggle"
+              class="icon-btn search-toggle"
+              type="button"
+              aria-label="Open card search"
+              aria-controls="cardSearch"
+              aria-expanded="false"
+            >
+              <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24">
+                <path d="m21 21-4.35-4.35" />
+                <circle cx="11" cy="11" r="7" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <section class="search-wrap" aria-label="Card search">
+        <input id="cardSearch" type="text" placeholder="Search cards" autocomplete="off" />
+        <ul id="searchResults" class="search-results hidden" role="listbox" aria-label="Card suggestions"></ul>
+      </section>
+
+      <section class="stats" aria-live="polite">
+        <button id="backBtn" class="back-btn" type="button" aria-label="Previous card" disabled>&#8634;</button>
+        <span id="progress">0 / 0</span>
+        <span id="score" class="score-group">
+          <button id="wrongScore" class="score-tap" type="button">❌ 0</button>
+          <button id="rightScore" class="score-tap" type="button">✅ 0</button>
+        </span>
+      </section>
+
+      <section class="card-wrap">
+        <article class="card" id="card" aria-label="Flash card" aria-disabled="true">
+          <div class="face front" id="front"></div>
+          <div class="face back" id="back"></div>
+        </article>
+      </section>
+
+      <section class="actions" aria-label="Card actions">
+        <button id="wrongBtn" class="action-btn wrong" type="button" disabled>Wrong</button>
+        <button id="flipBtn" class="action-btn neutral" type="button" disabled>Flip</button>
+        <button id="rightBtn" class="action-btn right" type="button" disabled>Right</button>
+      </section>
+
+      <p class="hint">Swipe left for wrong, right for correct. Space flips.</p>
+      <div id="toast" class="toast" aria-live="assertive"></div>
+
+      <dialog id="scoreModal" class="score-modal">
+        <form method="dialog" class="score-modal-inner">
+          <header class="score-modal-header">
+            <h2 id="scoreModalTitle">Score</h2>
+            <button class="icon-btn modal-close-btn" type="submit" aria-label="Close">&times;</button>
+          </header>
+          <ul id="scoreModalList" class="score-modal-list"></ul>
+          <button id="clearListBtn" type="button" class="action-btn neutral score-modal-clear">Clear List</button>
+        </form>
+      </dialog>
+    </main>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
