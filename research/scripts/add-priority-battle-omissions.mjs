@@ -87,7 +87,7 @@ const seriesOrderUpdates = {
   'battle-moscow-1941': ['world-war-ii-europe', 'World War II in Europe', 6],
   'battle-stalingrad-1942': ['world-war-ii-europe', 'World War II in Europe', 7],
   'battle-kursk-1943': ['world-war-ii-europe', 'World War II in Europe', 8],
-  'battle-monte-cassino-1944': ['world-war-ii-europe', 'World War II in Europe', 9],
+  'battle-monte-cassino-1944': ['world-war-ii-mediterranean', 'World War II Mediterranean', 3.5],
   'battle-normandy-1944': ['world-war-ii-europe', 'World War II in Europe', 10],
   'operation-market-garden-1944': ['world-war-ii-europe', 'World War II in Europe', 11],
   'battle-hurtgen-forest-1944': ['world-war-ii-europe', 'World War II in Europe', 12],

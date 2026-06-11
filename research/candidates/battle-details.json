@@ -527,7 +527,7 @@
     "outcome": "Mughal victory",
     "war": "Mughal conquest of northern India",
     "location": "Panipat, India",
-    "gloss": "Babur defeated Ibrahim Lodi with field artillery and mobile tactics. The battle established Mughal power in northern India.",
+    "gloss": "Babur defeated Ibrahim Lodi with field artillery, matchlocks, and mobile tactics. The battle established Mughal power in northern India and began a new imperial era.",
     "series": {
       "key": "mughal-conquest-northern-india",
       "label": "Mughal conquest of northern India",
@@ -813,7 +813,7 @@
     "outcome": "Coalition victory",
     "war": "Hundred Days",
     "location": "Waterloo, Belgium",
-    "gloss": "Wellington and Blucher defeated Napoleon's final army. Waterloo ended the Hundred Days and closed the Napoleonic era.",
+    "gloss": "Wellington and Blucher defeated Napoleon's final army after a tense campaign in Belgium. Waterloo ended the Hundred Days, sent Napoleon into exile, and closed the Napoleonic era.",
     "series": {
       "key": "napoleonic-wars",
       "label": "Napoleonic Wars",
@@ -893,7 +893,7 @@
     "outcome": "Union victory",
     "war": "American Civil War",
     "location": "Vicksburg, United States",
-    "gloss": "Grant's campaign and siege forced the surrender of Vicksburg. The victory gave the Union control of the Mississippi River.",
+    "gloss": "Grant's campaign and siege forced the surrender of Vicksburg. The victory gave the Union control of the Mississippi River and split the Confederacy in two.",
     "series": {
       "key": "american-civil-war",
       "label": "American Civil War",
@@ -1349,12 +1349,14 @@
     "outcome": "Allied victory",
     "war": "World War II",
     "location": "Cassino, Italy",
-    "gloss": "Allied forces fought through fortified mountain positions around the monastery of Monte Cassino. The victory opened the road toward Rome.",
+    "imageAlt": "Photograph of Monte Cassino monastery ruins after bombing in 1944.",
+    "gloss": "Allied armies fought through the Gustav Line around Monte Cassino after repeated assaults and the abbey bombing. The victory opened the Liri Valley and the road to Rome, but its cost made the campaign controversial.",
     "series": {
-      "key": "world-war-ii-europe",
-      "label": "World War II in Europe",
-      "order": 9
-    }
+      "key": "world-war-ii-mediterranean",
+      "label": "World War II Mediterranean",
+      "order": 3.5
+    },
+    "casualties": "Allied forces: about 55,000 casualties; Nazi Germany: about 20,000 killed or wounded"
   },
   "battle-normandy-1944": {
     "year": "AD 1944",
@@ -1461,7 +1463,7 @@
     "outcome": "Allied victory",
     "war": "World War II",
     "location": "Manila, Philippines",
-    "gloss": "Allied forces retook Manila in destructive urban combat. The battle devastated the city and caused catastrophic civilian losses.",
+    "gloss": "Allied forces retook Manila in destructive urban combat against Japanese defenders. The battle devastated the city, caused catastrophic civilian losses, and marked the liberation of the Philippine capital.",
     "series": {
       "key": "world-war-ii-pacific",
       "label": "World War II in Asia and the Pacific",
@@ -1767,7 +1769,7 @@
       "label": "Roman-Macedonian wars",
       "order": 2
     },
-    "gloss": "Rome defeated Perseus of Macedon and ended the Antigonid monarchy. Pydna completed Macedon's fall as an independent great power."
+    "gloss": "Rome defeated Perseus of Macedon and ended the Antigonid monarchy. Pydna completed Macedon's fall as an independent great power and confirmed Roman dominance in Greece."
   },
   "battle-milvian-bridge-312": {
     "year": "AD 312",
@@ -1831,7 +1833,7 @@
       "label": "Muslim conquest of Persia",
       "order": 2
     },
-    "gloss": "Arab Muslim forces defeated a major Sasanian army in western Iran. Nahavand accelerated the disintegration of Sasanian resistance."
+    "gloss": "Arab Muslim forces defeated a major Sasanian army in western Iran. Nahavand accelerated the disintegration of Sasanian resistance and became known as the victory of victories."
   },
   "battle-khartoum-1885": {
     "year": "AD 1884-1885",
@@ -1943,7 +1945,7 @@
       "label": "Scottish Wars of Independence",
       "order": 2
     },
-    "gloss": "Robert Bruce defeated a larger English army near Stirling. Bannockburn secured Scottish momentum and became a national landmark."
+    "gloss": "Robert Bruce defeated a larger English army near Stirling. Bannockburn secured Scottish momentum in the independence war and became a national landmark."
   },
   "battle-kosovo-1389": {
     "year": "AD 1389",
@@ -2007,7 +2009,7 @@
       "label": "Hundred Years War",
       "order": 4
     },
-    "gloss": "French artillery and field defenses destroyed an English attack. Castillon effectively ended the Hundred Years War in France."
+    "gloss": "French artillery and field defenses destroyed an English attack. Castillon effectively ended the Hundred Years War in France and showed the growing power of gunpowder defenses."
   },
   "battle-diu-1509": {
     "year": "AD 1509",
@@ -2103,7 +2105,7 @@
       "label": "Wars of the Three Kingdoms",
       "order": 1
     },
-    "gloss": "The New Model Army defeated Charles I's main field army. Naseby made Parliament's victory in the first civil war likely."
+    "gloss": "The New Model Army destroyed Charles I's main field army. Naseby made Parliament's victory in the first English Civil War likely and exposed the king's captured correspondence."
   },
   "battle-dunbar-1650": {
     "year": "AD 1650",
@@ -2183,7 +2185,7 @@
       "label": "American Revolutionary War",
       "order": 1
     },
-    "gloss": "American forces forced Burgoyne's army to surrender in upstate New York. Saratoga helped bring France openly into the war."
+    "gloss": "American forces forced Burgoyne's army to surrender in upstate New York. Saratoga helped bring France openly into the war and turned the Revolution into a global conflict."
   },
   "battle-culloden-1746": {
     "year": "AD 1746",
@@ -2279,7 +2281,7 @@
       "label": "South American independence wars",
       "order": 1
     },
-    "gloss": "San Martin's Army of the Andes defeated royalists after crossing from Argentina. Chacabuco opened the road to Santiago."
+    "gloss": "San Martin's Army of the Andes defeated royalists after crossing from Argentina into Chile. Chacabuco opened the road to Santiago and revived the Chilean independence cause."
   },
   "battle-maipu-1818": {
     "year": "AD 1818",
@@ -2311,7 +2313,7 @@
       "label": "South American independence wars",
       "order": 3
     },
-    "gloss": "Bolivar's army defeated royalist forces and captured the road to Bogota. Boyaca secured New Granada for the independence movement."
+    "gloss": "Bolivar's army defeated royalist forces and captured the road to Bogota. Boyaca secured New Granada for the independence movement and strengthened Gran Colombia."
   },
   "battle-carabobo-1821": {
     "year": "AD 1821",
@@ -2327,7 +2329,7 @@
       "label": "South American independence wars",
       "order": 4
     },
-    "gloss": "Bolivar's forces defeated the main royalist army in Venezuela. Carabobo made Spanish control of the region untenable."
+    "gloss": "Bolivar's forces defeated the main royalist army in Venezuela. Carabobo made Spanish control of the region untenable and secured a major step toward Gran Colombia."
   },
   "battle-puebla-1862": {
     "year": "AD 1862",
@@ -2343,7 +2345,7 @@
       "label": "Second French intervention in Mexico",
       "order": 1
     },
-    "gloss": "Mexican forces repelled a French assault on Puebla. The victory became a symbol of resistance celebrated as Cinco de Mayo."
+    "gloss": "Mexican forces under Ignacio Zaragoza repelled a French assault on Puebla. The victory became a symbol of resistance celebrated as Cinco de Mayo."
   },
   "battle-chapultepec-1847": {
     "year": "AD 1847",
@@ -2359,7 +2361,7 @@
       "label": "Mexican-American War",
       "order": 1
     },
-    "gloss": "US forces stormed Chapultepec Castle during the campaign for Mexico City. The battle opened the way to the capital."
+    "gloss": "US forces stormed Chapultepec Castle during the campaign for Mexico City. The victory opened the capital and became famous in US Marine Corps memory."
   },
   "battle-balaclava-1854": {
     "year": "AD 1854",
@@ -2375,7 +2377,7 @@
       "label": "Crimean War",
       "order": 2
     },
-    "gloss": "Allied forces held the port of Balaclava against Russian attack. The battle is remembered for the Charge of the Light Brigade."
+    "gloss": "Allied forces held the port of Balaclava against Russian attack. The battle is remembered for the Charge of the Light Brigade and the confusion of Crimean War command."
   },
   "battle-sedan-1870": {
     "year": "AD 1870",
@@ -2391,7 +2393,7 @@
       "label": "Franco-Prussian War",
       "order": 1
     },
-    "gloss": "German forces encircled and captured Napoleon III's army. Sedan collapsed the Second Empire and transformed the war."
+    "gloss": "German forces encircled and captured Napoleon III's army. Sedan collapsed the Second Empire, transformed the Franco-Prussian War, and cleared the way for German unification."
   },
   "battle-little-bighorn-1876": {
     "year": "AD 1876",
@@ -2504,7 +2506,7 @@
       "label": "World War I in Africa",
       "order": 1
     },
-    "gloss": "German colonial forces defeated a larger British landing force at Tanga. The battle shaped the early East African campaign."
+    "gloss": "German colonial forces under Paul von Lettow-Vorbeck defeated a larger British landing at Tanga. The battle embarrassed Britain and shaped the early East African campaign."
   },
   "battle-jutland-1916": {
     "year": "AD 1916",
@@ -2616,7 +2618,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 1
     },
-    "gloss": "Japanese aircraft struck the US Pacific Fleet at Pearl Harbor. The attack brought the United States into World War II."
+    "gloss": "Japanese carrier aircraft struck the US Pacific Fleet at Pearl Harbor. The attack brought the United States into World War II and made carrier air power central to the Pacific War."
   },
   "battle-coral-sea-1942": {
     "year": "AD 1942",
@@ -2632,7 +2634,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 5
     },
-    "gloss": "Carrier aircraft fought without opposing surface fleets sighting each other. Coral Sea checked Japan's move toward Port Moresby."
+    "gloss": "Carrier aircraft fought while the opposing surface fleets never sighted each other. Coral Sea checked Japan's move toward Port Moresby and foreshadowed carrier warfare at Midway."
   },
   "battle-kasserine-pass-1943": {
     "year": "AD 1943",
@@ -2664,7 +2666,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 8
     },
-    "gloss": "US Marines captured Betio after a costly amphibious assault. Tarawa taught hard lessons for later Pacific landings."
+    "gloss": "US Marines captured Betio after a costly amphibious assault against fortified Japanese defenses. Tarawa taught hard lessons in landing craft, naval fire, and reef operations for later Pacific campaigns."
   },
   "battle-saipan-1944": {
     "year": "AD 1944",
@@ -2680,7 +2682,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 9
     },
-    "gloss": "US forces captured Saipan, putting Japan within range of B-29 bombers. The defeat triggered a political crisis in Tokyo."
+    "gloss": "US forces captured Saipan, putting Japan within range of B-29 bombers. The defeat triggered a political crisis in Tokyo and brought the home islands under sustained air attack."
   },
   "battle-peleliu-1944": {
     "year": "AD 1944",
@@ -2744,7 +2746,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 8.5
     },
-    "gloss": "Allied forces defeated a Japanese invasion attempt in northeastern India. Imphal was a turning point in the Burma campaign."
+    "gloss": "Slim's Fourteenth Army defeated a Japanese invasion attempt in northeastern India. Imphal, with Kohima, turned the Burma campaign and ended Japan's hopes of breaking into India."
   },
   "battle-kohima-1944": {
     "year": "AD 1944",
@@ -2808,7 +2810,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 11
     },
-    "gloss": "US forces recaptured Guam after weeks of fighting. The island became a major base for operations against Japan."
+    "gloss": "US Marines and Army troops recaptured Guam after weeks of fighting. The island became a major B-29 and naval base for the final campaigns against Japan."
   },
   "battle-wake-island-1941": {
     "year": "AD 1941",
@@ -3145,7 +3147,7 @@
       "label": "Paraguayan War",
       "order": 1
     },
-    "gloss": "Brazilian warships defeated Paraguay on the Parana River. Riachuelo secured Allied river control during the Paraguayan War.",
+    "gloss": "Brazilian warships defeated Paraguay on the Parana River. Riachuelo secured Allied river control during the Paraguayan War and protected the supply route into Paraguay.",
     "casualties": "Paraguay: about 750 casualties; Brazil: 104 killed, 123 wounded, and 20 missing"
   },
   "battle-kambula-1879": {
@@ -3258,7 +3260,7 @@
       "label": "Umayyad conquest of Hispania",
       "order": 1
     },
-    "gloss": "Umayyad-led forces defeated the Visigothic army of King Roderic. The battle opened the rapid Muslim conquest of most of Iberia."
+    "gloss": "Umayyad-led forces defeated the Visigothic army of King Roderic. The battle opened the rapid Muslim conquest of most of Iberia and transformed western Mediterranean history."
   },
   "battle-stamford-bridge-1066": {
     "year": "AD 1066",
@@ -3370,7 +3372,7 @@
       "label": "Red Turban Rebellion",
       "order": 1
     },
-    "gloss": "Zhu Yuanzhang defeated Chen Youliang in a vast naval battle. The victory cleared Zhu path toward founding the Ming dynasty."
+    "gloss": "Zhu Yuanzhang defeated Chen Youliang in a vast naval battle. The victory cleared Zhu's path toward founding the Ming dynasty and deciding the Red Turban struggle."
   },
   "battle-ankara-1402": {
     "year": "AD 1402",
@@ -3434,7 +3436,7 @@
       "label": "European great-power wars",
       "order": 1
     },
-    "gloss": "French forces defeated an Allied army in the Austrian Netherlands. Fontenoy became one of France major eighteenth-century battlefield victories."
+    "gloss": "French forces defeated an Allied army in the Austrian Netherlands. Fontenoy became one of France's major eighteenth-century battlefield victories."
   },
   "battle-leuthen-1757": {
     "year": "AD 1757",
@@ -3466,7 +3468,7 @@
       "label": "Seven Years War in India",
       "order": 2
     },
-    "gloss": "British forces defeated the French in southern India. Wandiwash helped end French hopes of matching British power in India."
+    "gloss": "British forces defeated the French in southern India during the Carnatic struggle. Wandiwash helped end French hopes of matching British power in India."
   },
   "battle-panipat-1761": {
     "year": "AD 1761",
@@ -3498,7 +3500,7 @@
       "label": "Second Anglo-Maratha War",
       "order": 1
     },
-    "gloss": "Arthur Wellesley defeated a larger Maratha army in western India. Assaye strengthened Company control and Wellesley reputation."
+    "gloss": "Arthur Wellesley defeated a larger Maratha army in western India. Assaye strengthened Company control and built Wellesley's reputation before his later fame as Wellington."
   },
   "battle-shiloh-1862": {
     "year": "AD 1862",
@@ -3530,7 +3532,7 @@
       "label": "American Civil War",
       "order": 2
     },
-    "gloss": "Antietam halted Lee invasion of Maryland after the bloodiest single day of the war. The result gave Lincoln space to issue the Emancipation Proclamation."
+    "gloss": "Antietam halted Lee's invasion of Maryland after the bloodiest single day of the war. The result gave Lincoln space to issue the Emancipation Proclamation."
   },
   "second-marne-1918": {
     "year": "AD 1918",
@@ -3546,7 +3548,7 @@
       "label": "World War I Western Front",
       "order": 7
     },
-    "gloss": "Allied forces stopped Germany final major offensive and began the counteroffensive phase of 1918. The battle marked a decisive turn toward Allied victory."
+    "gloss": "Allied forces stopped Germany's final major offensive and began the counteroffensive phase of 1918. The battle marked a decisive turn toward Allied victory."
   },
   "battle-nanking-1937": {
     "year": "AD 1937",
@@ -3642,7 +3644,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 7.4
     },
-    "gloss": "Allied aircraft destroyed a Japanese convoy bound for New Guinea. The battle sharply limited Japan ability to reinforce the theater."
+    "gloss": "Allied aircraft destroyed a Japanese convoy bound for New Guinea. The battle sharply limited Japan's ability to reinforce the theater."
   },
   "battle-philippine-sea-1944": {
     "year": "AD 1944",
@@ -3658,7 +3660,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 10
     },
-    "gloss": "US carrier forces defeated a major Japanese fleet sortie near the Marianas. The battle crippled Japanese naval aviation."
+    "gloss": "US carrier forces defeated a major Japanese fleet sortie near the Marianas. The battle crippled Japanese naval aviation and became known as the Great Marianas Turkey Shoot."
   },
   "battle-seelow-heights-1945": {
     "year": "AD 1945",
@@ -3674,7 +3676,7 @@
       "label": "World War II in Europe",
       "order": 14
     },
-    "gloss": "Soviet armies broke through the German defenses east of Berlin. Seelow Heights opened the final assault on the German capital."
+    "gloss": "Soviet armies broke through German defenses east of Berlin under Zhukov and Konev. Seelow Heights opened the final assault on the German capital."
   },
   "battle-long-tan-1966": {
     "year": "AD 1966",
@@ -3690,7 +3692,7 @@
       "label": "Vietnam War",
       "order": 2
     },
-    "gloss": "Australian and New Zealand troops fought a much larger force in a rubber plantation. Long Tan became one of Australia best-known Vietnam War battles."
+    "gloss": "Australian and New Zealand troops fought a much larger force in a rubber plantation. Long Tan became one of Australia's best-known Vietnam War battles."
   },
   "battle-maling-342bc": {
     "year": "342 BC",
@@ -3722,7 +3724,7 @@
       "label": "Greek hegemonic wars",
       "order": 1
     },
-    "gloss": "Theban forces under Epaminondas broke Spartan battlefield dominance. Leuctra reshaped Greek politics and military tactics."
+    "gloss": "Epaminondas and the Thebans broke Spartan battlefield dominance with an innovative deep formation. Leuctra reshaped Greek politics and military tactics."
   },
   "battle-mantinea-362bc": {
     "year": "362 BC",
@@ -3738,7 +3740,7 @@
       "label": "Greek hegemonic wars",
       "order": 2
     },
-    "gloss": "Epaminondas won but was killed, leaving no clear hegemon in Greece. The battle ended the brief peak of Theban power."
+    "gloss": "Epaminondas won at Mantinea but was killed in the fighting. The battle ended the brief peak of Theban power and left Greece without a stable hegemon."
   },
   "battle-granicus-334bc": {
     "year": "334 BC",
@@ -3770,7 +3772,7 @@
       "label": "Second Punic War",
       "order": 0.5
     },
-    "gloss": "Hannibal lured Roman forces into a cold river crossing and enveloped them. Trebia confirmed the danger of his Italian invasion."
+    "gloss": "Hannibal lured Roman forces into a cold river crossing and enveloped them. Trebia confirmed the danger of his Italian invasion and began a run of Carthaginian victories."
   },
   "battle-lake-trasimene-217bc": {
     "year": "217 BC",
@@ -3786,7 +3788,7 @@
       "label": "Second Punic War",
       "order": 0.75
     },
-    "gloss": "Hannibal ambushed a Roman army beside Lake Trasimene. It became one of the largest successful ambushes in ancient warfare."
+    "gloss": "Hannibal ambushed a Roman army beside Lake Trasimene. It became one of the largest successful ambushes in ancient warfare and deepened Rome's crisis in Italy."
   },
   "battle-changping-260bc": {
     "year": "260 BC",
@@ -3802,7 +3804,7 @@
       "label": "Warring States period",
       "order": 2
     },
-    "gloss": "Qin defeated Zhao in a catastrophic campaign that broke a major rival. Changping accelerated Qin movement toward unifying China."
+    "gloss": "Qin defeated Zhao in a catastrophic campaign that broke a major rival. Changping accelerated Qin's movement toward unifying China and became infamous for mass killing."
   },
   "battle-guandu-200": {
     "year": "AD 200",
@@ -3818,7 +3820,7 @@
       "label": "Wars at the end of the Han dynasty",
       "order": 0.5
     },
-    "gloss": "Cao Cao defeated Yuan Shao despite being outnumbered. Guandu set the balance of power in northern China before the Three Kingdoms."
+    "gloss": "Cao Cao defeated Yuan Shao despite being outnumbered. Guandu set the balance of power in northern China before the Three Kingdoms and showed Cao Cao's strategic skill."
   },
   "battle-edessa-260": {
     "year": "AD 260",
@@ -3834,7 +3836,7 @@
       "label": "Roman-Persian Wars",
       "order": 1
     },
-    "gloss": "Shapur I defeated the Romans and captured Emperor Valerian. Edessa was one of Rome most humiliating imperial defeats."
+    "gloss": "Shapur I defeated the Romans and captured Emperor Valerian. Edessa became one of Rome's most humiliating imperial defeats and advertised Sasanian power."
   },
   "battle-naissus-269": {
     "year": "AD 269",
@@ -3866,7 +3868,7 @@
       "label": "Roman-Germanic wars",
       "order": 1
     },
-    "gloss": "Julian defeated a larger Alamannic force near Strasbourg. The battle restored Roman authority along part of the Rhine frontier."
+    "gloss": "Julian defeated a larger Alamannic force near Strasbourg. The battle restored Roman authority along part of the Rhine frontier and enhanced Julian's military reputation."
   },
   "battle-dara-530": {
     "year": "AD 530",
@@ -3882,7 +3884,7 @@
       "label": "Roman-Persian Wars",
       "order": 2
     },
-    "gloss": "Belisarius used fieldworks and maneuver to defeat a Sasanian army. Dara became one of the best-known early Byzantine victories."
+    "gloss": "Belisarius used fieldworks and maneuver to defeat a Sasanian army. Dara became one of the best-known early Byzantine victories and displayed Justinian's revived eastern defenses."
   },
   "battle-hulao-621": {
     "year": "AD 621",
@@ -3898,7 +3900,7 @@
       "label": "Tang unification wars",
       "order": 1
     },
-    "gloss": "Li Shimin defeated rival forces at Hulao Pass. The battle was decisive in the Tang dynasty consolidation of China."
+    "gloss": "Li Shimin defeated rival claimants at Hulao Pass during the Tang struggle for supremacy. The victory helped secure Tang rule and enhanced Li Shimin's reputation before he became Emperor Taizong."
   },
   "battle-ajnadayn-634": {
     "year": "AD 634",
@@ -3914,7 +3916,7 @@
       "label": "Muslim conquest of the Levant",
       "order": 0.5
     },
-    "gloss": "Rashidun forces defeated a Byzantine field army in Palestine. Ajnadayn opened the way for further Muslim advances in the Levant."
+    "gloss": "Rashidun forces defeated a Byzantine field army in Palestine. Ajnadayn opened the way for further Muslim advances in the Levant before Yarmouk decided the campaign."
   },
   "battle-kleidion-1014": {
     "year": "AD 1014",
@@ -3930,7 +3932,7 @@
       "label": "Byzantine-Bulgarian wars",
       "order": 1
     },
-    "gloss": "Basil II defeated the Bulgarian army at Kleidion. The battle helped bring Bulgaria under Byzantine control."
+    "gloss": "Basil II crushed the Bulgarian army at Kleidion after a long Byzantine-Bulgarian struggle. The victory broke Bulgarian resistance and helped bring the empire under Byzantine control."
   },
   "siege-antioch-1097": {
     "year": "AD 1097-1098",
@@ -3962,7 +3964,7 @@
       "label": "Crusades",
       "order": 4
     },
-    "gloss": "Crusader forces defeated a Fatimid army soon after the capture of Jerusalem. Ascalon secured the first wave of crusader conquests."
+    "gloss": "Crusader forces defeated a Fatimid army soon after the capture of Jerusalem. Ascalon secured the first wave of crusader conquests and protected the newborn Kingdom of Jerusalem."
   },
   "battle-montgisard-1177": {
     "year": "AD 1177",
@@ -3994,7 +3996,7 @@
       "label": "Crusades",
       "order": 8
     },
-    "gloss": "The long siege of Acre became the central operation of the Third Crusade. Its capture gave the Crusaders a coastal base."
+    "gloss": "The long siege of Acre became the central operation of the Third Crusade. Its capture gave the Crusaders a coastal base and drew leaders such as Richard I and Philip II into the campaign."
   },
   "battle-bouvines-1214": {
     "year": "AD 1214",
@@ -4010,7 +4012,7 @@
       "label": "Capetian-Angevin conflict",
       "order": 1
     },
-    "gloss": "Philip II defeated a coalition of enemies at Bouvines. The victory strengthened Capetian monarchy and weakened King John position."
+    "gloss": "Philip II defeated a coalition of enemies at Bouvines. The victory strengthened Capetian monarchy and weakened King John's position."
   },
   "siege-baghdad-1258": {
     "year": "AD 1258",
@@ -4042,7 +4044,7 @@
       "label": "Franco-Flemish War",
       "order": 1
     },
-    "gloss": "Flemish infantry defeated French cavalry near Kortrijk. The battle challenged assumptions about knightly battlefield dominance."
+    "gloss": "Flemish infantry defeated French cavalry near Kortrijk. The battle challenged assumptions about knightly dominance and became a founding memory for Flemish civic resistance."
   },
   "battle-sluys-1340": {
     "year": "AD 1340",
@@ -4074,7 +4076,7 @@
       "label": "Muscovite-Horde conflict",
       "order": 1
     },
-    "gloss": "Dmitry Donskoy defeated Mamai forces at Kulikovo. The battle became central to Russian memory of resistance to Horde power."
+    "gloss": "Dmitry Donskoy defeated Mamai's forces at Kulikovo. The battle became central to Russian memory of resistance to Horde power, even though Mongol influence continued."
   },
   "siege-orleans-1429": {
     "year": "AD 1428-1429",
@@ -4090,7 +4092,7 @@
       "label": "Hundred Years War",
       "order": 3.5
     },
-    "gloss": "French forces relieved Orleans after Joan of Arc arrival. The victory reversed momentum in the later Hundred Years War."
+    "gloss": "French forces relieved Orleans after Joan of Arc's arrival transformed morale. The victory reversed momentum in the later Hundred Years War and led toward Charles VII's coronation."
   },
   "battle-bosworth-field-1485": {
     "year": "AD 1485",
@@ -4106,7 +4108,7 @@
       "label": "Wars of the Roses",
       "order": 2
     },
-    "gloss": "Henry Tudor defeated Richard III at Bosworth Field. The battle ended Plantagenet rule and began the Tudor dynasty."
+    "gloss": "Henry Tudor defeated Richard III, who was killed on the field. Bosworth ended Plantagenet rule, began the Tudor dynasty, and closed the main phase of the Wars of the Roses."
   },
   "battle-flodden-1513": {
     "year": "AD 1513",
@@ -4122,7 +4124,7 @@
       "label": "Anglo-Scottish wars",
       "order": 1
     },
-    "gloss": "English forces defeated the Scots and killed King James IV. Flodden was one of Scotland most severe military disasters."
+    "gloss": "English forces defeated the Scots and killed King James IV. Flodden became one of Scotland's most severe military disasters and reshaped Anglo-Scottish politics."
   },
   "battle-khanwa-1527": {
     "year": "AD 1527",
@@ -4138,7 +4140,7 @@
       "label": "Mughal conquest of northern India",
       "order": 2
     },
-    "gloss": "Babur defeated Rana Sanga coalition after Panipat. Khanwa helped secure Mughal power in northern India."
+    "gloss": "Babur defeated Rana Sanga's Rajput-led coalition soon after Panipat. Khanwa proved the Mughals could survive beyond a single victory and helped secure their hold in northern India."
   },
   "battle-kawanakajima-1561": {
     "year": "AD 1561",
@@ -4186,7 +4188,7 @@
       "label": "Mughal-Mewar conflict",
       "order": 1
     },
-    "gloss": "Mughal forces fought Rana Pratap army in the Aravalli hills. The battle became a powerful symbol of Rajput resistance."
+    "gloss": "Mughal forces fought Rana Pratap's army in the Aravalli hills. Though tactically indecisive, Haldighati became a powerful symbol of Rajput resistance to Mughal expansion."
   },
   "battle-myeongnyang-1597": {
     "year": "AD 1597",
@@ -4202,7 +4204,7 @@
       "label": "Imjin War",
       "order": 5
     },
-    "gloss": "Admiral Yi Sun-sin defeated a much larger Japanese fleet in a narrow strait. Myeongnyang is one of Korea most celebrated naval victories."
+    "gloss": "Admiral Yi Sun-sin defeated a much larger Japanese fleet in a narrow strait. Myeongnyang is one of Korea's most celebrated naval victories."
   },
   "battle-noryang-1598": {
     "year": "AD 1598",
@@ -4250,7 +4252,7 @@
       "label": "War of the Spanish Succession",
       "order": 2
     },
-    "gloss": "Marlborough defeated the French army in the Spanish Netherlands. Ramillies opened much of the region to Allied occupation."
+    "gloss": "Marlborough defeated the French army in the Spanish Netherlands. Ramillies opened much of the region to Allied occupation and confirmed his reputation after Blenheim."
   },
   "battle-malplaquet-1709": {
     "year": "AD 1709",
@@ -4266,7 +4268,7 @@
       "label": "War of the Spanish Succession",
       "order": 3
     },
-    "gloss": "The Allies forced the French from the field but suffered heavy losses. Malplaquet showed the growing cost of the war."
+    "gloss": "Marlborough and Eugene forced the French from the field but suffered heavy losses. Malplaquet showed the rising cost of the War of the Spanish Succession and blunted Allied momentum."
   },
   "battle-rossbach-1757": {
     "year": "AD 1757",
@@ -4282,7 +4284,7 @@
       "label": "Seven Years War",
       "order": 0.5
     },
-    "gloss": "Frederick the Great crushed a larger Franco-Imperial army by maneuver. Rossbach became one of Prussia most famous victories."
+    "gloss": "Frederick the Great crushed a larger Franco-Imperial army by maneuver. Rossbach became one of Prussia's most famous victories and boosted Frederick's European prestige."
   },
   "battle-kunersdorf-1759": {
     "year": "AD 1759",
@@ -4298,7 +4300,7 @@
       "label": "Seven Years War",
       "order": 3
     },
-    "gloss": "Russian and Austrian forces nearly destroyed Frederick army. Kunersdorf brought Prussia close to disaster."
+    "gloss": "Russian and Austrian forces nearly destroyed Frederick the Great's army. Kunersdorf brought Prussia close to disaster and exposed how fragile Frederick's position was in the Seven Years War."
   },
   "battle-bunker-hill-1775": {
     "year": "AD 1775",
@@ -4314,7 +4316,7 @@
       "label": "American Revolutionary War",
       "order": 0.5
     },
-    "gloss": "British troops took the heights near Boston but suffered heavy losses. Bunker Hill proved the colonial forces would fight hard."
+    "gloss": "British troops took the heights near Boston but suffered heavy losses. Bunker Hill proved colonial forces would stand against regulars and hardened the Revolutionary War."
   },
   "battle-trenton-1776": {
     "year": "AD 1776",
@@ -4362,7 +4364,7 @@
       "label": "American Revolutionary War",
       "order": 1.75
     },
-    "gloss": "Cornwallis won the field but took heavy losses. Guilford Court House weakened the British southern army before Yorktown."
+    "gloss": "Cornwallis won the field but took heavy losses against Nathanael Greene. Guilford Court House weakened the British southern army before the Yorktown campaign."
   },
   "battle-eylau-1807": {
     "year": "AD 1807",
@@ -4378,7 +4380,7 @@
       "label": "Napoleonic Wars",
       "order": 4.5
     },
-    "gloss": "French and Russian armies fought a brutal winter battle with no decisive result. Eylau challenged Napoleon image of effortless victory."
+    "gloss": "French and Russian armies fought a brutal winter battle with no decisive result. Eylau challenged Napoleon's image of effortless victory."
   },
   "battle-aspern-essling-1809": {
     "year": "AD 1809",
@@ -4394,7 +4396,7 @@
       "label": "Napoleonic Wars",
       "order": 5.5
     },
-    "gloss": "Archduke Charles defeated Napoleon after the French crossed the Danube. Aspern-Essling was Napoleon first major battlefield defeat."
+    "gloss": "Archduke Charles defeated Napoleon after the French crossed the Danube. Aspern-Essling was Napoleon's first major battlefield defeat."
   },
   "battle-wagram-1809": {
     "year": "AD 1809",
@@ -4410,7 +4412,7 @@
       "label": "Napoleonic Wars",
       "order": 5.75
     },
-    "gloss": "Napoleon defeated Austria in a massive battle near Vienna. Wagram ended the War of the Fifth Coalition."
+    "gloss": "Napoleon defeated Archduke Charles in a massive two-day battle near Vienna. Wagram ended the War of the Fifth Coalition, though its cost showed Napoleon's wars becoming harder to win cleanly."
   },
   "battle-salamanca-1812": {
     "year": "AD 1812",
@@ -4426,7 +4428,7 @@
       "label": "Peninsular War",
       "order": 1
     },
-    "gloss": "Wellington exploited a French deployment error and won a major victory. Salamanca opened the road toward Madrid."
+    "gloss": "Wellington exploited a French deployment error and won a sharp victory in Spain. Salamanca opened the road to Madrid and proved that French armies could be beaten in open battle."
   },
   "battle-ligny-1815": {
     "year": "AD 1815",
@@ -4458,7 +4460,7 @@
       "label": "Napoleonic Wars",
       "order": 7.9
     },
-    "gloss": "Wellington blocked Ney at Quatre Bras while the Prussians fought at Ligny. The battle shaped the movements before Waterloo."
+    "gloss": "Wellington blocked Ney at Quatre Bras while the Prussians fought at Ligny. The battle shaped the movements before Waterloo and helped keep Allied armies from being separated."
   },
   "battle-navarino-1827": {
     "year": "AD 1827",
@@ -4474,7 +4476,7 @@
       "label": "Greek War of Independence",
       "order": 1
     },
-    "gloss": "Allied fleets destroyed the Ottoman-Egyptian fleet at Navarino. The naval victory helped secure Greek independence."
+    "gloss": "British, French, and Russian fleets destroyed the Ottoman-Egyptian fleet at Navarino. The naval victory helped secure Greek independence and was the last major battle fought entirely by sailing warships."
   },
   "battle-first-bull-run-1861": {
     "year": "AD 1861",
@@ -4490,7 +4492,7 @@
       "label": "American Civil War",
       "order": 0.5
     },
-    "gloss": "The first major battle of the Civil War ended in a Confederate victory. Bull Run shattered expectations of a short war."
+    "gloss": "The first major battle of the Civil War ended in a Confederate victory near Manassas. Bull Run shattered expectations of a short war and forced both sides to prepare for a longer conflict."
   },
   "battle-fredericksburg-1862": {
     "year": "AD 1862",
@@ -4522,7 +4524,7 @@
       "label": "American Civil War",
       "order": 2.75
     },
-    "gloss": "Lee divided his army and defeated a larger Union force. Chancellorsville was his greatest victory but cost Stonewall Jackson."
+    "gloss": "Lee divided his army and defeated a larger Union force under Hooker. Chancellorsville was his greatest victory but cost Stonewall Jackson, making it strategically bittersweet."
   },
   "battle-chickamauga-1863": {
     "year": "AD 1863",
@@ -4538,7 +4540,7 @@
       "label": "American Civil War",
       "order": 3.5
     },
-    "gloss": "Confederate forces routed much of the Union army in northern Georgia. Chickamauga was the Confederacy major western victory."
+    "gloss": "Confederate forces routed much of the Union Army of the Cumberland in northern Georgia. Chickamauga was the Confederacy's major western victory but failed to recover Chattanooga."
   },
   "battle-atlanta-1864": {
     "year": "AD 1864",
@@ -4554,7 +4556,7 @@
       "label": "American Civil War",
       "order": 5
     },
-    "gloss": "Union forces defeated Confederate attacks east of Atlanta during Sherman campaign. The fall of Atlanta helped secure Lincoln reelection."
+    "gloss": "Union forces defeated Confederate attacks east of Atlanta during Sherman's campaign. The fall of Atlanta helped secure Lincoln's reelection."
   },
   "siege-plevna-1877": {
     "year": "AD 1877",
@@ -4634,7 +4636,7 @@
       "label": "World War I Western Front",
       "order": 2.5
     },
-    "gloss": "German forces used poison gas on a large scale near Ypres. The battle introduced a terrifying new weapon to the Western Front."
+    "gloss": "German forces used poison gas on a large scale near Ypres. The battle introduced a terrifying new weapon to the Western Front and hardened the war's industrial character."
   },
   "gorlice-tarnow-offensive-1915": {
     "year": "AD 1915",
@@ -4650,7 +4652,7 @@
       "label": "World War I Eastern Front",
       "order": 2
     },
-    "gloss": "German and Austro-Hungarian forces broke through Russian lines in Galicia. Gorlice-Tarnow forced a major Russian retreat."
+    "gloss": "German and Austro-Hungarian forces broke through Russian lines in Galicia. Gorlice-Tarnow forced a major Russian retreat and restored Central Powers momentum in the east."
   },
   "brusilov-offensive-1916": {
     "year": "AD 1916",
@@ -4666,7 +4668,7 @@
       "label": "World War I Eastern Front",
       "order": 3
     },
-    "gloss": "Brusilov offensive shattered Austro-Hungarian armies and drew in German reserves. It was Russia most successful operation of the war."
+    "gloss": "Brusilov offensive shattered Austro-Hungarian armies and drew in German reserves. It was Russia's most successful operation of the war."
   },
   "battle-france-1940": {
     "year": "AD 1940",
@@ -4682,7 +4684,7 @@
       "label": "World War II in Europe",
       "order": 2.5
     },
-    "gloss": "Germany defeated France and the Allied armies in a rapid campaign. The battle transformed the strategic situation in Europe."
+    "gloss": "Germany defeated France and the Allied armies in a rapid campaign built around armored breakthroughs. The fall of France transformed World War II and left Britain fighting on alone."
   },
   "battle-narvik-1940": {
     "year": "AD 1940",
@@ -4714,7 +4716,7 @@
       "label": "World War II in Africa",
       "order": 1.5
     },
-    "gloss": "Allied defenders held Tobruk against Axis siege for months. The defense disrupted Axis operations in North Africa."
+    "gloss": "Allied defenders held Tobruk against Rommel's Axis siege for months. The defense disrupted Axis operations in North Africa and made the garrison a symbol of resistance."
   },
   "battle-gazala-1942": {
     "year": "AD 1942",
@@ -4730,7 +4732,7 @@
       "label": "World War II in Africa",
       "order": 1.75
     },
-    "gloss": "Rommel defeated the Eighth Army around Gazala and captured Tobruk soon after. The battle opened the Axis advance toward Egypt."
+    "gloss": "Rommel defeated the Eighth Army around Gazala and captured Tobruk soon after. The battle opened the Axis advance toward Egypt before El Alamein halted it."
   },
   "battle-changsha-1939": {
     "year": "AD 1939",
@@ -4794,7 +4796,7 @@
       "label": "World War II in Europe",
       "order": 10.5
     },
-    "gloss": "Soviet armies destroyed German Army Group Centre in a massive offensive. Bagration was one of Germany greatest defeats of the war."
+    "gloss": "Soviet armies destroyed German Army Group Centre in a massive offensive. Bagration was one of Germany's greatest defeats of the war."
   },
   "falaise-pocket-1944": {
     "year": "AD 1944",
@@ -4874,7 +4876,7 @@
       "label": "Roman-Seleucid War",
       "order": 1
     },
-    "gloss": "Roman and allied forces defeated Antiochus III at Magnesia. The battle confirmed Roman power in the eastern Mediterranean."
+    "gloss": "Roman and allied forces defeated Antiochus III at Magnesia. The battle confirmed Roman power in the eastern Mediterranean and weakened the Seleucid Empire."
   },
   "battle-aquae-sextiae-102bc": {
     "year": "102 BC",
@@ -4906,7 +4908,7 @@
       "label": "Cimbrian War",
       "order": 2
     },
-    "gloss": "Roman forces under Marius and Catulus destroyed the Cimbri at Vercellae. The battle ended one of the gravest threats Rome had faced since Hannibal."
+    "gloss": "Marius and Catulus destroyed the Cimbri at Vercellae. The battle ended one of the gravest threats Rome had faced since Hannibal and raised Marius' political prestige."
   },
   "battle-pharsalus-48bc": {
     "year": "48 BC",
@@ -4922,7 +4924,7 @@
       "label": "Caesars Civil War",
       "order": 1
     },
-    "gloss": "Caesar defeated Pompey in Greece despite being outnumbered. Pharsalus made Caesar the dominant figure in the Roman civil war."
+    "gloss": "Caesar defeated Pompey in Greece despite being outnumbered. Pharsalus made Caesar the dominant figure in the Roman civil war and sent Pompey fleeing to Egypt."
   },
   "battle-munda-45bc": {
     "year": "45 BC",
@@ -4938,7 +4940,7 @@
       "label": "Caesars Civil War",
       "order": 2
     },
-    "gloss": "Caesar defeated the last major Pompeian army at Munda. The battle ended organized resistance to his rule in the Roman world."
+    "gloss": "Caesar defeated the last major Pompeian army at Munda. The battle ended organized resistance to his rule in the Roman world and left the dictatorship uncontested."
   },
   "battle-philippi-42bc": {
     "year": "42 BC",
@@ -4954,7 +4956,7 @@
       "label": "Late Roman Republic civil wars",
       "order": 1
     },
-    "gloss": "Antony and Octavian defeated Brutus and Cassius at Philippi. The battle ended the republican faction that had killed Caesar."
+    "gloss": "Antony and Octavian defeated Brutus and Cassius at Philippi. The battle ended the republican faction that had killed Caesar and pushed Rome toward triumviral rule."
   },
   "battle-salsu-612": {
     "year": "AD 612",
@@ -4970,7 +4972,7 @@
       "label": "Goguryeo-Sui War",
       "order": 1
     },
-    "gloss": "Goguryeo forces destroyed a huge Sui army during its retreat. Salsu became one of Korea most famous victories and weakened the Sui dynasty."
+    "gloss": "Goguryeo forces destroyed a huge Sui army during its retreat. Salsu became one of Korea's most famous victories and weakened the Sui dynasty."
   },
   "battle-nineveh-627": {
     "year": "AD 627",
@@ -5050,7 +5052,7 @@
       "label": "Second Fitna",
       "order": 1
     },
-    "gloss": "Umayyad forces killed Husayn ibn Ali and his small party at Karbala. The battle became central to Shia memory and Islamic history."
+    "gloss": "Umayyad forces killed Husayn ibn Ali and his small party at Karbala. The battle became central to Shia memory and made martyrdom a defining theme in Islamic history."
   },
   "siege-constantinople-717": {
     "year": "AD 717-718",
@@ -5098,7 +5100,7 @@
       "label": "Norman conquest of southern Italy",
       "order": 1
     },
-    "gloss": "Norman forces defeated a papal-led army at Civitate and captured Pope Leo IX. The battle confirmed Norman power in southern Italy."
+    "gloss": "Norman forces defeated a papal-led army at Civitate and captured Pope Leo IX. The battle confirmed Norman power in southern Italy and pushed the papacy toward accommodation."
   },
   "battle-didgori-1121": {
     "year": "AD 1121",
@@ -5114,7 +5116,7 @@
       "label": "Georgian-Seljuk wars",
       "order": 1
     },
-    "gloss": "David IV of Georgia defeated a much larger Seljuk-led coalition at Didgori. The victory helped launch the Georgian Golden Age."
+    "gloss": "David IV of Georgia defeated a much larger Seljuk-led coalition at Didgori. The victory helped launch the Georgian Golden Age and became central to Georgian national memory."
   },
   "battle-alarcos-1195": {
     "year": "AD 1195",
@@ -5242,7 +5244,7 @@
       "label": "Hundred Years War",
       "order": 3.75
     },
-    "gloss": "French forces defeated an English army in Normandy at Formigny. The battle helped end English control of Normandy."
+    "gloss": "French forces used artillery and cavalry to defeat an English army in Normandy. Formigny helped end English control of Normandy and pointed toward the closing phase of the Hundred Years War."
   },
   "battle-tewkesbury-1471": {
     "year": "AD 1471",
@@ -5290,7 +5292,7 @@
       "label": "Ottoman-Mamluk War",
       "order": 1
     },
-    "gloss": "Selim I defeated the Mamluks at Marj Dabiq, opening Syria to Ottoman conquest. The battle began the collapse of Mamluk power."
+    "gloss": "Selim I defeated the Mamluks at Marj Dabiq, opening Syria to Ottoman conquest. The battle began the collapse of Mamluk power and shifted the eastern Mediterranean balance."
   },
   "siege-rhodes-1522": {
     "year": "AD 1522",
@@ -5354,7 +5356,7 @@
       "label": "French Wars of Religion",
       "order": 1
     },
-    "gloss": "Henry IV defeated the Catholic League at Ivry. The victory strengthened his claim during the French Wars of Religion."
+    "gloss": "Henry IV defeated the Catholic League at Ivry during his fight for the French crown. The victory strengthened his claim and became linked to his famous white-plume legend."
   },
   "battle-kinsale-1601": {
     "year": "AD 1601-1602",
@@ -5434,7 +5436,7 @@
       "label": "Williamite War in Ireland",
       "order": 1
     },
-    "gloss": "William III defeated James II forces at the Boyne. The battle became a defining event in Irish and British political memory."
+    "gloss": "William III defeated James II's forces at the Boyne. The battle became a defining event in Irish and British political memory and secured Williamite control."
   },
   "battle-zenta-1697": {
     "year": "AD 1697",
@@ -5466,7 +5468,7 @@
       "label": "War of the Spanish Succession",
       "order": 2.5
     },
-    "gloss": "Marlborough and Eugene defeated a French army at Oudenarde. The victory opened the way for the Allied siege of Lille."
+    "gloss": "Marlborough and Eugene defeated a French army at Oudenarde. The victory opened the way to the siege of Lille and kept France under pressure in the Spanish Succession war."
   },
   "battle-minden-1759": {
     "year": "AD 1759",
@@ -5482,7 +5484,7 @@
       "label": "Seven Years War",
       "order": 2.5
     },
-    "gloss": "An Allied army defeated French forces at Minden during the Seven Years War. The battle checked French power in western Germany."
+    "gloss": "An Allied army defeated French forces at Minden during the Seven Years War. The battle checked French power in western Germany and became famous for the advance of British infantry."
   },
   "battle-porto-novo-1781": {
     "year": "AD 1781",
@@ -5530,7 +5532,7 @@
       "label": "Peninsular War",
       "order": 0.5
     },
-    "gloss": "Spanish forces forced a French corps to surrender at Bailen. The defeat shattered Napoleon aura of invincibility in Spain."
+    "gloss": "Spanish forces forced a French corps to surrender at Bailen. The defeat shattered Napoleon's aura of invincibility in Spain and encouraged wider resistance."
   },
   "battle-vitoria-1813": {
     "year": "AD 1813",
@@ -5578,7 +5580,7 @@
       "label": "Creek War",
       "order": 1
     },
-    "gloss": "Andrew Jackson forces defeated the Red Stick Creeks at Horseshoe Bend. The battle ended the Creek War and forced major land cessions.",
+    "gloss": "Andrew Jackson's forces defeated the Red Stick Creeks at Horseshoe Bend. The battle ended the Creek War and forced major land cessions.",
     "casualties": "United States and allies: fewer than 50 killed and 154 wounded; Red Stick Creeks: roughly 800 killed"
   },
   "battle-alamo-1836": {
@@ -5595,7 +5597,7 @@
       "label": "Texas Revolution",
       "order": 1
     },
-    "gloss": "Mexican forces stormed the Alamo after a thirteen-day siege. The defeat became a rallying symbol for Texian independence forces."
+    "gloss": "Mexican forces stormed the Alamo after a thirteen-day siege. The defeat became a rallying symbol for Texian independence and fed the cry remembered at San Jacinto."
   },
   "battle-san-jacinto-1836": {
     "year": "AD 1836",
@@ -5611,7 +5613,7 @@
       "label": "Texas Revolution",
       "order": 2
     },
-    "gloss": "Sam Houston army surprised and defeated Santa Anna at San Jacinto. The battle effectively secured Texas independence from Mexico."
+    "gloss": "Sam Houston's army surprised and defeated Santa Anna at San Jacinto. The battle effectively secured Texas independence from Mexico in a fight lasting less than twenty minutes."
   },
   "battle-cerro-gordo-1847": {
     "year": "AD 1847",
@@ -5708,7 +5710,7 @@
       "label": "Paraguayan War",
       "order": 8
     },
-    "gloss": "Brazilian forces killed Paraguayan president Francisco Solano López at Cerro Corá. The battle ended the Paraguayan War.",
+    "gloss": "Brazilian forces killed Paraguayan president Francisco Solano Lopez at Cerro Cora. The battle ended the Paraguayan War and left Paraguay devastated.",
     "casualties": "Paraguay: 100 killed and 240 captured; Brazil: 7 wounded"
   },
   "battle-angamos-1879": {
@@ -5725,7 +5727,7 @@
       "label": "War of the Pacific",
       "order": 1
     },
-    "gloss": "Chile captured the Peruvian ironclad Huascar at Angamos. The battle gave Chile naval dominance in the War of the Pacific."
+    "gloss": "Chile captured the Peruvian ironclad Huascar at Angamos. The battle gave Chile naval dominance in the War of the Pacific and opened the way for coastal operations."
   },
   "battle-miraflores-1881": {
     "year": "AD 1881",
@@ -5757,7 +5759,7 @@
       "label": "World War I Western Front",
       "order": 2.75
     },
-    "gloss": "British forces attacked at Loos and used poison gas for the first time. The battle produced heavy casualties for limited gains."
+    "gloss": "British forces attacked at Loos and used poison gas for the first time. The battle produced heavy casualties for limited gains and exposed problems in British command and supply."
   },
   "battle-vimy-ridge-1917": {
     "year": "AD 1917",
@@ -5773,7 +5775,7 @@
       "label": "World War I Western Front",
       "order": 4.5
     },
-    "gloss": "Canadian forces captured Vimy Ridge during the Arras offensive. The battle became a central moment in Canadian military memory."
+    "gloss": "Canadian forces captured Vimy Ridge during the Arras offensive through careful planning and artillery coordination. The battle became a central moment in Canadian military memory."
   },
   "battle-vittorio-veneto-1918": {
     "year": "AD 1918",
@@ -5805,7 +5807,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 2.5
     },
-    "gloss": "Japanese forces captured Hong Kong after a short but hard campaign in December 1941. The battle was part of Japan opening offensive across the Pacific and Asia."
+    "gloss": "Japanese forces captured Hong Kong after a short but hard campaign in December 1941. The battle was part of Japan's opening offensive across the Pacific and Asia."
   },
   "battle-java-sea-1942": {
     "year": "AD 1942",
@@ -5821,7 +5823,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 4.5
     },
-    "gloss": "Japanese warships defeated an Allied squadron attempting to defend the Dutch East Indies. The battle opened the way for Japan conquest of Java."
+    "gloss": "Japanese warships defeated an Allied squadron attempting to defend the Dutch East Indies. The battle opened the way for Japan's conquest of Java."
   },
   "dieppe-raid-1942": {
     "year": "AD 1942",
@@ -5853,7 +5855,7 @@
       "label": "World War II in Europe",
       "order": 11.5
     },
-    "gloss": "US forces captured Aachen after intense urban combat. It was the first major German city taken by the western Allies."
+    "gloss": "US forces captured Aachen after intense urban combat on the German frontier. It was the first major German city taken by the western Allies and previewed the cost of fighting into the Reich."
   },
   "siege-budapest-1944": {
     "year": "AD 1944-1945",
@@ -5997,7 +5999,7 @@
       "label": "Early Roman wars",
       "order": 1
     },
-    "gloss": "A Gallic army routed Roman forces near the Allia River. The defeat opened the way for the sack of Rome and left a deep mark on Roman memory."
+    "gloss": "A Gallic army routed Roman forces near the Allia River. The defeat opened the way for the sack of Rome and left a deep mark on Roman memory and military reform."
   },
   "battle-sentinum-295bc": {
     "year": "295 BC",
@@ -6013,7 +6015,7 @@
       "label": "Samnite Wars",
       "order": 3
     },
-    "gloss": "Rome defeated a coalition of Samnites, Gauls, and other enemies at Sentinum. The battle helped secure Roman dominance in central Italy."
+    "gloss": "Rome defeated a coalition of Samnites, Gauls, and other enemies at Sentinum. The battle helped secure Roman dominance in central Italy and close the Third Samnite War."
   },
   "battle-heraclea-280bc": {
     "year": "280 BC",
@@ -6045,7 +6047,7 @@
       "label": "Pyrrhic War",
       "order": 2
     },
-    "gloss": "Pyrrhus won again at Asculum but at severe cost. The battle gave rise to the idea of a victory so costly it undermines the victor."
+    "gloss": "Pyrrhus won again at Asculum but at severe cost against Rome. The battle gave rise to the idea of a victory so costly it undermines the victor."
   },
   "battle-beneventum-275bc": {
     "year": "275 BC",
@@ -6205,7 +6207,7 @@
       "label": "Second Punic War",
       "order": 2.5
     },
-    "gloss": "Scipio Africanus defeated the main Carthaginian army in Hispania at Ilipa. The victory cleared the way for Rome to attack Carthaginian power directly."
+    "gloss": "Scipio Africanus defeated the main Carthaginian army in Hispania at Ilipa. The victory cleared the way for Rome to attack Carthaginian power directly in Africa."
   },
   "battle-baecula-208bc": {
     "year": "208 BC",
@@ -6269,7 +6271,7 @@
       "label": "First Punic War",
       "order": 3
     },
-    "gloss": "Carthaginian ships destroyed a Roman fleet at Drepana. The defeat was Rome's worst naval setback of the First Punic War."
+    "gloss": "Carthaginian ships destroyed a Roman fleet at Drepana. The defeat was Rome's worst naval setback of the First Punic War and delayed its command of the sea."
   },
   "battle-arausio-105bc": {
     "year": "105 BC",
@@ -6493,7 +6495,7 @@
       "label": "Byzantine-Bulgarian wars",
       "order": 0.75
     },
-    "gloss": "Simeon I's Bulgarians crushed a Byzantine army near Anchialus. The battle confirmed Bulgaria as a dominant Balkan power."
+    "gloss": "Simeon I's Bulgarians crushed a Byzantine army near Anchialus. The battle confirmed Bulgaria as a dominant Balkan power during Simeon's imperial ambitions."
   },
   "battle-bach-dang-938": {
     "year": "AD 938",
@@ -6541,7 +6543,7 @@
       "label": "Anglo-Saxon England",
       "order": 1
     },
-    "gloss": "Athelstan defeated a northern coalition at Brunanburh. The battle helped secure the idea of a unified English kingdom."
+    "gloss": "Athelstan defeated a northern coalition at Brunanburh. The victory helped secure the idea of a unified English kingdom and became celebrated in Old English verse."
   },
   "battle-maldon-991": {
     "year": "AD 991",
@@ -6605,7 +6607,7 @@
       "label": "Byzantine steppe wars",
       "order": 1
     },
-    "gloss": "John II Komnenos defeated the Pechenegs near Beroia. The victory ended the Pechenegs as a major threat to Byzantium."
+    "gloss": "John II Komnenos defeated the Pechenegs near Beroia. The victory ended the Pechenegs as a major threat to Byzantium and strengthened Komnenian recovery in the Balkans."
   },
   "first-battle-tarain-1191": {
     "year": "AD 1191",
@@ -6701,7 +6703,7 @@
       "label": "Mongol conquests",
       "order": 1
     },
-    "gloss": "Genghis Khan's army defeated a much larger Jin force at Yehuling. The battle opened northern China to sustained Mongol pressure."
+    "gloss": "Genghis Khan's army defeated a much larger Jin force at Yehuling. The battle opened northern China to sustained Mongol pressure and began the fall of Jin power."
   },
   "siege-kiev-1240": {
     "year": "AD 1240",
@@ -6717,7 +6719,7 @@
       "label": "Mongol conquests",
       "order": 4
     },
-    "gloss": "Mongol forces stormed Kiev after a siege in 1240. The city's fall symbolized the devastation of the Mongol invasion of Rus."
+    "gloss": "Mongol forces stormed Kiev after a siege in 1240. The city's fall symbolized the devastation of the Mongol invasion of Rus and shifted power away from old Kievan centers."
   },
   "siege-xiangyang-1267": {
     "year": "AD 1267-1273",
@@ -6765,7 +6767,7 @@
       "label": "Korean Three Kingdoms conflicts",
       "order": 1
     },
-    "gloss": "Tang and Silla forces defeated Baekje loyalists and their Yamato allies at Baekgang. The battle ended hopes of restoring Baekje."
+    "gloss": "Tang and Silla forces defeated Baekje loyalists and their Yamato allies at Baekgang. The battle ended hopes of restoring Baekje and reshaped power on the Korean peninsula."
   },
   "battle-bunei-1274": {
     "year": "AD 1274",
@@ -6829,7 +6831,7 @@
       "label": "Swiss-Habsburg wars",
       "order": 1
     },
-    "gloss": "Swiss forces ambushed a Habsburg army at Morgarten. The battle strengthened the early Swiss Confederation's military reputation."
+    "gloss": "Swiss forces ambushed a Habsburg army at Morgarten. The battle strengthened the early Swiss Confederation's military reputation and became part of Swiss foundation memory."
   },
   "battle-maritsa-1371": {
     "year": "AD 1371",
@@ -6861,7 +6863,7 @@
       "label": "Lithuanian-Horde conflicts",
       "order": 1
     },
-    "gloss": "Lithuanian forces defeated Golden Horde armies at Blue Waters. The battle expanded Lithuanian influence across parts of Ukraine."
+    "gloss": "Lithuanian forces defeated Golden Horde armies at Blue Waters. The battle expanded Lithuanian influence across parts of Ukraine and weakened steppe control in the region."
   },
   "battle-cerignola-1503": {
     "year": "AD 1503",
@@ -7006,7 +7008,7 @@
       "label": "Ottoman expansion in Europe and the Mediterranean",
       "order": 12
     },
-    "gloss": "A Habsburg-led army defeated Ottoman forces near Saint Gotthard. The victory checked Ottoman pressure in western Hungary."
+    "gloss": "A Habsburg-led army defeated Ottoman forces near Saint Gotthard. The victory checked Ottoman pressure in western Hungary and shaped the uneasy peace that followed."
   },
   "battle-la-hogue-1692": {
     "year": "AD 1692",
@@ -7200,7 +7202,7 @@
       "label": "American Revolutionary War",
       "order": 1.3
     },
-    "gloss": "British forces under Cornwallis routed an American army at Camden. The defeat deepened the crisis for Patriot forces in the South.",
+    "gloss": "British forces under Cornwallis routed an American army at Camden. The defeat deepened the Patriot crisis in the South and led to new American command under Nathanael Greene.",
     "casualties": "Great Britain: 324 casualties; United States: about 1,900 casualties"
   },
   "battle-kings-mountain-1780": {
@@ -7282,7 +7284,7 @@
       "label": "French Revolutionary Wars",
       "order": 3
     },
-    "gloss": "Moreau's French army defeated Austrian and Bavarian forces at Hohenlinden. The victory helped force Austria toward peace."
+    "gloss": "Moreau's French army defeated Austrian and Bavarian forces at Hohenlinden. The victory helped force Austria toward peace and strengthened France's position under the Consulate."
   },
   "battle-ulm-1805": {
     "year": "AD 1805",
@@ -7298,7 +7300,7 @@
       "label": "Napoleonic Wars",
       "order": 1.5
     },
-    "gloss": "Napoleon encircled Mack's Austrian army around Ulm and forced its surrender. The operation showed the strategic power of rapid corps maneuver."
+    "gloss": "Napoleon encircled Mack's Austrian army around Ulm and forced its surrender. The operation showed the strategic power of rapid corps maneuver before Austerlitz."
   },
   "battle-beresina-1812": {
     "year": "AD 1812",
@@ -7529,7 +7531,7 @@
       "label": "British imperial wars",
       "order": 1
     },
-    "gloss": "British forces launched a dawn assault on Egyptian entrenchments at Tel el-Kebir. The victory secured British control over Egypt."
+    "gloss": "British forces launched a dawn assault on Egyptian entrenchments at Tel el-Kebir. The victory secured British control over Egypt and the Suez route."
   },
   "battle-maiwand-1880": {
     "year": "AD 1880",
@@ -7821,7 +7823,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 9.5
     },
-    "gloss": "US forces captured Tinian after an efficient amphibious landing. The island later became a major B-29 base for attacks on Japan.",
+    "gloss": "US forces captured Tinian after an efficient amphibious landing in the Marianas. The island became a major B-29 base, including for the atomic bombing missions against Japan.",
     "casualties": "United States: 328 killed and 1,571 wounded; Empire of Japan: about 8,000 killed and 300 captured"
   },
   "battle-makin-1943": {
@@ -7838,7 +7840,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 7.5
     },
-    "gloss": "US forces captured Makin during the Gilbert Islands campaign. The battle accompanied the more costly landing at Tarawa."
+    "gloss": "US forces captured Makin during the Gilbert Islands campaign. The operation accompanied Tarawa and helped refine American amphibious methods in the central Pacific."
   },
   "battle-eastern-solomons-1942": {
     "year": "AD 1942",
@@ -7871,7 +7873,7 @@
       "label": "World War II in Asia and the Pacific",
       "order": 7.25
     },
-    "gloss": "Japanese carriers inflicted heavy losses on the US Navy near the Santa Cruz Islands. The battle cost Japan experienced aircrews it could not easily replace.",
+    "gloss": "Japanese carriers inflicted heavy losses on the US Navy near the Santa Cruz Islands. The battle cost Japan's experienced aircrews it could not replace and helped decide the Guadalcanal struggle.",
     "casualties": "Imperial Japanese Navy: about 400-500 killed; United States Navy: 266 killed"
   },
   "naval-guadalcanal-1942": {
@@ -7937,7 +7939,7 @@
       "label": "World War II Mediterranean",
       "order": 4
     },
-    "gloss": "Allied forces broke through toward Rimini during attacks on the Gothic Line. The battle was one of the heaviest fought in Italy in 1944."
+    "gloss": "Allied forces broke through toward Rimini during attacks on the Gothic Line. The battle was one of the heaviest fought in Italy in 1944 and helped open the Adriatic flank."
   },
   "battle-pusan-perimeter-1950": {
     "year": "AD 1950",
@@ -8292,7 +8294,7 @@
       "label": "Gallic Wars",
       "order": 1
     },
-    "gloss": "Caesar defeated the Helvetii-led migration near Bibracte, halting their movement through Gaul. It was the first major battle of the Gallic Wars.",
+    "gloss": "Caesar defeated the Helvetii-led migration near Bibracte, halting their movement through Gaul. It was the first major battle of the Gallic Wars and justified deeper Roman intervention.",
     "casualties": "Roman Republic: unknown; Helvetii-led coalition: 238,000 killed or captured according to Caesar"
   },
   "battle-vosges-58bc": {

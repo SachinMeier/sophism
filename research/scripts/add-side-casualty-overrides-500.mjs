@@ -18,6 +18,7 @@ const updates = {
   'battle-dogger-bank-1915': 'Royal Navy: 95 casualties; Imperial German Navy: about 950 casualties',
   'battle-sidi-barrani-1940': 'British Commonwealth forces: about 624 casualties; Italy: about 38,000 captured plus killed and wounded',
   'battle-beda-fomm-1941': 'British Commonwealth forces: about 500 casualties; Italy: about 25,000 captured',
+  'battle-monte-cassino-1944': 'Allied forces: about 55,000 casualties; Nazi Germany: about 20,000 killed or wounded',
   'battle-nieuwpoort-1600': 'Dutch Republic and England: about 1,700-2,700 dead or wounded; Spain: about 4,000 killed, wounded, or captured',
   'battle-tinian-1944': 'United States: 328 killed and 1,571 wounded; Empire of Japan: about 8,000 killed and 300 captured',
   'battle-eastern-solomons-1942': 'Allied naval forces: about 90 killed; Imperial Japanese Navy: about 290 killed',

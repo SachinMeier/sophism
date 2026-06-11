@@ -1,8 +1,8 @@
 # Famous Buildings Research Notes
 
-Target count: 100 cards first pass; expanded to 150 in the second pass.
+Target count: 100 cards first pass; expanded in later passes.
 
-Production count: 150 cards in `data/buildings.json`.
+Production count: 263 cards in `data/buildings.json`.
 
 ## Series Assignment
 
@@ -23,7 +23,7 @@ Every building card carries `details.series` keyed by style/movement, per the sp
 - Sanchi Stupa: enlargement and toranas span the 2nd-1st centuries BC; ordered at c. 50 BC (`-500000`).
 - El Castillo (Chichén Itzá): construction spans the 8th-12th centuries; ordered at c. AD 1100 (`11000000`).
 - Neuschwanstein: never finished; ordered at 1886, when construction effectively halted.
-- Eiffel Tower is the only `Other or Unknown` card, so it renders no previous/next controls, which is the intended single-card series behavior.
+- The former `Other or Unknown` bucket was removed. Its cards now sit in more specific style series: `Georgian`, `Indo-Saracenic`, `Italianate or Eclectic`, `Iron and Glass`, or `Modernist`.
 
 ## Second Pass (Cards 101-150)
 

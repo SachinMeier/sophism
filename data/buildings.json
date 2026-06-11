@@ -22,7 +22,7 @@
         "label": "Ancient Egyptian",
         "order": -25600000
       },
-      "gloss": "The largest pyramid at Giza was built as Khufu's royal tomb. Its scale, alignment, and masonry precision made it the emblem of ancient Egyptian monumentality.",
+      "gloss": "Built for Pharaoh Khufu, the Great Pyramid fixed royal power into the desert skyline. As the only surviving ancient Seven Wonder, it became the benchmark for monumental ambition and Egyptian engineering.",
       "location": "Giza, Egypt"
     },
     "sources": [
@@ -59,7 +59,7 @@
         "label": "Ancient Egyptian",
         "order": -26500000
       },
-      "gloss": "Djoser's Step Pyramid turned mastaba tomb forms into a towering stone complex. It is a landmark in the early development of monumental architecture.",
+      "gloss": "Designed for Djoser by Imhotep, this stepped pyramid turned mastaba tombs into Egypt's first great stone monument. Its Saqqara complex launched the pyramid age and made architecture a royal theology.",
       "location": "Saqqara, Egypt"
     },
     "sources": [
@@ -96,7 +96,7 @@
         "label": "Ancient Egyptian",
         "order": -14580000
       },
-      "gloss": "Hatshepsut's terraced temple is set dramatically against the cliffs of Deir el-Bahari. Its axial ramps and colonnades frame royal ritual as landscape architecture.",
+      "gloss": "Hatshepsut used Deir el-Bahri to present herself as a divinely chosen pharaoh, not merely a regent. Its terraces, processional ramps, and cliff backdrop turned royal propaganda into calm architectural drama.",
       "location": "Luxor, Egypt"
     },
     "sources": [
@@ -133,7 +133,7 @@
         "label": "Ancient Egyptian",
         "order": -12440000
       },
-      "gloss": "The rock-cut temples project royal power through colossal seated statues and solar alignments. Their modern relocation became a landmark preservation campaign.",
+      "gloss": "Ramesses II carved Abu Simbel into Nubia to project Egyptian power and his own godlike status. Its 1960s UNESCO-led relocation, stone by stone, made it a modern icon of cultural rescue as well as pharaonic spectacle.",
       "location": "Abu Simbel, Egypt"
     },
     "sources": [
@@ -170,7 +170,7 @@
         "label": "Classical",
         "order": -4320000
       },
-      "gloss": "The Parthenon refined the Doric temple with subtle optical corrections and a rich sculptural program. It remains the canonical image of classical Greek architecture.",
+      "gloss": "Built under Pericles for Athena, the Parthenon became the marble emblem of Athens's democratic empire. Its sculptures, later removals, and ruined silhouette made it central to debates over classical beauty and cultural memory.",
       "location": "Athens, Greece"
     },
     "sources": [
@@ -207,7 +207,7 @@
         "label": "Ancient Roman",
         "order": 800000
       },
-      "gloss": "The Flavian Amphitheatre fused engineering, crowd control, and spectacle at urban scale. Its stacked orders and vaulting made it an enduring Roman icon.",
+      "gloss": "The Flavian emperors built the Colosseum on Nero's former pleasure grounds to return spectacle to Rome. Gladiators, hunts, and crowds made it the enduring image of imperial entertainment and engineering control.",
       "location": "Rome, Italy"
     },
     "sources": [
@@ -244,7 +244,7 @@
         "label": "Ancient Roman",
         "order": 1260000
       },
-      "gloss": "The Pantheon is celebrated for its vast concrete dome and central oculus. Its engineering and preservation made it one of Rome's most influential monuments.",
+      "gloss": "Hadrian's Pantheon turned concrete, geometry, and light into a cosmic Roman interior. Its unreinforced dome and oculus shaped churches, capitols, and memorial buildings for nearly two millennia.",
       "location": "Rome, Italy"
     },
     "sources": [
@@ -281,7 +281,7 @@
         "label": "Ancient Roman",
         "order": 1170000
       },
-      "gloss": "The two-story facade at Ephesus turns a library and tomb into civic theater. Its restored columns and niches show Roman urban display at its most elegant.",
+      "gloss": "Raised by Gaius Julius Aquila for his father Celsus, this Ephesian library joined scholarship with dynastic honor. Its ornate facade became one of the best surviving images of elite urban life in Roman Asia.",
       "location": "Selcuk, Turkey"
     },
     "sources": [
@@ -318,7 +318,7 @@
         "label": "Ancient Roman",
         "order": -120000
       },
-      "gloss": "This exceptionally preserved Roman temple presents a crisp Corinthian portico on a high podium. It became a model for later neoclassical public buildings.",
+      "gloss": "Dedicated to Augustus's heirs, the Maison Carrée made imperial loyalty visible in provincial Gaul. Its near-complete Corinthian form became a textbook model for later Neoclassical buildings, including Jefferson's designs.",
       "location": "Nimes, France"
     },
     "sources": [
@@ -355,7 +355,7 @@
         "label": "Classical",
         "order": 500000
       },
-      "gloss": "Petra's Treasury carves Hellenistic orders directly into sandstone cliffs. The facade made Nabataean wealth and cross-cultural design visible at a monumental scale.",
+      "gloss": "Carved into Petra's sandstone for Nabataean elites, Al-Khazneh turned a cliff face into a theatrical tomb or shrine. Its dramatic facade made Petra famous again for modern travelers and cinema alike.",
       "location": "Petra, Jordan"
     },
     "sources": [
@@ -392,7 +392,7 @@
         "label": "Vernacular or Traditional",
         "order": -500000
       },
-      "gloss": "The Great Stupa preserves one of Buddhism's essential monument types. Its carved gateways turn pilgrimage, relic veneration, and narrative relief into architecture.",
+      "gloss": "Begun under Ashoka and enlarged by later patrons, Sanchi preserves Buddhism's early monumental language. Its carved gateways narrate devotion without showing the Buddha in human form, making ritual movement part of the lesson.",
       "location": "Sanchi, India"
     },
     "sources": [
@@ -429,7 +429,7 @@
         "label": "Vernacular or Traditional",
         "order": 2000000
       },
-      "gloss": "The Pyramid of the Sun anchors Teotihuacan's ceremonial axis. Its stepped mass and urban alignment reveal the city's cosmic planning and political scale.",
+      "gloss": "The Pyramid of the Sun anchored Teotihuacan's sacred city plan and Avenue of the Dead. Its scale made the unknown builders' power tangible and later inspired Aztec awe when they encountered the ruins.",
       "location": "Teotihuacan, Mexico"
     },
     "sources": [
@@ -466,7 +466,7 @@
         "label": "Vernacular or Traditional",
         "order": 7320000
       },
-      "gloss": "Temple I rises sharply over Tikal's Great Plaza as a funerary pyramid for Jasaw Chan K'awiil I. Its height turns royal memory into skyline.",
+      "gloss": "Temple I marked the tomb and authority of the Maya ruler Jasaw Chan K'awiil I. Rising above Tikal's jungle plaza, it turns dynastic burial, astronomy, and city ceremony into a single vertical icon.",
       "location": "Tikal, Guatemala"
     },
     "sources": [
@@ -503,7 +503,7 @@
         "label": "Vernacular or Traditional",
         "order": 11000000
       },
-      "gloss": "El Castillo uses stairs, terraces, and solar effects to connect rulership with calendrical order. It is one of Mesoamerica's most recognizable temple pyramids.",
+      "gloss": "El Castillo made Maya-Toltec rule visible through geometry, ritual, and the feathered serpent Kukulkan. Its equinox shadow effect helped make Chichen Itza a modern emblem of Mesoamerican astronomy and power.",
       "location": "Chichen Itza, Mexico"
     },
     "sources": [
@@ -540,7 +540,7 @@
         "label": "Vernacular or Traditional",
         "order": 8400000
       },
-      "gloss": "Borobudur transforms Buddhist cosmology into a walkable mountain of terraces, reliefs, and stupas. Its pilgrimage route makes doctrine spatial and tactile.",
+      "gloss": "Borobudur turns a Buddhist pilgrimage into a climb through cosmic levels toward enlightenment. Built by Java's Sailendra dynasty, its reliefs and stupas survived abandonment to become Indonesia's great sacred monument.",
       "location": "Magelang, Indonesia"
     },
     "sources": [
@@ -577,7 +577,7 @@
         "label": "Vernacular or Traditional",
         "order": 11500000
       },
-      "gloss": "Angkor Wat combines temple-mountain symbolism with vast moats, galleries, and reliefs. It is the masterwork of Khmer sacred and royal architecture.",
+      "gloss": "Suryavarman II built Angkor Wat as a Hindu temple, later transformed by Buddhist devotion. Its moats, towers, and vast bas-reliefs made Khmer kingship and cosmology one of the world's grandest architectural visions.",
       "location": "Siem Reap, Cambodia"
     },
     "sources": [
@@ -614,7 +614,7 @@
         "label": "Vernacular or Traditional",
         "order": 5500000
       },
-      "gloss": "The temple marks the place where the Buddha is said to have attained enlightenment. Its tall brick tower made Bodh Gaya a focus of Buddhist pilgrimage.",
+      "gloss": "The Mahabodhi Temple marks Bodh Gaya, where the Buddha is said to have attained enlightenment. Rebuilt and restored over centuries, it made a specific tree-shrine landscape central to global Buddhist pilgrimage.",
       "location": "Bodh Gaya, India"
     },
     "sources": [
@@ -651,7 +651,7 @@
         "label": "Vernacular or Traditional",
         "order": 7110000
       },
-      "gloss": "Horyu-ji preserves some of the world's oldest surviving wooden buildings. Its pagoda and halls shaped the early language of Buddhist architecture in Japan.",
+      "gloss": "Linked to Prince Shotoku, Horyu-ji preserves some of the world's oldest surviving wooden buildings. Its pagoda and halls show how Buddhism, continental craft, and Japanese state formation met in timber.",
       "location": "Ikaruga, Japan"
     },
     "sources": [
@@ -688,7 +688,7 @@
         "label": "Byzantine",
         "order": 5370000
       },
-      "gloss": "Hagia Sophia's hovering dome and vast interior redefined sacred space in Byzantium. Later Ottoman additions made it a layered monument of empire and worship.",
+      "gloss": "Justinian's Hagia Sophia stunned Constantinople with a dome that seemed to float on light. Church, mosque, museum, and mosque again, it carries the political and spiritual history of Byzantine and Ottoman Istanbul.",
       "location": "Istanbul, Turkey"
     },
     "sources": [
@@ -725,7 +725,7 @@
         "label": "Byzantine",
         "order": 5470000
       },
-      "gloss": "San Vitale pairs an octagonal plan with glittering imperial mosaics. Its structure and decoration preserve Ravenna's role between Rome and Byzantium.",
+      "gloss": "San Vitale preserves Ravenna's Byzantine world in brick, space, and glittering mosaics. The portraits of Justinian and Theodora turn a provincial church into a stage for imperial authority.",
       "location": "Ravenna, Italy"
     },
     "sources": [
@@ -762,7 +762,7 @@
         "label": "Islamic",
         "order": 6910000
       },
-      "gloss": "The Dome of the Rock is among the earliest major Islamic monuments. Its octagonal plan, mosaics, and gilded dome make the sacred rock a radiant focal point.",
+      "gloss": "Built by the Umayyad caliph Abd al-Malik, the Dome of the Rock announced Islam in Jerusalem's sacred landscape. Its mosaics and golden dome made the rock a focus of theology, politics, and pilgrimage.",
       "location": "Jerusalem, Israel"
     },
     "sources": [
@@ -799,7 +799,7 @@
         "label": "Islamic",
         "order": 7860000
       },
-      "gloss": "Its forest of striped arches and later cathedral crossing record Andalusia's religious and political layers. The building is a key monument of Islamic Spain.",
+      "gloss": "The Umayyads of al-Andalus made Cordoba's mosque a masterpiece of horseshoe arches and political memory. Its later cathedral insertion records Spain's layered Islamic and Christian histories in one building.",
       "location": "Cordoba, Spain"
     },
     "sources": [
@@ -836,7 +836,7 @@
         "label": "Islamic",
         "order": 13900000
       },
-      "gloss": "The Alhambra turns courts, water, tilework, and calligraphy into an intimate palace city. It is the most celebrated survival of Nasrid architecture.",
+      "gloss": "The Nasrid rulers of Granada turned the Alhambra into a palace of water, poetry, and fragile power. Its muqarnas halls and inscriptions became the most famous surviving image of late Islamic Spain.",
       "location": "Granada, Spain"
     },
     "sources": [
@@ -873,7 +873,7 @@
         "label": "Gothic",
         "order": 13450000
       },
-      "gloss": "Notre-Dame's pointed arches, flying buttresses, and sculpted portals helped define French Gothic. The cathedral remains a central symbol of Paris.",
+      "gloss": "Notre-Dame gave medieval Paris a cathedral for kings, guilds, and crowds on the Ile de la Cité. Hugo's novel and the 2019 fire made its flying buttresses and towers symbols of both Gothic daring and civic recovery.",
       "location": "Paris, France"
     },
     "sources": [
@@ -910,7 +910,7 @@
         "label": "Gothic",
         "order": 12200000
       },
-      "gloss": "Chartres brings stained glass, sculpture, and soaring vaults into a remarkably coherent Gothic ensemble. Its glazing is a touchstone of medieval art.",
+      "gloss": "Chartres became a pilgrimage beacon for the Virgin's relic and a masterpiece of Gothic glass. Its rebuilt nave, sculpture, and blue windows made theology legible to medieval crowds and modern historians alike.",
       "location": "Chartres, France"
     },
     "sources": [
@@ -947,7 +947,7 @@
         "label": "Gothic",
         "order": 15170000
       },
-      "gloss": "Westminster Abbey joins royal coronation, burial, and national memory in one Gothic church. Its long building history mirrors English monarchy and ritual.",
+      "gloss": "Westminster Abbey is where English monarchs are crowned, married, buried, and remembered. Its Gothic church binds royal ceremony, Poets' Corner, and national memory into Britain's most ceremonial sacred space.",
       "location": "London, United Kingdom"
     },
     "sources": [
@@ -984,7 +984,7 @@
         "label": "Gothic",
         "order": 18800000
       },
-      "gloss": "Cologne Cathedral revived and completed a medieval Gothic vision in the 19th century. Its twin spires dominate the city and frame a major pilgrimage shrine.",
+      "gloss": "Cologne Cathedral was begun to house the relics of the Three Kings and finished in the 19th century as a German national project. Its twin spires made medieval faith and modern identity share one skyline.",
       "location": "Cologne, Germany"
     },
     "sources": [
@@ -1021,7 +1021,7 @@
         "label": "Gothic",
         "order": 18130000
       },
-      "gloss": "Milan Cathedral turns Gothic architecture into a marble forest of pinnacles, statues, and tracery. Its centuries-long construction made it a civic emblem.",
+      "gloss": "Milan Cathedral took centuries of dukes, engineers, and workshops to complete. Its forest of pinnacles and statues turned civic pride and Catholic spectacle into one of Europe's most extravagant Gothic facades.",
       "location": "Milan, Italy"
     },
     "sources": [
@@ -1058,7 +1058,7 @@
         "label": "Byzantine",
         "order": 10940000
       },
-      "gloss": "St Mark's fuses Byzantine domes, mosaics, and spolia with Venetian display. It made the republic's trade networks visible in sacred form.",
+      "gloss": "St Mark's displayed Venice's trade, conquest, and devotion through domes, mosaics, and imported marbles. The relic of Saint Mark made the basilica the republic's sacred treasury and political theater.",
       "location": "Venice, Italy"
     },
     "sources": [
@@ -1095,7 +1095,7 @@
         "label": "Gothic",
         "order": 15210000
       },
-      "gloss": "The abbey crowns a tidal island with stacked crypts, halls, and a soaring church. Its setting makes monastic architecture inseparable from landscape.",
+      "gloss": "Mont-Saint-Michel fused abbey, fortress, and tidal island into a pilgrimage image unlike any other in Europe. Its layered Gothic halls rose from dangerous sands into a symbol of monastic endurance and French identity.",
       "location": "Le Mont-Saint-Michel, France"
     },
     "sources": [
@@ -1132,7 +1132,7 @@
         "label": "Romanesque",
         "order": 13720000
       },
-      "gloss": "Pisa's campanile is famous for the tilt caused by unstable foundations. Its arcaded marble cylinder became an icon of both engineering flaw and rescue.",
+      "gloss": "Pisa's bell tower became famous because engineering failure became visual poetry. Its lean, Galileo legends, and long stabilization effort made a Romanesque campanile one of the world's best-known monuments.",
       "location": "Pisa, Italy"
     },
     "sources": [
@@ -1172,7 +1172,7 @@
         "label": "Gothic",
         "order": 14360000
       },
-      "gloss": "Brunelleschi's double-shell dome solved a major technical problem and announced Renaissance confidence. The cathedral became Florence's civic crown.",
+      "gloss": "Brunelleschi's dome solved a problem that had haunted Florence for generations and announced Renaissance engineering. With Giotto's campanile and the Baptistery nearby, the cathedral became the civic heart of the city.",
       "location": "Florence, Italy"
     },
     "sources": [
@@ -1209,7 +1209,7 @@
         "label": "Gothic",
         "order": 14240000
       },
-      "gloss": "The Doge's Palace balances a delicate Gothic arcade below massive patterned walls. It was both seat of government and ceremonial face of Venice.",
+      "gloss": "The Doge's Palace made Venetian government visible in pink stone, tracery, and waterfront ceremony. Its councils, courts, prisons, and Bridge of Sighs turned republican power into an architectural spectacle.",
       "location": "Venice, Italy"
     },
     "sources": [
@@ -1246,7 +1246,7 @@
         "label": "Vernacular or Traditional",
         "order": 14200000
       },
-      "gloss": "The Forbidden City organized imperial power through axial courts, gates, and halls. Its scale and hierarchy made it the architectural center of Ming and Qing rule.",
+      "gloss": "Built for the Ming Yongle emperor, the Forbidden City staged imperial China through gates, courts, and cosmic order. For five centuries, access to its halls meant proximity to the Son of Heaven.",
       "location": "Beijing, China"
     },
     "sources": [
@@ -1283,7 +1283,7 @@
         "label": "Vernacular or Traditional",
         "order": 15450000
       },
-      "gloss": "The Temple of Heaven choreographed imperial rites through circular halls, terraces, and processional space. It expresses cosmic order in timber and stone.",
+      "gloss": "The Temple of Heaven was where Ming and Qing emperors prayed for harvests and affirmed cosmic legitimacy. Its circular halls and axial precinct made rulership depend on harmony between heaven, earth, and state.",
       "location": "Beijing, China"
     },
     "sources": [
@@ -1320,7 +1320,7 @@
         "label": "Vernacular or Traditional",
         "order": 16090000
       },
-      "gloss": "Himeji Castle combines defensive planning with white plaster elegance. Its layered roofs and maze-like approaches make it Japan's best-known surviving castle.",
+      "gloss": "Himeji Castle survived war, fire, and bombing to become Japan's most complete feudal castle. Its white plaster walls, mazelike defenses, and elegant keep make military architecture look almost weightless.",
       "location": "Himeji, Japan"
     },
     "sources": [
@@ -1357,7 +1357,7 @@
         "label": "Vernacular or Traditional",
         "order": 13970000
       },
-      "gloss": "The Golden Pavilion layers aristocratic, samurai, and Zen references into a lakeside composition. Its reflection makes architecture part of garden scenery.",
+      "gloss": "Kinkaku-ji began as shogun Ashikaga Yoshimitsu's retreat and became a Zen temple after his death. Its gold-leaf pavilion, rebuilt after a 1950 arson, remains Kyoto's image of beauty, loss, and renewal.",
       "location": "Kyoto, Japan"
     },
     "sources": [
@@ -1394,7 +1394,7 @@
         "label": "Vernacular or Traditional",
         "order": 16940000
       },
-      "gloss": "The Potala Palace rises from Marpo Ri as monastery, palace, and fortress. Its terraces and chapels made Tibetan Buddhist authority visible over Lhasa.",
+      "gloss": "The Potala Palace rose as the winter seat of the Dalai Lamas and the symbolic center of Tibetan rule. Its white and red masses over Lhasa merge monastery, palace, fortress, and pilgrimage destination.",
       "location": "Lhasa, China"
     },
     "sources": [
@@ -1431,7 +1431,7 @@
         "label": "Vernacular or Traditional",
         "order": 15610000
       },
-      "gloss": "Saint Basil's gathers multiple chapels into a vivid cluster of domes and towers. It became one of the most recognizable symbols of Moscow.",
+      "gloss": "Ivan the Terrible built Saint Basil's to celebrate victory over Kazan. Its clustered chapels and candy-colored domes turned Red Square into a theatrical image of Muscovite power and sacred legend.",
       "location": "Moscow, Russia"
     },
     "sources": [
@@ -1468,7 +1468,7 @@
         "label": "Islamic",
         "order": 15750000
       },
-      "gloss": "Sinan considered Selimiye his masterpiece. The mosque centers a vast dome on slender supports, creating an unusually unified Ottoman interior.",
+      "gloss": "Mimar Sinan called Selimiye his masterpiece, crowning Edirne with a dome of astonishing clarity. Built for Selim II, it showed Ottoman architecture at its most disciplined and imperial.",
       "location": "Edirne, Turkey"
     },
     "sources": [
@@ -1505,7 +1505,7 @@
         "label": "Islamic",
         "order": 15570000
       },
-      "gloss": "The Suleymaniye Mosque pairs imperial grandeur with Sinan's measured structural clarity. Its complex of schools, baths, and tombs shaped Ottoman urban life.",
+      "gloss": "Sinan's Suleymaniye made Suleiman the Magnificent's Istanbul visible in stone, schools, tombs, and skyline. Its balanced dome and complex joined prayer, learning, charity, and dynastic memory.",
       "location": "Istanbul, Turkey"
     },
     "sources": [
@@ -1542,7 +1542,7 @@
         "label": "Islamic",
         "order": 16160000
       },
-      "gloss": "Known as the Blue Mosque, Sultan Ahmed's mosque stacks domes toward a luminous tiled interior. Its six minarets made it an unmistakable Istanbul landmark.",
+      "gloss": "Sultan Ahmed I's mosque rivaled Hagia Sophia with cascading domes and six minarets. Known as the Blue Mosque, its tiled interior and imperial ambition made it a defining landmark of Ottoman Istanbul.",
       "location": "Istanbul, Turkey"
     },
     "sources": [
@@ -1579,7 +1579,7 @@
         "label": "Islamic",
         "order": 16190000
       },
-      "gloss": "This Safavid mosque compresses worship into an exquisite tile-lined chamber and dome. Its off-axis entry and luminous surfaces reward close looking.",
+      "gloss": "Shah Abbas I built Sheikh Lotfollah Mosque as a private royal sanctuary on Isfahan's great square. Its off-axis passage and luminous tile dome make intimacy as powerful as imperial scale.",
       "location": "Isfahan, Iran"
     },
     "sources": [
@@ -1616,7 +1616,7 @@
         "label": "Islamic",
         "order": 16530000
       },
-      "gloss": "The Taj Mahal turns a mausoleum into a perfectly balanced garden complex of marble, water, and inlay. It is the best-known monument of Mughal architecture.",
+      "gloss": "Shah Jahan built the Taj Mahal for Mumtaz Mahal, turning grief into perfect Mughal symmetry. Its garden, marble, calligraphy, and changing light made it the world's most famous monument to love and empire.",
       "location": "Agra, India"
     },
     "sources": [
@@ -1653,7 +1653,7 @@
         "label": "Islamic",
         "order": 15720000
       },
-      "gloss": "Humayun's Tomb brought Persianate garden-tomb planning to Delhi at imperial scale. Its high dome and charbagh layout foreshadowed the Taj Mahal.",
+      "gloss": "Humayun's Tomb gave the Mughals a new imperial language of gardens, red sandstone, and domed symmetry. Commissioned by Haji Begum, it became a direct ancestor of the Taj Mahal.",
       "location": "Delhi, India"
     },
     "sources": [
@@ -1690,7 +1690,7 @@
         "label": "Islamic",
         "order": 16480000
       },
-      "gloss": "The Red Fort was the palace-fortress of Shah Jahan's new capital. Its walls, audience halls, and gardens made Mughal sovereignty architectural.",
+      "gloss": "Shah Jahan's Red Fort made Delhi the Mughal capital's ceremonial center. Its halls of audience and later independence speeches by Indian prime ministers turned imperial architecture into national memory.",
       "location": "Delhi, India"
     },
     "sources": [
@@ -1730,7 +1730,7 @@
         "label": "Renaissance",
         "order": 16260000
       },
-      "gloss": "St. Peter's gathers Renaissance planning, Michelangelo's dome, and Baroque urban theater. It became the architectural center of Roman Catholic pilgrimage.",
+      "gloss": "St. Peter's gathered Bramante, Michelangelo, Maderno, and Bernini into the architectural center of Roman Catholic power. Its dome, altar, and piazza made pilgrimage and papal ceremony a global spectacle.",
       "location": "Vatican City, Vatican City"
     },
     "sources": [
@@ -1767,7 +1767,7 @@
         "label": "Renaissance",
         "order": 15920000
       },
-      "gloss": "Palladio gave a country villa the symmetry and temple fronts of classical architecture. Its compact plan became a touchstone for later neoclassicism.",
+      "gloss": "Palladio's Villa La Rotonda turned a country house into a perfectly ordered essay on symmetry and classical proportion. Its four porticoes shaped centuries of villas, capitols, and plantation houses.",
       "location": "Vicenza, Italy"
     },
     "sources": [
@@ -1804,7 +1804,7 @@
         "label": "Renaissance",
         "order": 15470000
       },
-      "gloss": "Chambord turns a royal hunting lodge into a fantastical Renaissance skyline. Its towers, terraces, and double-helix stair have made it a Loire icon.",
+      "gloss": "Chambord was Francis I's hunting palace and a display of French Renaissance ambition. Its skyline, double-helix stair, and rumored links to Leonardo da Vinci made royal leisure feel almost experimental.",
       "location": "Chambord, France"
     },
     "sources": [
@@ -1841,7 +1841,7 @@
         "label": "Baroque",
         "order": 17150000
       },
-      "gloss": "Versailles made royal absolutism spatial through axial gardens, ceremonial rooms, and endless perspective. It became Europe's model of palace power.",
+      "gloss": "Louis XIV made Versailles a machine of absolutism, forcing nobles to live inside royal ceremony. Its Hall of Mirrors later hosted the 1919 Treaty of Versailles, tying Baroque splendor to modern geopolitics.",
       "location": "Versailles, France"
     },
     "sources": [
@@ -1878,7 +1878,7 @@
         "label": "Baroque",
         "order": 17490000
       },
-      "gloss": "Schonbrunn translated Habsburg court life into a vast palace-and-garden ensemble. Its rooms, axes, and parkland made Vienna's imperial image tangible.",
+      "gloss": "Schonbrunn was the Habsburg summer stage for Maria Theresa, court ritual, and imperial display. Its rooms, gardens, and Gloriette made Vienna's monarchy visible in both domestic life and grand theater.",
       "location": "Vienna, Austria"
     },
     "sources": [
@@ -1915,7 +1915,7 @@
         "label": "Baroque",
         "order": 17620000
       },
-      "gloss": "Rastrelli's Winter Palace wraps imperial Russia in exuberant Baroque scale and color. Its later use as the Hermitage deepened its cultural role.",
+      "gloss": "Rastrelli's Winter Palace made the Romanovs' power blaze along the Neva. The 1917 storming of the palace turned a Baroque residence into one of the central images of the Russian Revolution.",
       "location": "Saint Petersburg, Russia"
     },
     "sources": [
@@ -1952,7 +1952,7 @@
         "label": "Baroque",
         "order": 17640000
       },
-      "gloss": "Madrid's royal palace gives Bourbon monarchy a grand Baroque and classical setting. Its courtyards, halls, and hilltop site define Spain's ceremonial capital.",
+      "gloss": "Built after the old Alcazar burned, the Royal Palace of Madrid gave the Bourbons a monumental ceremonial home. Its vast rooms and parade courts still frame Spanish state ritual and royal memory.",
       "location": "Madrid, Spain"
     },
     "sources": [
@@ -1989,7 +1989,7 @@
         "label": "Neoclassical",
         "order": 17900000
       },
-      "gloss": "Soufflot's church became France's secular mausoleum. Its classical portico, dome, and crypt turn national memory into neoclassical monument.",
+      "gloss": "Soufflot's church became a revolutionary mausoleum for France's national heroes. Voltaire, Rousseau, Victor Hugo, Marie Curie, and others made its dome a monument to secular memory as well as faith.",
       "location": "Paris, France"
     },
     "sources": [
@@ -2026,7 +2026,7 @@
         "label": "Neoclassical",
         "order": 18001117
       },
-      "gloss": "The Capitol uses neoclassical forms to stage republican government. Its expanded dome and wings made it the visual anchor of Washington, DC.",
+      "gloss": "The U.S. Capitol turned the new republic's government into a Neoclassical civic temple. Burned in 1814 and crowned with a Civil War-era dome, it remains the stage for legislation, inaugurations, and protest.",
       "location": "Washington, United States"
     },
     "sources": [
@@ -2063,7 +2063,7 @@
         "label": "Neoclassical",
         "order": 18001101
       },
-      "gloss": "The White House adapts classical domestic architecture for executive power. Its restrained facades became the globally recognized image of the U.S. presidency.",
+      "gloss": "The White House made presidential power domestic, public, and symbolic at once. Burned by British troops in 1814 and rebuilt, it became the stage for diplomacy, crisis, and the daily theater of American leadership.",
       "location": "Washington, United States"
     },
     "sources": [
@@ -2100,7 +2100,7 @@
         "label": "Neoclassical",
         "order": 18520000
       },
-      "gloss": "Smirke's Greek Revival museum gave public collections a monumental civic face. Its later Great Court recast the museum around a covered urban room.",
+      "gloss": "The British Museum's Greek Revival front made empire, scholarship, and collecting look like classical authority. Its galleries house contested treasures, making the building central to debates over knowledge and restitution.",
       "location": "London, United Kingdom"
     },
     "sources": [
@@ -2137,7 +2137,7 @@
         "label": "Gothic",
         "order": 18760000
       },
-      "gloss": "Barry and Pugin turned Parliament into a Gothic Revival emblem of constitutional tradition. Its riverfront and clock tower define London's political skyline.",
+      "gloss": "After the 1834 fire, Barry and Pugin rebuilt Parliament as a Gothic symbol of constitutional continuity. Big Ben, debates, and state ceremonies made it the visual shorthand for British politics.",
       "location": "London, United Kingdom"
     },
     "sources": [
@@ -2174,7 +2174,7 @@
         "label": "Romanesque",
         "order": 18860000
       },
-      "gloss": "Ludwig II's fantasy castle mixes medieval revival with theatrical imagination. Its towers and alpine setting became the archetype of the romantic castle.",
+      "gloss": "Ludwig II built Neuschwanstein as a private Wagnerian dream above Bavaria, not a working fortress. Its theatrical medievalism inspired fantasy castles from postcards to Disney, making nostalgia architectural.",
       "location": "Schwangau, Germany"
     },
     "sources": [
@@ -2202,16 +2202,16 @@
     "details": {
       "architect": "Gustave Eiffel, Maurice Koechlin, Emile Nouguier, and Stephen Sauvestre",
       "constructionDates": "Built AD 1887-1889",
-      "style": "Other or Unknown",
+      "style": "Iron and Glass",
       "epoch": "Industrial",
       "city": "Paris",
       "country": "France",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "iron-and-glass",
+        "label": "Iron and Glass",
         "order": 18890000
       },
-      "gloss": "The Eiffel Tower made exposed iron engineering into spectacle for the 1889 Exposition. What began as a temporary tower became Paris's defining landmark.",
+      "gloss": "Eiffel's tower made exposed iron the star of the 1889 Exposition and shocked many Parisian critics. Once temporary, it became the city's emblem and a monument to engineering as public spectacle.",
       "location": "Paris, France"
     },
     "sources": [
@@ -2248,7 +2248,7 @@
         "label": "Art Nouveau",
         "order": 20260000
       },
-      "gloss": "Gaudi fused Gothic structure, natural forms, and Catalan modernisme into a still-evolving basilica. Its towers make construction itself part of the monument.",
+      "gloss": "Gaudi devoted his late life to Sagrada Familia, turning structure, sculpture, and Catholic symbolism into one unfinished organism. Its long construction has made Barcelona's basilica a living monument rather than a relic.",
       "location": "Barcelona, Spain"
     },
     "sources": [
@@ -2285,7 +2285,7 @@
         "label": "Art Nouveau",
         "order": 19120000
       },
-      "gloss": "Casa Mila replaces flat facades with waves of stone, iron balconies, and sculptural rooftop forms. It is Gaudi's apartment house as urban geology.",
+      "gloss": "Gaudi's Casa Mila shocked Barcelona with its wave-like stone facade and surreal roofscape. Built for the Mila family, it turned an apartment block into a manifesto for structure, craft, and urban fantasy.",
       "location": "Barcelona, Spain"
     },
     "sources": [
@@ -2322,7 +2322,7 @@
         "label": "Contemporary",
         "order": 19860000
       },
-      "gloss": "The Bahai House of Worship uses petal-like concrete shells to make a simple, memorable form. Its openness and symmetry turned it into a Delhi landmark.",
+      "gloss": "The Baha'i Lotus Temple made Delhi a place of interfaith silence through a form anyone can read. Its petals, pools, and open worship hall turned modern concrete into a symbol of unity and welcome.",
       "location": "Delhi, India"
     },
     "sources": [
@@ -2359,7 +2359,7 @@
         "label": "Beaux-Arts",
         "order": 19020000
       },
-      "gloss": "The Flatiron Building exploited a triangular site with steel-frame confidence and Beaux-Arts detail. Its wedge shape became an early icon of Manhattan modernity.",
+      "gloss": "The Flatiron Building exploited a triangular New York lot and became an instant urban celebrity. Photographers, crowds, and windblown folklore made its Beaux-Arts wedge a symbol of the modern city.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2396,7 +2396,7 @@
         "label": "Beaux-Arts",
         "order": 19130000
       },
-      "gloss": "Grand Central turned railway infrastructure into a monumental urban interior and facade. Its concourse and circulation made movement feel ceremonial.",
+      "gloss": "Grand Central made rail travel into civic theater with its celestial concourse and grand stairways. Saved from demolition after Penn Station fell, it became a landmark in New York's preservation movement.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2433,7 +2433,7 @@
         "label": "Gothic",
         "order": 19130000
       },
-      "gloss": "The Woolworth Building dressed a steel skyscraper in Gothic ornament and vertical emphasis. Its height and lobby made commerce look cathedral-like.",
+      "gloss": "Cass Gilbert's Woolworth Building made corporate capitalism look like a Gothic cathedral. Paid for by retail magnate F. W. Woolworth, its height and lobby announced skyscrapers as monuments of commerce.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2470,7 +2470,7 @@
         "label": "Art Deco",
         "order": 19300000
       },
-      "gloss": "The Chrysler Building turns speed, metal, and ornament into a brilliant Art Deco skyline marker. Its stainless-steel crown remains one of New York's great silhouettes.",
+      "gloss": "William Van Alen gave Walter Chrysler a shimmering Art Deco crown during New York's race for the world's tallest building. Its stainless-steel spire still makes speed, cars, and ambition glitter on the skyline.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2507,7 +2507,7 @@
         "label": "Art Deco",
         "order": 19310000
       },
-      "gloss": "Built at extraordinary speed, the Empire State Building made Art Deco verticality a global symbol. Its setbacks and mast define the classic skyscraper profile.",
+      "gloss": "Built in record time during the Depression, the Empire State Building turned skyscraper height into national confidence. King Kong, observatories, and skyline views made it New York's most durable tower myth.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2526,11 +2526,11 @@
     "dataset": "buildings",
     "title": "Rockefeller Center",
     "image": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rockefeller%20Center%20December%202021%20006.jpg",
-      "alt": "Art Deco towers and plaza of Rockefeller Center in New York",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rockefeller_Center_December_2021_006.jpg",
-      "license": "CC BY-SA 4.0",
-      "attribution": "Kidfly182"
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rockefeller%20Center%20christmas%20tree.jpg",
+      "alt": "Rockefeller Center at Christmas with the illuminated tree, Prometheus statue, skating rink, and Art Deco facade.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rockefeller_Center_christmas_tree.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Lechhansl"
     },
     "details": {
       "architect": "Raymond Hood and Associated Architects",
@@ -2544,7 +2544,7 @@
         "label": "Art Deco",
         "order": 19390000
       },
-      "gloss": "Rockefeller Center integrated offices, art, retail, and public space into a coordinated Art Deco complex. Its plaza model shaped midtown urban life.",
+      "gloss": "Rockefeller Center turned private development into a coordinated Art Deco city within the city. Radio City, public art, Atlas, the rink, and the Christmas tree made it New York's year-round stage.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2581,7 +2581,7 @@
         "label": "Modernist",
         "order": 19260000
       },
-      "gloss": "Gropius's Bauhaus building made workshops, studios, and glass walls into a manifesto for modern design education. It still reads as a working diagram.",
+      "gloss": "Walter Gropius's Bauhaus Dessau made the school itself a lesson in modern design. Its glass curtain walls, workshops, and politics helped define the International Style before the Nazis closed the Bauhaus.",
       "location": "Dessau, Germany"
     },
     "sources": [
@@ -2618,7 +2618,7 @@
         "label": "Modernist",
         "order": 19310000
       },
-      "gloss": "Villa Savoye demonstrates Le Corbusier's five points through pilotis, free plan, ribbon windows, roof garden, and smooth facade. It is modernism in compact form.",
+      "gloss": "Le Corbusier's Villa Savoye demonstrated his Five Points of Architecture in one elegant weekend house. Its pilotis, ramp, roof garden, and white planes made domestic life look like a modern machine.",
       "location": "Poissy, France"
     },
     "sources": [
@@ -2655,7 +2655,7 @@
         "label": "Modernist",
         "order": 19290000
       },
-      "gloss": "The pavilion reduces architecture to planes, polished stone, glass, and water. Its reconstruction preserved a key manifesto of spatial modernism.",
+      "gloss": "Mies van der Rohe's Barcelona Pavilion was a temporary diplomatic stage for Weimar Germany. Its marble planes, chrome columns, and open plan became a permanent reference point for modernist minimalism.",
       "location": "Barcelona, Spain"
     },
     "sources": [
@@ -2692,7 +2692,7 @@
         "label": "Modernist",
         "order": 19390000
       },
-      "gloss": "Fallingwater integrates a private house with the waterfall and rock ledges beneath it. Its cantilevered terraces became a defining image of organic modern architecture.",
+      "gloss": "Frank Lloyd Wright placed Fallingwater over a Pennsylvania stream for the Kaufmann family, fusing house and landscape. Its cantilevers became the most famous image of Organic Architecture.",
       "location": "Mill Run, United States"
     },
     "sources": [
@@ -2729,7 +2729,7 @@
         "label": "Modernist",
         "order": 19100000
       },
-      "gloss": "Robie House stretches low roofs, brick bands, and open planning into a classic Prairie School composition. It helped redefine the modern American house.",
+      "gloss": "Wright's Robie House turned the Prairie School into long brick planes, sheltering roofs, and flowing rooms. Built for a Chicago businessman, it made the American house feel horizontal, modern, and local.",
       "location": "Chicago, United States"
     },
     "sources": [
@@ -2766,7 +2766,7 @@
         "label": "Modernist",
         "order": 19590000
       },
-      "gloss": "Wright's spiral museum makes the visitor path a continuous architectural experience. Its curved concrete form challenged the box-like museum model.",
+      "gloss": "Frank Lloyd Wright's Guggenheim turned museum-going into a spiral promenade. Its Fifth Avenue curves challenged the white-box gallery and became as famous as the modern art inside.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2803,7 +2803,7 @@
         "label": "Modernist",
         "order": 19550000
       },
-      "gloss": "Ronchamp turns thick walls, curved roof, and colored light into a sculptural chapel. It showed modernism could be emotional, tactile, and sacred.",
+      "gloss": "Le Corbusier's Ronchamp chapel broke from machine-age purity with thick walls, sculptural light, and a hovering roof. It made postwar sacred architecture feel intimate, mysterious, and boldly modern.",
       "location": "Ronchamp, France"
     },
     "sources": [
@@ -2840,7 +2840,7 @@
         "label": "Modernist",
         "order": 19580000
       },
-      "gloss": "The Seagram Building turned the glass-and-steel office tower into an austere urban monument. Its plaza and bronze detailing shaped corporate modernism.",
+      "gloss": "Mies van der Rohe and Philip Johnson made the Seagram Building a disciplined bronze-and-glass corporate monument. Its plaza, structure, and restraint became the template for countless modern office towers.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2877,7 +2877,7 @@
         "label": "Modernist",
         "order": 19730000
       },
-      "gloss": "Utzon's shell roofs made an opera house into a harbor landmark of global fame. Its construction stretched engineering and political patience alike.",
+      "gloss": "Jorn Utzon's Sydney Opera House transformed a harbor site into a national symbol. Its troubled construction, shell forms, and later reconciliation with Utzon made it a landmark of architectural risk.",
       "location": "Sydney, Australia"
     },
     "sources": [
@@ -2914,7 +2914,7 @@
         "label": "Modernist",
         "order": 19620000
       },
-      "gloss": "Saarinen's terminal captured jet-age movement in sweeping concrete shells and flowing interiors. It made air travel feel futuristic before the flight began.",
+      "gloss": "Eero Saarinen's TWA Flight Center made jet-age travel feel airborne before takeoff. Its swooping concrete, tubes, and lounges turned an airport terminal into one of America's great space-age interiors.",
       "location": "New York, United States"
     },
     "sources": [
@@ -2951,7 +2951,7 @@
         "label": "Modernist",
         "order": 19650000
       },
-      "gloss": "Kahn framed laboratories around a travertine court that opens to the Pacific. The Salk Institute turns scientific work into a disciplined, almost monastic setting.",
+      "gloss": "Louis Kahn gave Jonas Salk's research institute a monastery-like setting for science. The travertine court, ocean axis, and laboratories made collaboration, silence, and discovery architectural themes.",
       "location": "La Jolla, United States"
     },
     "sources": [
@@ -2988,7 +2988,7 @@
         "label": "Modernist",
         "order": 19820000
       },
-      "gloss": "Kahn's parliament complex uses massive concrete volumes cut by circles, triangles, and light. It gives national assembly a monumental civic presence.",
+      "gloss": "Louis Kahn's parliament for Bangladesh turned concrete geometry into a symbol of a new nation. Its lakes, light shafts, and monumental voids made democracy feel solemn, local, and timeless.",
       "location": "Dhaka, Bangladesh"
     },
     "sources": [
@@ -3025,7 +3025,7 @@
         "label": "Brutalist",
         "order": 19670000
       },
-      "gloss": "Habitat 67 stacks prefabricated concrete units into terraces, gardens, and varied apartments. It remains a bold experiment in dense urban housing.",
+      "gloss": "Moshe Safdie's Habitat 67 began as an Expo experiment in modular urban living. Its stacked concrete homes made density, terraces, and prefabrication look playful rather than anonymous.",
       "location": "Montreal, Canada"
     },
     "sources": [
@@ -3062,7 +3062,7 @@
         "label": "Brutalist",
         "order": 19680000
       },
-      "gloss": "Boston City Hall exposes civic functions through bold concrete projections and a raised plaza. It is one of America's most debated Brutalist landmarks.",
+      "gloss": "Boston City Hall made local government look raw, muscular, and unavoidably public. Loved and hated since 1968, its Brutalist concrete turned civic administration into architectural argument.",
       "location": "Boston, United States"
     },
     "sources": [
@@ -3099,7 +3099,7 @@
         "label": "High-Tech",
         "order": 19770000
       },
-      "gloss": "The Pompidou put structure, escalators, and services on the outside, freeing flexible galleries within. Its industrial exuberance remade the public museum.",
+      "gloss": "Piano and Rogers put structure, ducts, and escalators on the outside of the Pompidou Center. Opened in 1977, it made a museum behave like a colorful urban machine for crowds, art, and debate.",
       "location": "Paris, France"
     },
     "sources": [
@@ -3136,7 +3136,7 @@
         "label": "High-Tech",
         "order": 19860000
       },
-      "gloss": "Lloyd's pushes lifts, stairs, and services to the exterior, making infrastructure the facade. It extended high-tech architecture into the financial district.",
+      "gloss": "Richard Rogers put Lloyd's services, lifts, and pipes outside, making insurance culture look like high-tech infrastructure. Its exposed flexibility made the City of London a stage for radical corporate architecture.",
       "location": "London, United Kingdom"
     },
     "sources": [
@@ -3173,7 +3173,7 @@
         "label": "High-Tech",
         "order": 19850000
       },
-      "gloss": "Foster's HSBC headquarters uses suspended floors, exposed services, and a public atrium to turn a bank into a high-tech urban machine.",
+      "gloss": "Norman Foster's HSBC headquarters made banking visible through modular steel, services, and a vast public atrium. Built for Hong Kong's financial rise, it treated a tower as an adaptable kit of parts.",
       "location": "Hong Kong, China"
     },
     "sources": [
@@ -3210,7 +3210,7 @@
         "label": "Postmodern",
         "order": 19840000
       },
-      "gloss": "The former AT&T Building announced postmodernism with a monumental stone shaft and broken pediment crown. It challenged glass-box corporate modernism.",
+      "gloss": "Philip Johnson's AT&T Building gave Postmodernism a corporate skyline moment with its Chippendale top. It challenged glass-box modernism by putting historical reference and wit back onto a skyscraper.",
       "location": "New York, United States"
     },
     "sources": [
@@ -3247,7 +3247,7 @@
         "label": "Postmodern",
         "order": 19960000
       },
-      "gloss": "The Dancing House bends two riverfront volumes into a theatrical duet. Its playful form became Prague's best-known post-1989 architectural statement.",
+      "gloss": "Frank Gehry and Vlado Milunic's Dancing House brought playful deconstruction to post-communist Prague. Nicknamed Fred and Ginger, it made a riverside office building a symbol of cultural reopening.",
       "location": "Prague, Czech Republic"
     },
     "sources": [
@@ -3284,7 +3284,7 @@
         "label": "Contemporary",
         "order": 19890000
       },
-      "gloss": "Pei's glass pyramid solved Louvre circulation while sharply contrasting the historic palace. Once controversial, it is now central to the museum's image.",
+      "gloss": "I. M. Pei's glass pyramid modernized the Louvre while provoking fierce Parisian debate. It solved museum circulation and turned a royal courtyard into a global image of old and new France meeting.",
       "location": "Paris, France"
     },
     "sources": [
@@ -3321,7 +3321,7 @@
         "label": "Contemporary",
         "order": 20030000
       },
-      "gloss": "Gehry's concert hall wraps performance space in billowing stainless steel. Its acoustic interior and sculptural exterior made it a Los Angeles landmark.",
+      "gloss": "Frank Gehry's Walt Disney Concert Hall gave Los Angeles a stainless-steel landmark for music. Lillian Disney's gift, the LA Phil, and acoustician Yasuhisa Toyota made its curves both civic and sonic.",
       "location": "Los Angeles, United States"
     },
     "sources": [
@@ -3358,7 +3358,7 @@
         "label": "Contemporary",
         "order": 19970000
       },
-      "gloss": "Gehry's titanium museum turned Bilbao's riverfront into an international cultural destination. It became shorthand for architecture-led urban renewal.",
+      "gloss": "Frank Gehry's Guggenheim Bilbao made a museum famous for transforming a city. Its titanium forms helped launch the 'Bilbao effect,' where architecture became an engine of tourism and urban renewal.",
       "location": "Bilbao, Spain"
     },
     "sources": [
@@ -3395,7 +3395,7 @@
         "label": "Modernist",
         "order": 19700000
       },
-      "gloss": "Niemeyer's cathedral uses sixteen concrete ribs to form a luminous, crown-like shell. It gives Brasilia's modernist capital plan a sacred focal point.",
+      "gloss": "Oscar Niemeyer's cathedral made Brasilia's modern capital spiritual through concrete ribs and light. Its crown-like form turned state-planned urbanism into a place of surprise and devotion.",
       "location": "Brasilia, Brazil"
     },
     "sources": [
@@ -3432,7 +3432,7 @@
         "label": "Postmodern",
         "order": 19980000
       },
-      "gloss": "The Petronas Towers combine a high-rise office program with Islamic geometric references. Their skybridge and twin silhouette made Kuala Lumpur instantly recognizable.",
+      "gloss": "Cesar Pelli's Petronas Towers made Kuala Lumpur's skyline a national statement. Their twin Islamic-geometric plans, skybridge, and record height announced Malaysia's late-20th-century confidence.",
       "location": "Kuala Lumpur, Malaysia"
     },
     "sources": [
@@ -3469,7 +3469,7 @@
         "label": "Postmodern",
         "order": 20040000
       },
-      "gloss": "Taipei 101 stacks tower segments like a giant pagoda while hiding advanced damping technology inside. It linked skyscraper height with regional symbolism.",
+      "gloss": "Taipei 101 fused supertall engineering with symbols of bamboo, pagodas, and prosperity. Its tuned mass damper became famous in earthquakes and typhoons, making resilience part of the visitor experience.",
       "location": "Taipei, Taiwan"
     },
     "sources": [
@@ -3506,7 +3506,7 @@
         "label": "Contemporary",
         "order": 20100104
       },
-      "gloss": "The Burj Khalifa pushed skyscraper height far beyond previous records with a tapering buttressed core. It became Dubai's global emblem.",
+      "gloss": "The Burj Khalifa made Dubai's global ambitions visible at unprecedented height. Adrian Smith's Y-shaped tower, record-breaking elevators, and desert skyline setting turned the skyscraper into a spectacle of scale.",
       "location": "Dubai, United Arab Emirates"
     },
     "sources": [
@@ -3543,7 +3543,7 @@
         "label": "Contemporary",
         "order": 19990000
       },
-      "gloss": "The Burj Al Arab turns a luxury hotel into a sail-shaped coastal icon. Its artificial island and silhouette helped brand Dubai's late-20th-century skyline.",
+      "gloss": "The Burj Al Arab turned a luxury hotel into Dubai's sail-shaped brand image. Built on an artificial island, it made hospitality, spectacle, and engineering part of the city's global reinvention.",
       "location": "Dubai, United Arab Emirates"
     },
     "sources": [
@@ -3580,7 +3580,7 @@
         "label": "High-Tech",
         "order": 20030000
       },
-      "gloss": "Known as the Gherkin, the tower uses a rounded diagrid form to reduce wind loads and create a distinctive profile. It refreshed London's financial skyline.",
+      "gloss": "Foster's 30 St Mary Axe, the Gherkin, made environmental performance and corporate image share one curved skin. Rising after the Baltic Exchange bombing, it marked a new high-tech chapter for London.",
       "location": "London, United Kingdom"
     },
     "sources": [
@@ -3617,7 +3617,7 @@
         "label": "Contemporary",
         "order": 20120000
       },
-      "gloss": "CCTV Headquarters rejects the simple vertical tower for a looped, cantilevered form. Its structure made the television network's operations visible as one circuit.",
+      "gloss": "OMA and Arup made CCTV Headquarters a loop instead of a conventional tower, challenging skyscraper logic. Its cantilevered form turned state media in Beijing into an unmistakable structural icon.",
       "location": "Beijing, China"
     },
     "sources": [
@@ -3654,7 +3654,7 @@
         "label": "Contemporary",
         "order": 20100623
       },
-      "gloss": "Marina Bay Sands links three hotel towers with a long elevated sky park. Its profile became a signature of Singapore's waterfront transformation.",
+      "gloss": "Moshe Safdie's Marina Bay Sands joined hotel towers with a sky park that remade Singapore's waterfront image. Its casino, infinity pool, and skyline role made tourism infrastructure instantly recognizable.",
       "location": "Singapore, Singapore"
     },
     "sources": [
@@ -3691,7 +3691,7 @@
         "label": "Contemporary",
         "order": 20140000
       },
-      "gloss": "One World Trade Center combines memorial context with a faceted supertall office tower. Its height and spire reasserted lower Manhattan's skyline after 2001.",
+      "gloss": "One World Trade Center rebuilt Lower Manhattan's skyline after September 11. Its height, memorial setting, and fortified symbolism turned a commercial tower into an act of remembrance and resilience.",
       "location": "New York, United States"
     },
     "sources": [
@@ -3729,7 +3729,7 @@
         "label": "Vernacular or Traditional",
         "order": -25000000
       },
-      "gloss": "A ring of massive sarsen uprights capped by lintels joined with mortise-and-tenon joints, encircling smaller bluestones. This Neolithic monument aligns with the solstices and remains a British cultural icon."
+      "gloss": "Stonehenge aligned earthwork, sarsen stones, and solstice ritual into Britain's most famous prehistoric monument. Its unknown builders and purpose made it a lasting symbol of mystery, astronomy, and communal labor."
     },
     "sources": [
       {
@@ -3766,7 +3766,7 @@
         "label": "Vernacular or Traditional",
         "order": -21000000
       },
-      "gloss": "A colossal stepped mud-brick platform fronted by a monumental triple staircase. The best-preserved Mesopotamian ziggurat, it crowned Sumerian Ur as a temple to the moon god Nanna."
+      "gloss": "Ur's ziggurat raised the moon god Nanna above one of Mesopotamia's great cities. Built by Ur-Nammu and restored by later rulers, it made temple architecture a stepped bridge between city and divine power."
     },
     "sources": [
       {
@@ -3803,7 +3803,7 @@
         "label": "Ancient Egyptian",
         "order": -12130000
       },
-      "gloss": "Sprawling complex famed for its Great Hypostyle Hall, a dense forest of 134 colossal columns. Built over two millennia by successive pharaohs, it was Egypt's chief sanctuary of the god Amun."
+      "gloss": "Karnak grew for more than a thousand years as pharaohs added pylons, obelisks, and halls for Amun. Hatshepsut, Seti I, and Ramesses II all used it to write kingship into stone."
     },
     "sources": [
       {
@@ -3840,7 +3840,7 @@
         "label": "Classical",
         "order": -4060000
       },
-      "gloss": "Instantly known for its Porch of the Maidens, where six draped caryatids replace columns. This asymmetrical Ionic temple to Athena and Erechtheus broke classical symmetry and shaped later revival architecture."
+      "gloss": "The Erechtheion housed Athens's tangled sacred legends, from Athena's olive tree to Poseidon's trident mark. Its Caryatid porch made myth, politics, and delicate Ionic design unforgettable on the Acropolis."
     },
     "sources": [
       {
@@ -3877,7 +3877,7 @@
         "label": "Ancient Roman",
         "order": 600000
       },
-      "gloss": "Three tiers of repeated stone arches stride 49 m above the Gardon in golden limestone. The highest surviving Roman aqueduct bridge, it carried water to Nimes and showcases Roman engineering."
+      "gloss": "The Pont du Gard carried water to Nemausus while turning an aqueduct into a triumphal landscape. Its stacked arches show how Roman engineering could be both practical infrastructure and imperial display."
     },
     "sources": [
       {
@@ -3914,7 +3914,7 @@
         "label": "Vernacular or Traditional",
         "order": 7520000
       },
-      "gloss": "A colossal timber hall with sweeping tiled roofs, long ranked among the world's largest wooden buildings. It shelters the monumental bronze Daibutsu and anchors Buddhism's Kegon school in ancient Nara."
+      "gloss": "Todai-ji was built under Emperor Shomu to anchor Buddhism and state power in Nara. Its Great Buddha hall, repeatedly rebuilt, remains a monument to imperial patronage, ritual, and timber ambition."
     },
     "sources": [
       {
@@ -3951,7 +3951,7 @@
         "label": "Romanesque",
         "order": 11000000
       },
-      "gloss": "A whitewashed Norman keep ringed by concentric battlemented walls and a moat on the Thames. Built after the 1066 Conquest, it has served as royal palace, prison, mint and home of the Crown Jewels."
+      "gloss": "William the Conqueror's Tower of London began as a Norman fortress over a conquered city. Prison, palace, mint, armory, and execution site, it became a compact history of English monarchy and fear."
     },
     "sources": [
       {
@@ -3988,7 +3988,7 @@
         "label": "Gothic",
         "order": 12480000
       },
-      "gloss": "Walls dissolve into vast curtains of jewel-toned stained glass framing a slender, sky-blue vault. This royal chapel epitomizes Rayonnant Gothic and was built to enshrine Christ's Crown of Thorns."
+      "gloss": "Louis IX built Sainte-Chapelle to house Christ's Crown of Thorns and other Passion relics. Its walls of stained glass turned Capetian kingship into a jewel box of biblical light."
     },
     "sources": [
       {
@@ -4025,7 +4025,7 @@
         "label": "Vernacular or Traditional",
         "order": 12500000
       },
-      "gloss": "A perfect cross hewn downward out of solid red rock, sunk into a trench so its roof sits at ground level. The most famous of Lalibela's monolithic churches, a pilgrimage center of Ethiopian Orthodox Christianity."
+      "gloss": "Carved downward from living rock, Bete Giyorgis made Lalibela a New Jerusalem in the Ethiopian highlands. Its cross-shaped plan and pilgrimage role show architecture as excavation, devotion, and national legend."
     },
     "sources": [
       {
@@ -4062,7 +4062,7 @@
         "label": "Islamic",
         "order": 13680000
       },
-      "gloss": "A soaring fluted red-sandstone minaret banded with Quranic inscriptions and ringed balconies. Begun to mark the Delhi Sultanate's founding, it is the tallest brick minaret in the world."
+      "gloss": "The Qutb Minar marked Delhi Sultanate victory and the spread of Indo-Islamic rule. Its soaring inscriptions and reused temple materials make the complex a layered record of conquest, faith, and craft."
     },
     "sources": [
       {
@@ -4099,7 +4099,7 @@
         "label": "Vernacular or Traditional",
         "order": 14000000
       },
-      "gloss": "Curving mortarless granite walls up to 11 m tall enclose a tapering conical tower. The largest precolonial stone ruins in Southern Africa, it was the royal capital of a powerful medieval trading kingdom."
+      "gloss": "Great Zimbabwe's stone walls and conical tower announced the wealth of a Shona trading capital. Its ruins challenged colonial myths and became a foundational symbol for modern Zimbabwe."
     },
     "sources": [
       {
@@ -4136,7 +4136,7 @@
         "label": "Gothic",
         "order": 14330000
       },
-      "gloss": "Its soaring openwork south spire and vivid chevron-patterned tile roof make it unmistakable. The seat of Vienna's archbishop, it has witnessed centuries of Habsburg history."
+      "gloss": "St. Stephen's Cathedral gave Vienna a Gothic heart and a tiled roof visible across the city. Mozart's wedding, imperial funerals, and wartime damage made it a witness to Austrian history."
     },
     "sources": [
       {
@@ -4173,7 +4173,7 @@
         "label": "Vernacular or Traditional",
         "order": 14500000
       },
-      "gloss": "Mortarless dry-stone walls and terraces perch on a high Andean ridge below Huayna Picchu. This abandoned Inca royal estate is the most iconic surviving symbol of pre-Columbian Andean civilization."
+      "gloss": "Machu Picchu made Inca royal retreat, sacred landscape, and engineering nearly inseparable. Hiram Bingham's 1911 publicity turned the mountain citadel into the world's best-known image of the Inca."
     },
     "sources": [
       {
@@ -4210,7 +4210,7 @@
         "label": "Islamic",
         "order": 14780000
       },
-      "gloss": "A sprawling low-slung complex of pavilions and tiled courtyards above the Bosphorus, crowned by wide eaves. For four centuries it was the seat of Ottoman sultans and the empire's nerve center."
+      "gloss": "Topkapi Palace ruled the Ottoman world through courtyards, gates, harem politics, and imperial relics. From Mehmed II onward, it made Istanbul's conquest into a durable courtly order."
     },
     "sources": [
       {
@@ -4247,7 +4247,7 @@
         "label": "Renaissance",
         "order": 14810000
       },
-      "gloss": "Behind plain walls lies a barrel-vaulted hall blanketed in Renaissance frescoes, topped by Michelangelo's famed ceiling. Built for Pope Sixtus IV, it hosts the conclave electing each new pope."
+      "gloss": "The Sistine Chapel is where popes are elected and where Michelangelo remade the ceiling into a drama of creation and judgment. Its frescoes turned papal authority into one of art history's central rooms."
     },
     "sources": [
       {
@@ -4284,7 +4284,7 @@
         "label": "Gothic",
         "order": 15060000
       },
-      "gloss": "Immense Gothic church topped by the Giralda, a former Moorish minaret turned bell tower. The largest Gothic cathedral in the world, it holds the tomb of Christopher Columbus."
+      "gloss": "Seville Cathedral rose on the city's former Almohad mosque, keeping the Giralda as a bell tower. Its immense Gothic nave, Columbus tomb, and layered history made conquest and faith visible in stone."
     },
     "sources": [
       {
@@ -4321,7 +4321,7 @@
         "label": "Vernacular or Traditional",
         "order": 15700000
       },
-      "gloss": "A crenellated rampart studded with watchtowers winding for thousands of kilometers across China's northern mountains. Built over centuries to guard the empire against steppe raiders, it remains the world's largest defensive work."
+      "gloss": "The Great Wall joined older frontier defenses into a Ming symbol of guarded empire. More than a single wall, its passes, towers, and myths became the world's most famous image of China."
     },
     "sources": [
       {
@@ -4358,7 +4358,7 @@
         "label": "Renaissance",
         "order": 15840000
       },
-      "gloss": "An austere grey granite grid of monastery, basilica, and palace crowned by a central dome and corner spires. Built for Philip II, it is the largest Renaissance building in the world and a symbol of Spanish imperial power."
+      "gloss": "Philip II built El Escorial as palace, monastery, tomb, and command center for Catholic Spain. Its severe geometry made Habsburg power feel disciplined, devotional, and imperial."
     },
     "sources": [
       {
@@ -4395,7 +4395,7 @@
         "label": "Vernacular or Traditional",
         "order": 16040000
       },
-      "gloss": "A glittering gold-leaf sanctum sits mid-pool, reached by a marble causeway with entrances on all four sides. It is the holiest shrine of Sikhism, housing the faith's scripture since 1604."
+      "gloss": "The Golden Temple centers Sikh worship around the Guru Granth Sahib and a sacred pool of equality. Its langar, gilded sanctum, and history of conflict and recovery make it Sikhism's most beloved shrine."
     },
     "sources": [
       {
@@ -4432,7 +4432,7 @@
         "label": "Vernacular or Traditional",
         "order": 16550000
       },
-      "gloss": "Towering, sculpture-encrusted gopurams in vivid colors crown this vast walled Hindu temple complex. A masterpiece of Dravidian architecture, rebuilt by the Madurai Nayaks and dedicated to goddess Meenakshi."
+      "gloss": "Meenakshi Temple makes Madurai's goddess and city inseparable through towering gopurams and festivals. Its painted sculptures, halls, and rituals keep South Indian temple urbanism intensely alive."
     },
     "sources": [
       {
@@ -4469,7 +4469,7 @@
         "label": "Baroque",
         "order": 17100000
       },
-      "gloss": "Crowned by a vast triple-shell dome flanked by twin west towers, it has defined London's skyline for over 300 years. Wren's masterpiece rose after the Great Fire as English Baroque's grandest statement."
+      "gloss": "Wren's St Paul's rose after the Great Fire as London's Baroque answer to catastrophe. Its dome later framed Nelson's funeral, Churchill's service, and wartime survival during the Blitz."
     },
     "sources": [
       {
@@ -4506,7 +4506,7 @@
         "label": "Vernacular or Traditional",
         "order": 17750000
       },
-      "gloss": "A 112 m gilded bell-shaped stupa crowned by a jewel-studded spire, glowing gold over Yangon's skyline. Myanmar's holiest Buddhist shrine, said to enshrine relics of four Buddhas including eight of Gautama's hairs."
+      "gloss": "Shwedagon Pagoda is Myanmar's golden reliquary and a stage for devotion, monarchy, and protest. Its hilltop stupa has anchored Yangon spiritually and politically for centuries."
     },
     "sources": [
       {
@@ -4543,7 +4543,7 @@
         "label": "Neoclassical",
         "order": 17910000
       },
-      "gloss": "Twelve Doric columns crowned by a bronze quadriga form this Prussian triumphal gate. Once split by the Berlin Wall, it now stands as a symbol of German reunification and European unity."
+      "gloss": "The Brandenburg Gate began as a Prussian triumphal portal and became Berlin's Cold War scar. Reopened after 1989, it now symbolizes German division, reunification, and public memory."
     },
     "sources": [
       {
@@ -4580,7 +4580,7 @@
         "label": "Vernacular or Traditional",
         "order": 17990000
       },
-      "gloss": "A five-storey pink sandstone screen pierced by 953 latticed windows shaped like a honeycomb. The jharokhas let veiled royal women watch the street unseen while cooling the rooms by breeze."
+      "gloss": "Hawa Mahal let Jaipur's royal women watch street life from behind a honeycomb facade. Its screened windows turned climate, court etiquette, and urban spectacle into a delicate pink landmark."
     },
     "sources": [
       {
@@ -4617,7 +4617,7 @@
         "label": "Neoclassical",
         "order": 18360000
       },
-      "gloss": "A single colossal stone arch dressed in heroic battle reliefs, anchoring twelve radiating avenues. Commissioned by Napoleon to honor France's war dead, it now shelters the Tomb of the Unknown Soldier."
+      "gloss": "Napoleon ordered the Arc de Triomphe to honor his armies, but France kept rewriting its meaning. The Tomb of the Unknown Soldier made it a national altar for victory, mourning, and ceremony."
     },
     "sources": [
       {
@@ -4654,7 +4654,7 @@
         "label": "Neoclassical",
         "order": 18370000
       },
-      "gloss": "Its symmetrical East Front and famous central balcony front a 775-room royal residence. The official London home of the British monarch since 1837, it anchors state ceremony and national gatherings."
+      "gloss": "Buckingham Palace turned a royal house into the public face of Britain's monarchy. Balcony appearances, guards, jubilees, and wartime broadcasts made its facade a theater of national ritual."
     },
     "sources": [
       {
@@ -4691,7 +4691,7 @@
         "label": "Beaux-Arts",
         "order": 18750000
       },
-      "gloss": "Recognizable for its lavish gilded facade, multicolored marble, and green dome crowning the Place de l'Opera. This Second Empire opera house became the defining monument of Beaux-Arts grandeur."
+      "gloss": "Charles Garnier's opera house gave Napoleon III's Paris a palace for spectacle and social display. Its grand stair, chandelier, and Phantom of the Opera myth made theater architecture famous worldwide."
     },
     "sources": [
       {
@@ -4728,7 +4728,7 @@
         "label": "Neo-Renaissance",
         "order": 18940000
       },
-      "gloss": "Monumental stone parliament crowned by a walk-in glass dome and inscribed \"Dem Deutschen Volke\". Burned in 1933, scarred in WWII, then reborn as the reunified Germany's Bundestag."
+      "gloss": "The Reichstag has carried Germany through empire, fire, dictatorship, division, and reunification. Norman Foster's glass dome turned a wounded parliament into a symbol of democratic transparency."
     },
     "sources": [
       {
@@ -4765,7 +4765,7 @@
         "label": "Gothic",
         "order": 19040000
       },
-      "gloss": "A vast riverside palace bristling with neo-Gothic spires beneath a soaring central dome on the Danube. Hungary's largest building and seat of its National Assembly, it stands as a defining national symbol."
+      "gloss": "Budapest's Parliament used Gothic Revival grandeur to celebrate Hungary's 1896 millennium. Its Danube front, crown jewels, and debating chambers made national identity architectural."
     },
     "sources": [
       {
@@ -4802,7 +4802,7 @@
         "label": "Art Nouveau",
         "order": 19060000
       },
-      "gloss": "Its rippling facade of skeletal balconies, mosaic of broken tiles, and dragon-scaled roof make it instantly recognizable. Gaudí's playful organic masterpiece is a defining work of Catalan Modernisme and a UNESCO site."
+      "gloss": "Gaudi transformed Casa Batllo for the Batllo family into a dragon-scaled Barcelona fantasy. Its bones, masks, color, and craft made an urban townhouse a masterpiece of Catalan Modernisme."
     },
     "sources": [
       {
@@ -4839,7 +4839,7 @@
         "label": "Vernacular or Traditional",
         "order": 19070000
       },
-      "gloss": "Bristling onion domes and lavish mosaic facades evoke medieval Moscow amid Petersburg's classical streets. It marks the canal-side spot where Tsar Alexander II was assassinated in 1881."
+      "gloss": "This Petersburg church marks the site where Tsar Alexander II was assassinated in 1881. Its medievalizing domes and mosaics turned political trauma into a deliberately Russian memorial."
     },
     "sources": [
       {
@@ -4876,7 +4876,7 @@
         "label": "Islamic",
         "order": 19070000
       },
-      "gloss": "Its sun-baked mud walls bristle with projecting palm beams and rise to three minarets, replastered each year. The world's largest adobe building, it crowns a UNESCO World Heritage town."
+      "gloss": "Djenné's mosque makes mud architecture monumental and communal. Replastered in an annual festival, it ties Islamic worship, Sahelian craft, and civic identity to the labor of maintenance."
     },
     "sources": [
       {
@@ -4913,7 +4913,7 @@
         "label": "Neoclassical",
         "order": 19220000
       },
-      "gloss": "A white marble Greek temple ringed by 36 Doric columns, sheltering a seated colossus of Lincoln. It honors the 16th president and became a charged stage for civil-rights history."
+      "gloss": "The Lincoln Memorial turned a Greek temple into America's most charged civic room. Marian Anderson sang there, and Martin Luther King Jr. delivered 'I Have a Dream' from its steps."
     },
     "sources": [
       {
@@ -4950,7 +4950,7 @@
         "label": "Gothic",
         "order": 19290000
       },
-      "gloss": "Twin Neo-Gothic spires and a vast traceried rose window crown this church inside Prague Castle. The largest cathedral in the country, it holds the tombs of Bohemian kings and Holy Roman Emperors."
+      "gloss": "St. Vitus Cathedral holds Czech crowns, saints, and dynastic tombs inside Prague Castle. Its long construction made Gothic architecture a national project completed in the modern era."
     },
     "sources": [
       {
@@ -4990,7 +4990,7 @@
         "label": "Art Nouveau",
         "order": 19340000
       },
-      "gloss": "White-marble palace crowned by a stained-glass-and-iron dome, its Art Nouveau exterior wrapping an Art Deco interior. Mexico's premier cultural venue, famed for murals by Rivera and Siqueiros."
+      "gloss": "Palacio de Bellas Artes joined Porfirian ambition with post-revolutionary Mexican culture. Its Art Nouveau shell, Art Deco interior, and Rivera murals made it Mexico City's grand stage for the arts."
     },
     "sources": [
       {
@@ -5027,7 +5027,7 @@
         "label": "Modernist",
         "order": 19510000
       },
-      "gloss": "A transparent glass box floating on white steel columns above the Fox River floodplain. This radically minimal weekend retreat became an icon of International Style modernism and Mies's less-is-more ideal."
+      "gloss": "Mies van der Rohe's Farnsworth House made a weekend retreat almost pure glass and steel. Edith Farnsworth's disputes with Mies made the house famous as both modernist ideal and domestic provocation."
     },
     "sources": [
       {
@@ -5064,7 +5064,7 @@
         "label": "Brutalist",
         "order": 19700000
       },
-      "gloss": "Pereira's inverted ziggurat of cantilevered glass floors on splayed concrete piers anchors the UC San Diego campus. Sitting between Brutalism and futurism, it became one of the most recognizable library buildings in the world."
+      "gloss": "William Pereira's Geisel Library made UC San Diego's campus instantly recognizable. Named for Dr. Seuss creator Theodor Geisel, its lifted concrete form turns a library into a space-age landmark."
     },
     "sources": [
       {
@@ -5101,7 +5101,7 @@
         "label": "Modernist",
         "order": 19600000
       },
-      "gloss": "Twin office towers stand between a domed Senate and a bowl-shaped Chamber, a sculptural skyline on Brasilia's main axis. Niemeyer's icon anchors the planned capital, a UNESCO-listed emblem of Brazilian modernism."
+      "gloss": "Niemeyer gave Brasilia's legislature two towers, a dome, and a bowl on a vast civic axis. The complex made Brazil's new capital a stage for modern democracy and state-planned optimism."
     },
     "sources": [
       {
@@ -5138,7 +5138,7 @@
         "label": "Modernist",
         "order": 19620421
       },
-      "gloss": "A tapering tower crowned by a saucer-like disc holding a rotating restaurant and observation deck. Built for the 1962 World's Fair, it became Seattle's enduring Space Age symbol."
+      "gloss": "The Space Needle rose for the 1962 Seattle World's Fair as a promise of the future. Its saucer top, elevator ride, and skyline role turned Cold War optimism into a beloved civic symbol."
     },
     "sources": [
       {
@@ -5175,7 +5175,7 @@
         "label": "Modernist",
         "order": 19651028
       },
-      "gloss": "A gleaming stainless-steel catenary curve soaring 630 feet, it is the world's tallest arch. Built to commemorate America's westward expansion, it became the defining emblem of St. Louis."
+      "gloss": "Eero Saarinen's Gateway Arch memorializes westward expansion with a pure stainless-steel curve. It reframed St. Louis as the 'Gateway to the West' while making monumentality abstract and modern."
     },
     "sources": [
       {
@@ -5212,7 +5212,7 @@
         "label": "Modernist",
         "order": 19730503
       },
-      "gloss": "Nine bundled square tubes step back at staggered heights to form a dark aluminum-and-glass silhouette over the Chicago Loop. On opening it became the world's tallest building, holding that title for nearly 25 years."
+      "gloss": "SOM's Willis Tower, built for Sears, used bundled tubes to push Chicago back to the top of the skyline race. Its height, Skydeck, and black steel frame made corporate scale into urban identity."
     },
     "sources": [
       {
@@ -5249,7 +5249,7 @@
         "label": "Modernist",
         "order": 19760000
       },
-      "gloss": "A tapering 553-metre concrete shaft crowned by a doughnut-shaped pod and needle antenna, it anchors Toronto's skyline. For 32 years it reigned as the world's tallest free-standing structure."
+      "gloss": "The CN Tower broadcast Canada's modern confidence from Toronto's skyline. Once the world's tallest freestanding structure, it made telecommunications infrastructure into a national observation deck."
     },
     "sources": [
       {
@@ -5286,7 +5286,7 @@
         "label": "Modernist",
         "order": 19860000
       },
-      "gloss": "Its soaring white spire flanked by stepped wings evokes Iceland's basalt lava columns. The largest church in the country, it has become a defining emblem of Reykjavík and national identity."
+      "gloss": "Hallgrimskirkja turned Icelandic basalt landscapes into a modern church tower for Reykjavik. Named for poet-clergyman Hallgrimur Petursson, it became the city's most recognizable vertical marker."
     },
     "sources": [
       {
@@ -5304,11 +5304,11 @@
     "dataset": "buildings",
     "title": "Hassan II Mosque",
     "image": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Maroc%2C%20Mosqu%C3%A9e%20Hassan%202%2C%20Grand%20Casablanca%202.jpg",
-      "alt": "A vast white-and-green mosque with a soaring square minaret rising above arched colonnades beside the sea.",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maroc,_Mosqu%C3%A9e_Hassan_2,_Grand_Casablanca_2.jpg",
-      "license": "CC BY-SA 4.0",
-      "attribution": "Walaadari"
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/ce/Hassan_II_mosque%2C_Casablanca_2.jpg",
+      "alt": "The Hassan II Mosque in Casablanca, with its tall square minaret, broad plaza, arched facade, and green-tiled roofs under a blue sky.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Hassan_II_mosque,_Casablanca_2.jpg",
+      "license": "CC BY-SA 4.0; free in the United States under architectural freedom of panorama",
+      "attribution": "Petar Milošević"
     },
     "details": {
       "architect": "Michel Pinseau",
@@ -5323,7 +5323,7 @@
         "label": "Islamic",
         "order": 19930000
       },
-      "gloss": "Casablanca seaside mosque with a towering square minaret and arched colonnades beside the Atlantic. Its 210 m minaret is the world's second tallest, crowning one of the largest mosques ever built."
+      "gloss": "King Hassan II built Casablanca's mosque partly over the Atlantic to make Morocco's monarchy and Islam visible at ocean scale. Its 210-meter minaret and craftwork turned a seaside site into national theater."
     },
     "sources": [
       {
@@ -5360,7 +5360,7 @@
         "label": "Islamic",
         "order": 20070000
       },
-      "gloss": "Gleaming white marble walls, dozens of gilded onion domes and four soaring minarets ring a reflecting pool. The UAE's largest mosque, it fuses Mughal, Moorish and Ottoman traditions into a modern national symbol."
+      "gloss": "Sheikh Zayed Grand Mosque made Abu Dhabi's national identity gleam in marble, domes, and reflection pools. It stages modern Emirati statecraft through Mughal, Ottoman, and Moorish references."
     },
     "sources": [
       {
@@ -5397,7 +5397,7 @@
         "label": "Contemporary",
         "order": 20080000
       },
-      "gloss": "Its woven cradle of crisscrossing steel beams earned it the nickname \"Bird's Nest.\" Built as the centerpiece of the 2008 Summer Olympics, it became an icon of contemporary Chinese architecture."
+      "gloss": "Herzog & de Meuron and Ai Weiwei gave the 2008 Olympics a steel 'Bird's Nest' for China's global debut. Its lattice made ceremony, sport, and state spectacle unforgettable."
     },
     "sources": [
       {
@@ -5434,7 +5434,7 @@
         "label": "Contemporary",
         "order": 20120510
       },
-      "gloss": "Sweeping white shell of fluid, column-free curves with no straight lines, melting into the surrounding plaza. Zaha Hadid's wave-like landmark became a global symbol of modern Baku."
+      "gloss": "Zaha Hadid's Heydar Aliyev Center made Baku's cultural politics flow in one continuous white surface. Named for Azerbaijan's former leader, it turned soft geometry into a national image."
     },
     "sources": [
       {
@@ -5471,7 +5471,7 @@
         "label": "Contemporary",
         "order": 20120705
       },
-      "gloss": "A tapering, glass-sheathed pyramid of fractured facets soaring above the Thames. At 309.6 m it is the tallest building in the UK and Western Europe, a landmark of Renzo Piano's late work."
+      "gloss": "Renzo Piano's Shard made London Bridge a vertical landmark and changed the city's skyline debate. Its fractured glass form joined offices, hotel, homes, and viewing decks in one sharp mixed-use tower."
     },
     "sources": [
       {
@@ -5508,7 +5508,7 @@
         "label": "Contemporary",
         "order": 20150000
       },
-      "gloss": "A 632 m glass tower whose double-skin facade twists 120 degrees as it climbs, softening wind loads. China's tallest building, it pioneered tiered sky gardens and high-efficiency sustainable design."
+      "gloss": "Shanghai Tower twisted upward beside Jin Mao and the World Financial Center to signal Pudong's rise. Its double-skin facade and height made China's financial ambition visible in engineered form."
     },
     "sources": [
       {
@@ -5545,7 +5545,7 @@
         "label": "Contemporary",
         "order": 20170000
       },
-      "gloss": "A wave-like glass crown of glittering, curved panels rests atop a 1960s brick warehouse on the Elbe. Hamburg's landmark concert hall opened in 2017 after years of delays and soaring costs."
+      "gloss": "Herzog & de Meuron lifted the Elbphilharmonie above a Hamburg warehouse, joining port memory with concert culture. Its long delays and acoustically prized hall made it both controversy and civic icon."
     },
     "sources": [
       {
@@ -5582,7 +5582,7 @@
         "label": "Vernacular or Traditional",
         "order": -96000000
       },
-      "gloss": "One of the oldest known monumental ritual sites, Gobekli Tepe predates agriculture in the region. Its carved T-shaped pillars changed assumptions about early architecture and social organization."
+      "gloss": "Gobekli Tepe pushed monumental architecture back before farming cities, with carved T-pillars raised by hunter-gatherers. Its animal reliefs changed how archaeologists think about ritual, labor, and civilization's beginnings."
     },
     "sources": [
       {
@@ -5619,7 +5619,7 @@
         "label": "Vernacular or Traditional",
         "order": -32000000
       },
-      "gloss": "Newgrange is a Neolithic passage tomb aligned with the winter solstice sunrise. Its mound, kerbstones, and chamber make it one of Europe's great prehistoric monuments."
+      "gloss": "Newgrange aligned a Neolithic tomb with the winter solstice sunrise more than a millennium before Stonehenge. Its roof box, passage, and spiral stones made death, time, and astronomy architectural."
     },
     "sources": [
       {
@@ -5656,7 +5656,7 @@
         "label": "Vernacular or Traditional",
         "order": -19000000
       },
-      "gloss": "Knossos was the largest Minoan palace center, with courts, storerooms, painted columns, and complex circulation. It anchors modern understanding of Bronze Age Crete."
+      "gloss": "Knossos became the modern face of Minoan Crete through Arthur Evans's excavations and controversial reconstructions. Its courts, frescoes, and labyrinth legends linked archaeology with the myth of King Minos."
     },
     "sources": [
       {
@@ -5693,7 +5693,7 @@
         "label": "Ancient Egyptian",
         "order": -14000000
       },
-      "gloss": "Luxor Temple formed a ceremonial focus for royal renewal and processions. Its pylons, courts, and colonnades show New Kingdom sacred architecture at urban scale."
+      "gloss": "Luxor Temple framed Thebes's sacred processions and royal renewal rituals. Amenhotep III, Ramesses II, Romans, Christians, and Muslims all left layers, making it a long record of Egyptian urban religion."
     },
     "sources": [
       {
@@ -5730,7 +5730,7 @@
         "label": "Ancient Egyptian",
         "order": -3500000
       },
-      "gloss": "Philae preserves a major Isis temple complex from Egypt's late ancient world. Its relocation to Agilkia Island became a major UNESCO-backed preservation effort."
+      "gloss": "Philae preserved the cult of Isis into late antiquity, long after many Egyptian temples had fallen silent. Its UNESCO relocation during the Aswan Dam campaign made it a modern symbol of saving ancient heritage."
     },
     "sources": [
       {
@@ -5767,7 +5767,7 @@
         "label": "Classical",
         "order": -4490000
       },
-      "gloss": "This Doric temple is one of the best-preserved buildings of classical Athens. Its survival clarifies the scale, rhythm, and sculptural program of Greek temple design."
+      "gloss": "The Temple of Hephaestus survived Athens better than almost any other Greek temple. Its intact Doric shell near the Agora makes craft, civic life, and classical proportion unusually legible."
     },
     "sources": [
       {
@@ -5804,7 +5804,7 @@
         "label": "Classical",
         "order": -3300000
       },
-      "gloss": "The Temple of Apollo housed the Delphic oracle, a religious and political authority across the Greek world. Its mountain setting reinforced Delphi's sacred drama."
+      "gloss": "Delphi's Temple of Apollo housed the oracle whose prophecies shaped Greek politics, colonization, and war. Its ruins still mark the mountain sanctuary where myth, diplomacy, and religion met."
     },
     "sources": [
       {
@@ -5841,7 +5841,7 @@
         "label": "Classical",
         "order": -3400000
       },
-      "gloss": "Epidaurus is famous for its near-perfect semicircular seating and remarkable acoustics. It shows how Greek public architecture fused landscape, ritual, and performance."
+      "gloss": "Epidaurus's theater made healing, festival, and performance part of one sacred landscape. Celebrated for its acoustics, it shows how Greek architecture could choreograph both drama and collective listening."
     },
     "sources": [
       {
@@ -5878,7 +5878,7 @@
         "label": "Ancient Roman",
         "order": 1180000
       },
-      "gloss": "Hadrian's Villa was an imperial estate of palaces, baths, libraries, gardens, and theatrical settings. It condensed the Roman world into an architectural landscape."
+      "gloss": "Hadrian's Villa let an emperor collect the Roman world in gardens, pools, libraries, and fantasy landscapes. Its ruins inspired Renaissance and modern designers with architecture as memory, travel, and power."
     },
     "sources": [
       {
@@ -5915,7 +5915,7 @@
         "label": "Ancient Roman",
         "order": 3150000
       },
-      "gloss": "The Arch of Constantine reused earlier imperial reliefs to frame Constantine's victory and legitimacy. It is a key monument in Rome's late antique political imagery."
+      "gloss": "The Arch of Constantine celebrated victory over Maxentius and helped frame Constantine's rise to Christian imperial rule. Its reused reliefs made Roman memory serve a new political order."
     },
     "sources": [
       {
@@ -5952,7 +5952,7 @@
         "label": "Ancient Roman",
         "order": 2160000
       },
-      "gloss": "These imperial baths offered bathing, exercise, gardens, and libraries at enormous scale. Their vaults and service systems display Roman engineering as public luxury."
+      "gloss": "Caracalla's baths turned bathing into a monumental social machine of pools, libraries, gardens, and engineering. Their scale showed how Roman emperors bought popularity with infrastructure and spectacle."
     },
     "sources": [
       {
@@ -5989,7 +5989,7 @@
         "label": "Ancient Roman",
         "order": 3050000
       },
-      "gloss": "Diocletian's retirement palace merged villa, fortress, and ceremonial court. Its walls became the living core of Split, turning Roman architecture into an inhabited city."
+      "gloss": "Diocletian's Palace was both retirement villa and fortified imperial city. Split later grew inside its walls, making Roman power the living framework of a medieval and modern town."
     },
     "sources": [
       {
@@ -6026,7 +6026,7 @@
         "label": "Byzantine",
         "order": 5320000
       },
-      "gloss": "The Basilica Cistern stored water beneath Constantinople in a haunting forest of reused columns. It reveals the hidden infrastructure behind Byzantine urban life."
+      "gloss": "Justinian's Basilica Cistern stored water beneath Constantinople while creating a shadowy forest of columns. Its Medusa heads and survival made infrastructure feel mythical as well as practical."
     },
     "sources": [
       {
@@ -6063,7 +6063,7 @@
         "label": "Vernacular or Traditional",
         "order": -2000000
       },
-      "gloss": "Ajanta's rock-cut monasteries and prayer halls preserve some of South Asia's greatest ancient murals. Architecture, sculpture, and painting work as one devotional environment."
+      "gloss": "Ajanta's rock-cut monasteries preserve some of ancient India's greatest Buddhist painting. Patronage, trade routes, and devotional storytelling meet in caves where architecture frames images of the Buddha's lives."
     },
     "sources": [
       {
@@ -6100,7 +6100,7 @@
         "label": "Vernacular or Traditional",
         "order": 7730000
       },
-      "gloss": "Kailasa Temple was carved from living rock as a freestanding temple complex. Its scale and sculptural density make it a summit of Indian rock-cut architecture."
+      "gloss": "Kailasa at Ellora was carved top-down from a single rock mass, turning excavation into architecture. Dedicated to Shiva, it made Rashtrakuta ambition and mythic Mount Kailash tangible in stone."
     },
     "sources": [
       {
@@ -6137,7 +6137,7 @@
         "label": "Vernacular or Traditional",
         "order": 8500000
       },
-      "gloss": "Prambanan is Indonesia's largest Hindu temple compound, with soaring towers dedicated to Shiva, Vishnu, and Brahma. Its reliefs and verticality rival Borobudur's fame."
+      "gloss": "Prambanan gave Hindu Java a towering sacred complex dedicated to Shiva, Vishnu, and Brahma. Its Ramayana reliefs and later restoration made it a symbol of Indonesia's layered religious past."
     },
     "sources": [
       {
@@ -6174,7 +6174,7 @@
         "label": "Vernacular or Traditional",
         "order": 11050000
       },
-      "gloss": "Ananda Temple is one of Bagan's most revered monuments, combining cruciform planning with tall terraces and Buddha images. It helped define Burmese temple architecture."
+      "gloss": "Ananda Temple marked Pagan's Buddhist golden age under King Kyansittha. Its four Buddhas, white mass, and cross-shaped plan made devotion and royal merit visible across the Bagan plain."
     },
     "sources": [
       {
@@ -6211,7 +6211,7 @@
         "label": "Vernacular or Traditional",
         "order": 18510000
       },
-      "gloss": "Wat Arun's riverfront prang is encrusted with colorful porcelain and ceramic fragments. Its silhouette is one of Bangkok's defining sacred landmarks."
+      "gloss": "Wat Arun's porcelain-covered prang rose beside Bangkok's river as a landmark of royal restoration. Its dawn name and Chao Phraya setting made Thai sacred architecture part of the city's daily image."
     },
     "sources": [
       {
@@ -6248,7 +6248,7 @@
         "label": "Vernacular or Traditional",
         "order": 17840000
       },
-      "gloss": "The Temple of the Emerald Buddha anchors Thailand's Grand Palace precinct. Its glittering roofs, murals, and sacred image make it a focus of royal and religious identity."
+      "gloss": "Wat Phra Kaew houses the Emerald Buddha, Thailand's most revered palladium, inside Bangkok's royal precinct. Its glittering halls make kingship, ritual, and national identity inseparable."
     },
     "sources": [
       {
@@ -6285,7 +6285,7 @@
         "label": "Vernacular or Traditional",
         "order": 11680000
       },
-      "gloss": "Itsukushima Shrine stages architecture between mountain, sea, and tide. Its vermilion halls and floating torii make one of Japan's most famous sacred views."
+      "gloss": "Itsukushima Shrine made sacred architecture float with the tides before Mount Misen. Its red torii and courtly corridors turned Shinto worship, landscape, and seaborne approach into a single image."
     },
     "sources": [
       {
@@ -6322,7 +6322,7 @@
         "label": "Vernacular or Traditional",
         "order": 16260000
       },
-      "gloss": "Nijo Castle was the Kyoto residence of the Tokugawa shoguns. Its palaces, painted rooms, gardens, and defensive walls turn political authority into refined display."
+      "gloss": "Nijo Castle let Tokugawa shoguns display authority in Kyoto through gates, paintings, and nightingale floors. It later hosted the 1867 return of power to the emperor, ending shogunal rule."
     },
     "sources": [
       {
@@ -6359,7 +6359,7 @@
         "label": "Vernacular or Traditional",
         "order": 15940000
       },
-      "gloss": "Matsumoto Castle is prized for its original black keep, moat, and mountain backdrop. It is one of Japan's most recognizable surviving feudal castles."
+      "gloss": "Matsumoto Castle's black keep survived as one of Japan's finest original castles. Its layered defenses and moon-viewing turret make warfare, status, and beauty share one timber silhouette."
     },
     "sources": [
       {
@@ -6396,7 +6396,7 @@
         "label": "Vernacular or Traditional",
         "order": 13950000
       },
-      "gloss": "Gyeongbokgung was the main royal palace of the Joseon dynasty. Its gates, throne hall, and restored courts remain central to Seoul's historical identity."
+      "gloss": "Gyeongbokgung was the Joseon dynasty's primary palace and the symbolic center of Seoul. Burned, rebuilt, and damaged under Japanese rule, it now stages Korean royal memory and recovery."
     },
     "sources": [
       {
@@ -6433,7 +6433,7 @@
         "label": "Vernacular or Traditional",
         "order": 7740000
       },
-      "gloss": "Bulguksa translates Buddhist cosmology into stone terraces, bridges, pagodas, and timber halls. It is a cornerstone of Silla-period Korean architecture."
+      "gloss": "Bulguksa translated Silla Buddhism into terraces, bridges, pagodas, and a mountain setting. Rebuilt after war and neglect, it became a Korean emblem of spiritual order and national heritage."
     },
     "sources": [
       {
@@ -6470,7 +6470,7 @@
         "label": "Vernacular or Traditional",
         "order": 14050000
       },
-      "gloss": "Changdeokgung is admired for its palace buildings woven into gardens and natural terrain. It became the favored royal residence of many Joseon kings."
+      "gloss": "Changdeokgung became the Joseon kings' favored palace because it worked with hills and gardens rather than against them. Its Secret Garden made court life, Confucian order, and nature carefully coexist."
     },
     "sources": [
       {
@@ -6507,7 +6507,7 @@
         "label": "Islamic",
         "order": 16740000
       },
-      "gloss": "Lahore Fort layers Mughal palaces, gates, gardens, and decorative tilework over an older stronghold. It was a major seat of imperial power in Punjab."
+      "gloss": "Lahore Fort layers Mughal palaces, gates, and tilework over an older stronghold. Akbar, Jahangir, Shah Jahan, and later Sikh rulers made it a record of power in Punjab."
     },
     "sources": [
       {
@@ -6544,7 +6544,7 @@
         "label": "Islamic",
         "order": 16730000
       },
-      "gloss": "Badshahi Mosque pairs a vast courtyard with red sandstone, marble domes, and monumental gateways. It remains one of the grandest mosques of Mughal architecture."
+      "gloss": "Aurangzeb's Badshahi Mosque made Lahore a monumental Mughal religious capital. Its vast courtyard, red sandstone, and marble domes still stage one of South Asia's grandest acts of imperial piety."
     },
     "sources": [
       {
@@ -6581,7 +6581,7 @@
         "label": "Islamic",
         "order": 19860000
       },
-      "gloss": "Faisal Mosque rejects the traditional dome for a tent-like concrete form framed by four minarets. Its scale and silhouette made it Islamabad's modern landmark."
+      "gloss": "Funded by Saudi King Faisal and designed by Vedat Dalokay, Islamabad's mosque rejected the traditional dome for a desert-tent profile. Its scale made it a modern symbol of Pakistan's capital."
     },
     "sources": [
       {
@@ -6618,7 +6618,7 @@
         "label": "Islamic",
         "order": 16290000
       },
-      "gloss": "The Shah Mosque uses tile, calligraphy, a bent axis, and a soaring dome to frame Safavid power and devotion. It is a masterpiece of Isfahan's royal square."
+      "gloss": "Shah Abbas I used the Shah Mosque to anchor Isfahan's royal square and Safavid power. Its bent axis, tilework, and dome make movement from public plaza to sacred space unforgettable."
     },
     "sources": [
       {
@@ -6655,7 +6655,7 @@
         "label": "Islamic",
         "order": 7150000
       },
-      "gloss": "The Umayyad Mosque transformed a Roman and Christian sacred site into one of Islam's earliest monumental congregational mosques. Its courtyard plan influenced later mosques."
+      "gloss": "The Umayyad Mosque transformed a Roman and Christian sacred site into one of Islam's earliest great congregational mosques. Its mosaics, courtyard, and layered shrines made Damascus a sacred crossroads."
     },
     "sources": [
       {
@@ -6692,7 +6692,7 @@
         "label": "Islamic",
         "order": 8510000
       },
-      "gloss": "The mosque's vast enclosure and spiral Malwiya minaret embodied Abbasid ambition on the Tigris. Even in ruin, it is one of Islam's most memorable monuments."
+      "gloss": "Al-Mutawakkil's Great Mosque of Samarra made Abbasid scale visible on the Tigris. Even in ruin, the spiral Malwiya minaret remains one of Islamic architecture's most memorable forms."
     },
     "sources": [
       {
@@ -6729,7 +6729,7 @@
         "label": "Islamic",
         "order": 10350000
       },
-      "gloss": "Al-Aqsa is one of Islam's most revered mosques and a focal point of Jerusalem's sacred landscape. Its long rebuilding history reflects the city's layered rule."
+      "gloss": "Al-Aqsa stands at the heart of Jerusalem's Haram al-Sharif, one of Islam's most revered landscapes. Its repeated rebuilding reflects the city's earthquakes, empires, and sacred political stakes."
     },
     "sources": [
       {
@@ -6766,7 +6766,7 @@
         "label": "Islamic",
         "order": 14040000
       },
-      "gloss": "Bibi-Khanym was planned as one of the Islamic world's largest mosques. Its immense portal and domes express Timurid ambition even after centuries of damage."
+      "gloss": "Timur built Bibi-Khanym to proclaim Samarkand's imperial reach after campaigns across Asia. Its huge portal and battered domes still convey Timurid ambition, even after collapse and restoration."
     },
     "sources": [
       {
@@ -6803,7 +6803,7 @@
         "label": "Islamic",
         "order": 16600000
       },
-      "gloss": "Registan Square is framed by three richly tiled madrasahs, creating one of Central Asia's most famous urban ensembles. Its scale made Samarkand a city of ceremony."
+      "gloss": "Registan Square framed Samarkand with three madrasahs that made learning into civic theater. Ulugh Beg's astronomy, Timurid tilework, and ceremonies turned the plaza into Central Asia's great public room."
     },
     "sources": [
       {
@@ -6840,7 +6840,7 @@
         "label": "Islamic",
         "order": 18880000
       },
-      "gloss": "Known for stained glass, pink tilework, and morning light, Nasir-ol-Molk turns a mosque interior into a vivid color field. It is a late Qajar landmark."
+      "gloss": "Nasir-ol-Molk Mosque became famous for morning light filtered through stained glass into a field of color. Its Qajar tilework and intimate prayer hall made Shiraz's 'Pink Mosque' a visual pilgrimage."
     },
     "sources": [
       {
@@ -6877,7 +6877,7 @@
         "label": "Vernacular or Traditional",
         "order": 17000000
       },
-      "gloss": "Ait Benhaddou is a fortified earthen ksar of towers, walls, and collective dwellings. Its form preserves Saharan caravan-route architecture in dramatic profile."
+      "gloss": "Ait Benhaddou preserves a fortified earthen ksar on Morocco's caravan routes. Its towers, clay walls, and film appearances turned Saharan vernacular architecture into a global image."
     },
     "sources": [
       {
@@ -6914,7 +6914,7 @@
         "label": "Islamic",
         "order": 13270000
       },
-      "gloss": "Djinguereber Mosque is a major earthen monument of Timbuktu, tied to Mali's medieval scholarship and trade. Its mud walls require continual communal maintenance."
+      "gloss": "Djinguereber Mosque links Timbuktu's trade wealth, scholarship, and earthen building traditions. Traditionally tied to Abu Ishaq al-Sahili, it remains a fragile monument to Mali's medieval intellectual world."
     },
     "sources": [
       {
@@ -6951,7 +6951,7 @@
         "label": "Vernacular or Traditional",
         "order": 10830000
       },
-      "gloss": "Rani ki Vav turns a stepwell into a richly carved subterranean temple of water. Its descending corridors reveal how utility and sacred imagery could merge."
+      "gloss": "Rani ki Vav turned a stepwell into an inverted temple of water, sculpture, and royal memory. Built for a Solanki king, it shows how infrastructure could also be pilgrimage and art."
     },
     "sources": [
       {
@@ -6988,7 +6988,7 @@
         "label": "Vernacular or Traditional",
         "order": 10100000
       },
-      "gloss": "Brihadisvara Temple is a Chola masterpiece, famous for its towering granite vimana and axial temple complex. It projects royal power through sacred scale."
+      "gloss": "Rajaraja Chola I built Brihadisvara to proclaim imperial devotion to Shiva. Its granite tower, inscriptions, and murals made Chola power visible across South India."
     },
     "sources": [
       {
@@ -7025,7 +7025,7 @@
         "label": "Vernacular or Traditional",
         "order": 12500001
       },
-      "gloss": "Konark Sun Temple was conceived as Surya's stone chariot, with carved wheels, horses, and dense sculpture. Its surviving ruins remain an icon of Odisha architecture."
+      "gloss": "Konark's Sun Temple shaped Surya's shrine as a colossal stone chariot. Its wheels, horses, and erotic sculpture made royal devotion, astronomy, and Odisha's craft tradition monumental."
     },
     "sources": [
       {
@@ -7062,7 +7062,7 @@
         "label": "Vernacular or Traditional",
         "order": 10500000
       },
-      "gloss": "Kandariya Mahadeva is the largest and most ornate temple at Khajuraho. Its clustered towers and sculpture create a mountain-like image of divine presence."
+      "gloss": "Kandariya Mahadeva is Khajuraho's high point, a mountain of clustered spires dedicated to Shiva. Its sculpture turned divine, erotic, and courtly life into a dense sacred cosmos."
     },
     "sources": [
       {
@@ -7099,7 +7099,7 @@
         "label": "Vernacular or Traditional",
         "order": 15000000
       },
-      "gloss": "Virupaksha Temple remains an active sacred center within the ruins of Vijayanagara. Its gopuram, courtyards, and setting anchor Hampi's monumental landscape."
+      "gloss": "Virupaksha Temple survived as Hampi's living shrine after Vijayanagara's imperial city fell. Its gopuram, rituals, and bazaar setting connect present worship to a once-great capital."
     },
     "sources": [
       {
@@ -7126,17 +7126,17 @@
     "details": {
       "architect": "Henry Irwin",
       "constructionDates": "Built AD 1897-1912",
-      "style": "Other or Unknown",
+      "style": "Indo-Saracenic",
       "epoch": "Industrial",
       "city": "Mysuru",
       "country": "India",
       "location": "Mysuru, India",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "indo-saracenic",
+        "label": "Indo-Saracenic",
         "order": 19120000
       },
-      "gloss": "Mysore Palace combines Indo-Saracenic forms, domes, arches, and lavish interiors into a royal showpiece. Its night illumination made it one of India's best-known palaces."
+      "gloss": "Mysore Palace gave the Wodeyar dynasty an Indo-Saracenic stage of domes, arches, and lavish interiors. Its illuminated facade during Dasara made royal ceremony a public spectacle."
     },
     "sources": [
       {
@@ -7173,7 +7173,7 @@
         "label": "Beaux-Arts",
         "order": 19210000
       },
-      "gloss": "The Victoria Memorial translates imperial commemoration into a marble museum set in gardens. Its dome and classical massing remain a defining image of Kolkata."
+      "gloss": "The Victoria Memorial wrapped imperial commemoration in white marble and Beaux-Arts planning. Built after Queen Victoria's death, it now reads as both colonial monument and Kolkata museum."
     },
     "sources": [
       {
@@ -7200,17 +7200,17 @@
     "details": {
       "architect": "George Wittet",
       "constructionDates": "Built AD 1911-1924",
-      "style": "Other or Unknown",
+      "style": "Indo-Saracenic",
       "epoch": "Modern",
       "city": "Mumbai",
       "country": "India",
       "location": "Mumbai, India",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "indo-saracenic",
+        "label": "Indo-Saracenic",
         "order": 19240000
       },
-      "gloss": "The Gateway of India commemorated imperial arrival but later became a symbol of departure and independence. Its waterfront arch is Mumbai's most famous monument."
+      "gloss": "The Gateway of India commemorated George V and Mary arriving in Bombay, then watched the last British troops depart. That reversal made its waterfront arch a symbol of empire and independence."
     },
     "sources": [
       {
@@ -7247,7 +7247,7 @@
         "label": "Gothic",
         "order": 18870000
       },
-      "gloss": "This railway terminus fuses Victorian Gothic planning with Indian ornament and a vast transport function. It made the railway station a civic landmark of Mumbai."
+      "gloss": "This Mumbai terminus fused Victorian Gothic railway planning with Indian ornament for the Great Indian Peninsula Railway. Its daily crowds make colonial infrastructure a living civic monument."
     },
     "sources": [
       {
@@ -7284,7 +7284,7 @@
         "label": "Islamic",
         "order": 19280000
       },
-      "gloss": "Sultan Mosque anchors Kampong Glam with a golden dome, minarets, and arcaded prayer hall. It is one of Singapore's most recognizable religious buildings."
+      "gloss": "Sultan Mosque anchors Kampong Glam, the historic Malay-Muslim quarter of Singapore. Its golden dome, rebuilt prayer hall, and royal associations made it a religious and cultural landmark."
     },
     "sources": [
       {
@@ -7321,7 +7321,7 @@
         "label": "High-Tech",
         "order": 19900000
       },
-      "gloss": "Pei's angular tower uses a triangulated frame and crystalline profile to stand out in Hong Kong's skyline. It became an emblem of late-20th-century high-rise design."
+      "gloss": "I. M. Pei's Bank of China Tower made Hong Kong's financial skyline sharp, geometric, and political. Its triangular bracing and feng shui controversy turned a corporate tower into public debate."
     },
     "sources": [
       {
@@ -7358,7 +7358,7 @@
         "label": "Contemporary",
         "order": 19940000
       },
-      "gloss": "The Oriental Pearl Tower gave Pudong a futuristic broadcast landmark of spheres, columns, and observation decks. It helped announce Shanghai's new skyline."
+      "gloss": "The Oriental Pearl Tower made Pudong's rise visible before Shanghai's supertall cluster filled in. Its spheres, broadcast function, and observation decks became an early icon of China's reform-era skyline."
     },
     "sources": [
       {
@@ -7385,17 +7385,17 @@
     "details": {
       "architect": "Tachu Naito",
       "constructionDates": "Built AD 1957-1958",
-      "style": "Other or Unknown",
+      "style": "Modernist",
       "epoch": "Modern",
       "city": "Tokyo",
       "country": "Japan",
       "location": "Tokyo, Japan",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
-        "order": 19580000
+        "key": "modernist",
+        "label": "Modernist",
+        "order": 19581223
       },
-      "gloss": "Inspired by the Eiffel Tower but built for broadcasting, Tokyo Tower became a postwar symbol of recovery and modernity. Its orange lattice remains a city icon."
+      "gloss": "Tokyo Tower borrowed Eiffel's silhouette but became a postwar broadcast beacon for a rebuilt Japan. Its orange lattice made communications infrastructure a symbol of recovery, television, and modern Tokyo."
     },
     "sources": [
       {
@@ -7432,7 +7432,7 @@
         "label": "Contemporary",
         "order": 20120001
       },
-      "gloss": "Tokyo Skytree combines broadcasting, observation, and earthquake-conscious engineering in a 634 m tower. It refreshed Tokyo's skyline for the digital era."
+      "gloss": "Tokyo Skytree replaced older broadcast limits with a neo-futurist tower rooted in pagoda engineering. Its height, earthquake design, and observation decks made it a new symbol of Tokyo's technological confidence."
     },
     "sources": [
       {
@@ -7469,7 +7469,7 @@
         "label": "Vernacular or Traditional",
         "order": 17500000
       },
-      "gloss": "The Summer Palace turns lakes, hills, halls, and corridors into a vast imperial garden. It is one of the clearest expressions of Qing landscape architecture."
+      "gloss": "The Summer Palace made Qing imperial leisure into lakes, hills, corridors, and political retreat. Rebuilt after foreign destruction, it records both courtly garden culture and China's 19th-century humiliations."
     },
     "sources": [
       {
@@ -7506,7 +7506,7 @@
         "label": "Renaissance",
         "order": 15720000
       },
-      "gloss": "Villa d'Este made water, terraces, and garden machinery into a Renaissance spectacle. Its fountains influenced European garden design for centuries."
+      "gloss": "Cardinal Ippolito II d'Este turned Tivoli's Villa d'Este into a Renaissance theater of water. Its fountains, terraces, and hydraulic tricks influenced European garden design for centuries."
     },
     "sources": [
       {
@@ -7543,7 +7543,7 @@
         "label": "Renaissance",
         "order": 15810000
       },
-      "gloss": "The Uffizi began as Medici administrative offices and became one of the world's most famous art museums. Its long courtyard frames Florence as civic theater."
+      "gloss": "Vasari designed the Uffizi as Medici offices, then the family's art collection made it a public museum model. Botticelli, Leonardo, and Michelangelo helped turn bureaucracy into a temple of Renaissance art."
     },
     "sources": [
       {
@@ -7580,7 +7580,7 @@
         "label": "Gothic",
         "order": 13140000
       },
-      "gloss": "Palazzo Vecchio gives Florence's civic government a fortress-like palace and commanding tower. It remains a symbol of republican and Medici power."
+      "gloss": "Palazzo Vecchio made Florence's republican government look fortified, watchful, and proud. The Medici later occupied and decorated it, turning civic power and dynastic control into one building."
     },
     "sources": [
       {
@@ -7598,11 +7598,11 @@
     "dataset": "buildings",
     "title": "Louvre Palace",
     "image": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavillon%20de%20Flore%2C%20Louvre%20Museum%2C%20Paris%205%20November%202019.jpg",
-      "alt": "Architectural view of Louvre Palace.",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg",
-      "license": "Free license or public domain; see Wikimedia Commons file page",
-      "attribution": "Wikimedia Commons contributors"
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre%20Museum%20Wikimedia%20Commons.jpg",
+      "alt": "Frontal night view of the Louvre Pyramid in the Cour Napoleon with the illuminated Louvre Palace wings behind it.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Benh LIEU SONG"
     },
     "details": {
       "architect": "Pierre Lescot, Louis Le Vau, Claude Perrault, and others",
@@ -7617,7 +7617,7 @@
         "label": "Renaissance",
         "order": 15460000
       },
-      "gloss": "The Louvre Palace grew from royal fortress to Renaissance and classical palace, then museum. Its courts and facades frame one of the world's central cultural institutions."
+      "gloss": "Built from Philip II's fortress into a royal palace for French kings, the Louvre became a public museum during the Revolution. Its courts now pair centuries of royal architecture with I. M. Pei's pyramid, a modern Paris icon."
     },
     "sources": [
       {
@@ -7654,7 +7654,7 @@
         "label": "Gothic",
         "order": 12530000
       },
-      "gloss": "The basilica houses the tomb of Francis and major fresco cycles in stacked upper and lower churches. It made Assisi a central pilgrimage and art-historical site."
+      "gloss": "The Basilica of Saint Francis made Assisi a pilgrimage center around the saint's tomb. Giotto and other painters turned its walls into a new emotional language for medieval Christian storytelling."
     },
     "sources": [
       {
@@ -7691,7 +7691,7 @@
         "label": "Romanesque",
         "order": 12110000
       },
-      "gloss": "The cathedral marks the reputed tomb of Saint James and the end of the Camino pilgrimage. Its Romanesque core and Baroque front shaped a major sacred route."
+      "gloss": "Santiago de Compostela Cathedral marks the legendary tomb of Saint James and the goal of the Camino pilgrimage. Its Romanesque core, Baroque facade, and swinging botafumeiro made pilgrimage unforgettable."
     },
     "sources": [
       {
@@ -7728,7 +7728,7 @@
         "label": "Romanesque",
         "order": 11330000
       },
-      "gloss": "Durham Cathedral is a high point of Norman Romanesque design, with massive piers and early rib vaulting. Its hilltop setting strengthens its fortress-like presence."
+      "gloss": "Durham Cathedral guarded the shrine of St Cuthbert and the power of Norman prince-bishops. Its rib vaults and massive piers made Romanesque architecture feel experimental and fortress-like."
     },
     "sources": [
       {
@@ -7765,7 +7765,7 @@
         "label": "Gothic",
         "order": 15000001
       },
-      "gloss": "Canterbury Cathedral is the seat of the archbishop of Canterbury and a major pilgrimage site after Thomas Becket's martyrdom. Its architecture spans Norman to Perpendicular Gothic."
+      "gloss": "Canterbury Cathedral became Europe's great English pilgrimage site after Thomas Becket was murdered there in 1170. Its Gothic choir, shrine history, and archbishopric made it central to church and crown."
     },
     "sources": [
       {
@@ -7802,7 +7802,7 @@
         "label": "Gothic",
         "order": 14720000
       },
-      "gloss": "York Minster is one of northern Europe's largest Gothic cathedrals, famed for its stained glass and wide nave. It dominates the historic city of York."
+      "gloss": "York Minster gave northern England a Gothic cathedral of glass, stone, and civic pride. Its Great East Window and long construction made biblical history and local identity share one vast interior."
     },
     "sources": [
       {
@@ -7839,7 +7839,7 @@
         "label": "Gothic",
         "order": 13450001
       },
-      "gloss": "Reims Cathedral was the coronation church of French kings. Its sculpted facade and radiant Gothic structure make monarchy, ritual, and architecture inseparable."
+      "gloss": "Reims Cathedral staged the coronations of French kings, making Gothic architecture part of monarchy itself. Its sculpture, glass, and wartime damage made it a symbol of both royal ceremony and national loss."
     },
     "sources": [
       {
@@ -7876,7 +7876,7 @@
         "label": "Gothic",
         "order": 12700000
       },
-      "gloss": "Amiens Cathedral is the largest Gothic cathedral in France by interior volume. Its height, sculpture, and coherent planning show High Gothic ambition at full scale."
+      "gloss": "Amiens Cathedral pushed French Gothic height, clarity, and sculptural storytelling to a grand scale. Its relic of John the Baptist helped make the building a pilgrimage and civic landmark."
     },
     "sources": [
       {
@@ -7913,7 +7913,7 @@
         "label": "Gothic",
         "order": 14390000
       },
-      "gloss": "Strasbourg Cathedral combines Romanesque origins with a soaring Gothic facade and spire. Its sandstone color and urban dominance made it a Rhine landmark."
+      "gloss": "For centuries Strasbourg Cathedral's single spire dominated the Rhine borderlands. Its astronomical clock, pink sandstone, and Franco-German history made the church a monument to shifting identities."
     },
     "sources": [
       {
@@ -7950,7 +7950,7 @@
         "label": "Romanesque",
         "order": 11060000
       },
-      "gloss": "Speyer Cathedral was an imperial burial church and one of the largest Romanesque buildings in Europe. Its vaulting and scale announced Salian power."
+      "gloss": "Speyer Cathedral was the burial church of Salian emperors and a manifesto of Romanesque imperial scale. Its crypt and rebuilt vaults made German kingship feel ancient, sacred, and architectural."
     },
     "sources": [
       {
@@ -7987,7 +7987,7 @@
         "label": "Byzantine",
         "order": 8050000
       },
-      "gloss": "Aachen Cathedral centers on Charlemagne's octagonal Palatine Chapel, inspired by late antique and Byzantine models. It became a coronation church for German kings."
+      "gloss": "Charlemagne's Palatine Chapel made Aachen the symbolic heart of his empire. Later coronations and medieval additions turned the Byzantine-inspired core into a shrine of European rulership."
     },
     "sources": [
       {
@@ -8024,7 +8024,7 @@
         "label": "Gothic",
         "order": 15170001
       },
-      "gloss": "Batalha Monastery commemorated Portugal's victory at Aljubarrota with soaring Gothic and Manueline forms. Its unfinished chapels are as famous as its completed church."
+      "gloss": "Batalha Monastery celebrated Portugal's 1385 victory at Aljubarrota and the Avis dynasty's legitimacy. Its Gothic and Manueline stonework made military survival into royal devotion."
     },
     "sources": [
       {
@@ -8061,7 +8061,7 @@
         "label": "Gothic",
         "order": 16010000
       },
-      "gloss": "Jeronimos Monastery gives Portugal's maritime age a lavish Manueline language of vaults, portals, and cloisters. It is Lisbon's most celebrated monastery."
+      "gloss": "Jeronimos Monastery used Portugal's spice wealth to celebrate Vasco da Gama's oceanic age. Its Manueline carving made empire, navigation, and monastic prayer inseparable at Belem."
     },
     "sources": [
       {
@@ -8098,7 +8098,7 @@
         "label": "Gothic",
         "order": 15200000
       },
-      "gloss": "Belem Tower guarded Lisbon's river approach and celebrated Portuguese navigation. Its Manueline ornament turns a defensive tower into a maritime emblem."
+      "gloss": "Belem Tower guarded Lisbon's river mouth as Portuguese ships sailed into global trade and conquest. Its Manueline ornament turned a defensive tower into a symbol of the Age of Discovery."
     },
     "sources": [
       {
@@ -8135,7 +8135,7 @@
         "label": "Neo-Renaissance",
         "order": 18540000
       },
-      "gloss": "Pena Palace mixes medieval, Moorish, and Renaissance revival forms in vivid color above Sintra. It is one of Europe's most theatrical Romantic palaces."
+      "gloss": "King Ferdinand II turned Pena Palace into a Romantic fantasy above Sintra. Its colors, domes, and mock-medieval forms made monarchy, landscape, and 19th-century imagination theatrical."
     },
     "sources": [
       {
@@ -8162,17 +8162,17 @@
     "details": {
       "architect": "John Nash",
       "constructionDates": "Remodeled AD 1815-1823",
-      "style": "Other or Unknown",
+      "style": "Indo-Saracenic",
       "epoch": "Industrial",
       "city": "Brighton",
       "country": "United Kingdom",
       "location": "Brighton, United Kingdom",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "indo-saracenic",
+        "label": "Indo-Saracenic",
         "order": 18230000
       },
-      "gloss": "The Royal Pavilion wraps a seaside palace in exoticized domes, minarets, and rich interiors. It captures Regency taste for spectacle and fantasy."
+      "gloss": "John Nash remade Brighton's Royal Pavilion for George IV as an exoticized seaside pleasure palace. Its domes and chinoiserie interiors reveal Regency spectacle, fantasy, and imperial taste."
     },
     "sources": [
       {
@@ -8209,7 +8209,7 @@
         "label": "Romanesque",
         "order": 18810000
       },
-      "gloss": "Waterhouse's museum uses terracotta, arches, and animal ornament to make natural history monumental. Its great hall became one of London's beloved interiors."
+      "gloss": "Alfred Waterhouse made London's Natural History Museum a Romanesque cathedral for science. Its terracotta animals, Hintze Hall, and collections turned Victorian natural knowledge into public wonder."
     },
     "sources": [
       {
@@ -8246,7 +8246,7 @@
         "label": "Gothic",
         "order": 18760001
       },
-      "gloss": "St Pancras pairs a vast iron train shed with Scott's Gothic Revival hotel frontage. It made railway infrastructure look civic, romantic, and monumental."
+      "gloss": "St Pancras paired Barlow's iron train shed with Scott's Gothic hotel to make rail travel grand. Saved from demolition, it became a London symbol of Victorian engineering and preservation."
     },
     "sources": [
       {
@@ -8273,17 +8273,17 @@
     "details": {
       "architect": "Francis Fowke and Henry Y. D. Scott",
       "constructionDates": "Built AD 1867-1871",
-      "style": "Other or Unknown",
+      "style": "Italianate or Eclectic",
       "epoch": "Industrial",
       "city": "London",
       "country": "United Kingdom",
       "location": "London, United Kingdom",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "italianate-or-eclectic",
+        "label": "Italianate or Eclectic",
         "order": 18710000
       },
-      "gloss": "Royal Albert Hall is a circular concert venue of brick, terracotta, and iron. Its arena-like form made it one of Britain's best-known performance buildings."
+      "gloss": "Royal Albert Hall grew from Prince Albert's vision for public arts, science, and culture. The Proms, memorial services, and arena concerts made its circular room a national performance stage."
     },
     "sources": [
       {
@@ -8320,7 +8320,7 @@
         "label": "Neo-Renaissance",
         "order": 19050000
       },
-      "gloss": "Berlin Cathedral gave imperial Berlin a grand Protestant church in Renaissance and Baroque revival dress. Its dome anchors Museum Island's skyline."
+      "gloss": "Berlin Cathedral gave the Hohenzollerns a Protestant imperial church and dynastic tomb. War damage and reconstruction made its dome part of Berlin's long argument with empire, faith, and memory."
     },
     "sources": [
       {
@@ -8357,7 +8357,7 @@
         "label": "Baroque",
         "order": 17430000
       },
-      "gloss": "The Frauenkirche is famed for its great stone dome and postwar reconstruction from ruins. It has become a symbol of Dresden's memory and renewal."
+      "gloss": "Dresden's Frauenkirche collapsed after the 1945 bombing and stood as a ruin for decades. Its post-reunification reconstruction turned Baroque stonework into a symbol of reconciliation."
     },
     "sources": [
       {
@@ -8394,7 +8394,7 @@
         "label": "Baroque",
         "order": 17560000
       },
-      "gloss": "Catherine Palace turns imperial display into a long blue-and-gold Baroque facade and glittering interiors. The restored Amber Room adds to its global fame."
+      "gloss": "Rastrelli's Catherine Palace made Tsarskoe Selo a glittering stage for Russian imperial leisure. The Amber Room's loss and reconstruction added wartime trauma to Baroque splendor."
     },
     "sources": [
       {
@@ -8431,7 +8431,7 @@
         "label": "Baroque",
         "order": 17250000
       },
-      "gloss": "Peterhof combines palace, terraces, and fountains into Russia's answer to Versailles. Its cascade and Gulf of Finland setting make it an imperial spectacle."
+      "gloss": "Peter the Great built Peterhof as Russia's answer to Versailles on the Gulf of Finland. Its fountains, cascades, and wartime restoration made imperial ambition flow through water and ceremony."
     },
     "sources": [
       {
@@ -8468,7 +8468,7 @@
         "label": "Vernacular or Traditional",
         "order": 14950000
       },
-      "gloss": "The Moscow Kremlin is a fortified seat of religious and political power, combining walls, towers, cathedrals, and palaces. It remains the symbolic core of Russia."
+      "gloss": "The Moscow Kremlin gathered cathedrals, palaces, walls, and state power above the Moskva River. From tsars to Soviet leaders to modern presidents, it remains Russia's central political symbol."
     },
     "sources": [
       {
@@ -8505,7 +8505,7 @@
         "label": "Renaissance",
         "order": 15350000
       },
-      "gloss": "Wawel Castle gathers royal residence, cathedral, and defensive works on Krakow's historic hill. It is one of Poland's central monuments of statehood."
+      "gloss": "Wawel Castle held Polish kings, cathedral tombs, and national memory above Krakow. Its Renaissance courts and legends made it a symbol of sovereignty even when Poland disappeared from the map."
     },
     "sources": [
       {
@@ -8542,7 +8542,7 @@
         "label": "Beaux-Arts",
         "order": 19080000
       },
-      "gloss": "Teatro Colon is one of the world's great opera houses, prized for its acoustics and ceremonial interiors. It made Buenos Aires a major cultural capital."
+      "gloss": "Teatro Colon made Buenos Aires a world opera capital with European craft and Argentine ambition. Caruso, Callas, Toscanini, and later stars helped give its acoustics legendary status."
     },
     "sources": [
       {
@@ -8579,7 +8579,7 @@
         "label": "Neoclassical",
         "order": 18090000
       },
-      "gloss": "Jefferson's plantation house adapts Palladian and classical ideas to an American setting. Its beauty is inseparable from the enslaved labor that sustained it."
+      "gloss": "Thomas Jefferson used Monticello to test ideals of classical design, science, farming, and self-fashioning. It also exposes the contradictions of liberty built and maintained by enslaved labor."
     },
     "sources": [
       {
@@ -8606,17 +8606,17 @@
     "details": {
       "architect": "Edmund Woolley and Andrew Hamilton",
       "constructionDates": "Built AD 1732-1753",
-      "style": "Other or Unknown",
+      "style": "Georgian",
       "epoch": "Early Modern",
       "city": "Philadelphia",
       "country": "United States",
       "location": "Philadelphia, United States",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "georgian",
+        "label": "Georgian",
         "order": 17530000
       },
-      "gloss": "Independence Hall hosted the debates and signing of the Declaration of Independence and U.S. Constitution. Its modest Georgian form became an American civic symbol."
+      "gloss": "Independence Hall hosted the debates that produced the Declaration of Independence and U.S. Constitution. Its modest Georgian rooms became a shrine to American political invention."
     },
     "sources": [
       {
@@ -8653,7 +8653,7 @@
         "label": "Modernist",
         "order": 19520000
       },
-      "gloss": "The United Nations Headquarters made international diplomacy visible through a glass Secretariat tower, assembly halls, and riverside campus. It became a modern civic icon."
+      "gloss": "The United Nations Headquarters gave postwar diplomacy a modernist home on the East River. Its international design team and General Assembly made architecture serve a new ideal of global governance."
     },
     "sources": [
       {
@@ -8690,7 +8690,7 @@
         "label": "Modernist",
         "order": 19690000
       },
-      "gloss": "The John Hancock Center exposes its X-bracing as both structure and image. Its mixed-use height helped redefine the expressive possibilities of the skyscraper."
+      "gloss": "The John Hancock Center made Chicago's mixed-use skyscraper legible through bold X-bracing. SOM's structural expression turned apartments, offices, and observation decks into one muscular urban icon."
     },
     "sources": [
       {
@@ -8727,7 +8727,7 @@
         "label": "Modernist",
         "order": 19720000
       },
-      "gloss": "The Transamerica Pyramid turned a tapered office tower into San Francisco's most recognizable skyline marker. Its shape balanced structural logic with bold corporate identity."
+      "gloss": "The Transamerica Pyramid gave San Francisco a controversial, unmistakable corporate skyline marker. Its tapered form, earthquake design, and preservation fights made it part of the city's identity."
     },
     "sources": [
       {
@@ -8764,7 +8764,7 @@
         "label": "Modernist",
         "order": 19720001
       },
-      "gloss": "Kahn's Kimbell uses cycloid vaults, controlled daylight, and measured proportions to create calm galleries. It is a benchmark for museum architecture."
+      "gloss": "Louis Kahn's Kimbell Art Museum made natural light the true collection partner. Its vaults, courtyards, and restraint gave Fort Worth one of the most admired museum interiors in modern architecture."
     },
     "sources": [
       {
@@ -8801,7 +8801,7 @@
         "label": "Modernist",
         "order": 19490000
       },
-      "gloss": "The Glass House reduces domestic architecture to a transparent box of steel, glass, and landscape. It became a touchstone of American modernist experimentation."
+      "gloss": "Philip Johnson's Glass House made his own home a manifesto of transparency, landscape, and modern taste. Its debt to Mies and its curated estate made domestic architecture a self-portrait."
     },
     "sources": [
       {
@@ -8838,7 +8838,7 @@
         "label": "Modernist",
         "order": 19490001
       },
-      "gloss": "The Eames House used prefabricated steel parts to create a flexible home and studio. Its color, collage-like facade, and lived-in interior made modernism humane."
+      "gloss": "Charles and Ray Eames built Case Study House No. 8 as a joyful kit of industrial parts. It made postwar California living, design experimentation, and creative partnership visible in one home-studio."
     },
     "sources": [
       {
@@ -8875,7 +8875,7 @@
         "label": "High-Tech",
         "order": 20060000
       },
-      "gloss": "Hearst Tower lifts a faceted diagrid office tower above a preserved 1920s base. Its structure and environmental systems made it a high-tech Manhattan landmark."
+      "gloss": "Foster's Hearst Tower rose from a preserved 1928 base, making old New York support a high-tech diagrid. Its sustainable systems and faceted structure turned an addition into a corporate landmark."
     },
     "sources": [
       {
@@ -8912,7 +8912,7 @@
         "label": "Contemporary",
         "order": 20010000
       },
-      "gloss": "Calatrava's movable wing-like sunscreen turned the Milwaukee Art Museum into a lakeside icon. Its kinetic form made the museum instantly recognizable."
+      "gloss": "Santiago Calatrava's Quadracci Pavilion gave Milwaukee a moving-wing landmark on Lake Michigan. The brise soleil made a museum addition perform daily as civic spectacle."
     },
     "sources": [
       {
@@ -8949,7 +8949,7 @@
         "label": "Contemporary",
         "order": 20050000
       },
-      "gloss": "Turning Torso translates a twisting human figure into stacked tower segments. It became a symbol of Malmo's waterfront redevelopment and Scandinavian high-rise ambition."
+      "gloss": "Santiago Calatrava's Turning Torso translated a twisting body study into Malmo's skyline. Built from stacked rotating cubes, it helped symbolize the city's shift from industry to design economy."
     },
     "sources": [
       {
@@ -8986,7 +8986,7 @@
         "label": "Contemporary",
         "order": 20110000
       },
-      "gloss": "Metropol Parasol covers a city square with a vast timber lattice of walkways and shade. Its scale and texture turned an archaeological site into a public landmark."
+      "gloss": "Metropol Parasol turned Seville's Plaza de la Encarnacion into a giant timber canopy and public lookout. Built over archaeological remains, it made urban renewal deliberately controversial and visible."
     },
     "sources": [
       {
@@ -9023,7 +9023,7 @@
         "label": "Contemporary",
         "order": 20080001
       },
-      "gloss": "Oslo Opera House invites the public to walk over its sloping marble roof to the harbor edge. It made cultural architecture part of the city's outdoor life."
+      "gloss": "Oslo Opera House invited the public to walk over the roof and into the harbor landscape. Snohetta turned a national opera house into a civic surface, not just a performance container."
     },
     "sources": [
       {
@@ -9041,11 +9041,11 @@
     "dataset": "buildings",
     "title": "Harpa",
     "image": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Icelandic%20Coast%20Guard%20ship%20and%20Harpa%20concert%20hall.jpg",
-      "alt": "Architectural view of Harpa.",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Icelandic_Coast_Guard_ship_and_Harpa_concert_hall.jpg",
-      "license": "Free license or public domain; see Wikimedia Commons file page",
-      "attribution": "Wikimedia Commons contributors"
+      "src": "https://en.wikipedia.org/wiki/Special:FilePath/Harpa_Concert_Hall%2C_Reykjavik.jpg",
+      "alt": "Close exterior view of Harpa's patterned glass facade beside the harbor in Reykjavik.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Harpa_Concert_Hall,_Reykjavik.jpg",
+      "license": "CC BY-SA 3.0; free in the United States under architectural freedom of panorama",
+      "attribution": "Ivan Sabljak"
     },
     "details": {
       "architect": "Henning Larsen Architects and Batteríið Architects; facade by Olafur Eliasson",
@@ -9060,7 +9060,7 @@
         "label": "Contemporary",
         "order": 20110001
       },
-      "gloss": "Harpa's crystalline glass facade catches Icelandic light and harbor views. The concert hall became a civic symbol after opening during economic recovery."
+      "gloss": "Harpa opened after Iceland's financial crisis, turning a troubled project into Reykjavik's cultural emblem. Olafur Eliasson's glass facade catches harbor light and makes recovery shimmer in public space."
     },
     "sources": [
       {
@@ -9097,7 +9097,7 @@
         "label": "Contemporary",
         "order": 20080002
       },
-      "gloss": "Pei's museum abstracts Islamic geometric traditions into limestone volumes on the Doha waterfront. It gave Qatar a powerful cultural landmark."
+      "gloss": "I. M. Pei studied Islamic architecture before designing Doha's museum as a restrained island monument. Its waterfront presence helped Qatar announce a cultural role beyond energy wealth."
     },
     "sources": [
       {
@@ -9134,7 +9134,7 @@
         "label": "Contemporary",
         "order": 20170001
       },
-      "gloss": "Nouvel's museum shelters galleries beneath a vast perforated dome that filters sun into a rain of light. It became Abu Dhabi's signature cultural building."
+      "gloss": "Jean Nouvel's Louvre Abu Dhabi uses a perforated dome to create a 'rain of light' over museum streets. Its name, loans, and Saadiyat Island setting made global culture part of Gulf soft power."
     },
     "sources": [
       {
@@ -9171,7 +9171,7 @@
         "label": "Contemporary",
         "order": 20190000
       },
-      "gloss": "The museum's interlocking disks evoke a desert rose while wrapping around an older palace. It turns national storytelling into a dramatic contemporary landmark."
+      "gloss": "Jean Nouvel wrapped Qatar's national story in interlocking desert-rose disks around an old palace. The museum turned geology, nomadic memory, oil wealth, and nation-building into architecture."
     },
     "sources": [
       {
@@ -9208,7 +9208,7 @@
         "label": "Contemporary",
         "order": 20070000
       },
-      "gloss": "The Beijing performing arts center places theaters inside a smooth ellipsoid dome surrounded by water. Its futuristic form contrasts sharply with nearby historic axes."
+      "gloss": "Paul Andreu's Beijing performing arts center placed theaters inside a titanium-and-glass ellipsoid surrounded by water. Its futuristic form beside Tiananmen made culture a state spectacle."
     },
     "sources": [
       {
@@ -9245,7 +9245,7 @@
         "label": "Contemporary",
         "order": 20170002
       },
-      "gloss": "Apple Park turns a corporate campus into a giant circular glass ring set in a carefully landscaped park. Its scale and secrecy made it a 21st-century tech icon."
+      "gloss": "Foster + Partners turned Apple's headquarters into a perfect glass ring set in a managed landscape. Steve Jobs championed the campus, making corporate secrecy, design control, and tech power architectural."
     },
     "sources": [
       {
@@ -9282,7 +9282,7 @@
         "label": "Classical",
         "order": -2800000
       },
-      "gloss": "The Pharos guided ships into Alexandria with a huge tower on the harbor island. As a Seven Wonder and prototype lighthouse, it made engineering and navigation visible at monumental scale."
+      "gloss": "The Pharos of Alexandria guided ships into the Ptolemaic capital and became the prototype for later lighthouses. As a Seven Wonder, it made engineering, trade, and royal display visible from the sea."
     },
     "sources": [
       {
@@ -9319,7 +9319,7 @@
         "label": "Classical",
         "order": -2950000
       },
-      "gloss": "The Library of Alexandria was the scholarly heart of the Ptolemaic capital. Though its exact buildings are lost, the Mouseion-library complex became the emblem of ancient learning."
+      "gloss": "The Library of Alexandria made the Ptolemaic capital the legendary center of ancient scholarship. Its uncertain destruction and lost books turned it into a symbol of knowledge, ambition, and cultural fragility."
     },
     "sources": [
       {
@@ -9356,7 +9356,7 @@
         "label": "Classical",
         "order": -5500000
       },
-      "gloss": "The Ephesian temple turned Artemis's sanctuary into one of antiquity's great marble monuments. Rebuilt after fires and raids, its lost colonnades made it a Seven Wonder."
+      "gloss": "The Temple of Artemis made Ephesus a pilgrimage and banking center famous across the Greek world. Burned by Herostratus and rebuilt, its lost scale helped define the ancient Seven Wonders."
     },
     "sources": [
       {
@@ -9393,7 +9393,7 @@
         "label": "Classical",
         "order": -3510000
       },
-      "gloss": "The tomb of Mausolus gave its name to all later mausoleums. Its high podium, Ionic colonnade, and sculptural program made dynastic burial into a Seven Wonder."
+      "gloss": "Mausolus's tomb at Halicarnassus gave its name to every later mausoleum. Greek architects and sculptors turned dynastic grief into a Seven Wonder of podium, colonnade, and sculpture."
     },
     "sources": [
       {
@@ -9430,7 +9430,7 @@
         "label": "Vernacular or Traditional",
         "order": -6000000
       },
-      "gloss": "The Hanging Gardens survive as a contested ancient wonder: terraced greenery raised above a Mesopotamian city. Their uncertain location is part of their architectural memory."
+      "gloss": "The Hanging Gardens survive between history and legend, perhaps Babylonian, perhaps Assyrian. Their image of terraced greenery above a Mesopotamian city made engineered nature an ancient wonder."
     },
     "sources": [
       {
@@ -9467,7 +9467,7 @@
         "label": "Vernacular or Traditional",
         "order": -5160000
       },
-      "gloss": "The Second Temple rebuilt Jerusalem's sacred center and later grew under Herod into a vast platform and sanctuary. Its destruction in AD 70 reshaped Jewish history."
+      "gloss": "The Second Temple rebuilt Jerusalem's sacred center after exile and was transformed by Herod into a vast precinct. Its destruction by Rome in AD 70 reshaped Judaism and the city's memory."
     },
     "sources": [
       {
@@ -9504,7 +9504,7 @@
         "label": "Vernacular or Traditional",
         "order": -5150000
       },
-      "gloss": "The Apadana was Persepolis's great audience hall, raised for Achaemenid ceremony. Its stair reliefs turn architecture into a procession of subject peoples and royal power."
+      "gloss": "Darius and Xerxes used the Apadana at Persepolis for imperial audiences and tribute ceremonies. Its stair reliefs turn the Achaemenid Empire into a carved procession of peoples and power."
     },
     "sources": [
       {
@@ -9541,7 +9541,7 @@
         "label": "Vernacular or Traditional",
         "order": 17070000
       },
-      "gloss": "Yuanmingyuan fused Chinese garden design with imperial palaces and European-style pavilions. Its 1860 destruction made the ruins a powerful symbol of cultural loss."
+      "gloss": "The Old Summer Palace joined Qing gardens, palaces, and European-style pavilions into an imperial dreamscape. Its 1860 looting and burning made the ruins a lasting symbol of national humiliation."
     },
     "sources": [
       {
@@ -9568,17 +9568,17 @@
     "details": {
       "architect": "Joseph Paxton",
       "constructionDates": "Built in 1851; moved in 1854; destroyed by fire in 1936",
-      "style": "Other or Unknown",
+      "style": "Iron and Glass",
       "epoch": "Industrial",
       "city": "London",
       "country": "United Kingdom",
       "location": "London, United Kingdom",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "iron-and-glass",
+        "label": "Iron and Glass",
         "order": 18510000
       },
-      "gloss": "The Crystal Palace made iron and glass architecture a public spectacle for the Great Exhibition. Its prefabricated transparency foreshadowed later modern building systems."
+      "gloss": "Joseph Paxton's Crystal Palace made prefabricated iron and glass a public spectacle for the 1851 Great Exhibition. Its transparency and speed of construction foreshadowed modern exhibition architecture."
     },
     "sources": [
       {
@@ -9615,7 +9615,7 @@
         "label": "Beaux-Arts",
         "order": 19100000
       },
-      "gloss": "Original Penn Station brought Roman bath scale to a rail terminal of granite, glass, and steel. Its demolition became a defining catalyst for preservation in New York."
+      "gloss": "McKim, Mead and White's original Penn Station gave New York a Roman-scaled gateway to rail travel. Its 1960s demolition shocked the city and helped launch the modern preservation movement."
     },
     "sources": [
       {
@@ -9652,7 +9652,7 @@
         "label": "Modernist",
         "order": 19230000
       },
-      "gloss": "Wright's Imperial Hotel fused modern structure with Maya-inspired ornament and Japanese craft. Its survival of the 1923 earthquake became part of its architectural legend."
+      "gloss": "Frank Lloyd Wright's Imperial Hotel blended modern structure, Maya-like ornament, and Japanese craft. Its survival of the 1923 earthquake became central to Wright's legend, even after demolition."
     },
     "sources": [
       {
@@ -9689,7 +9689,7 @@
         "label": "Modernist",
         "order": 19730001
       },
-      "gloss": "Yamasaki's twin towers made the office skyscraper into a pair of abstract vertical icons. Their destruction in 2001 turned the complex into a central site of modern memory."
+      "gloss": "Minoru Yamasaki's Twin Towers turned the office skyscraper into a pair of abstract vertical icons. Their destruction on September 11, 2001 made the complex a central site of modern memory and mourning."
     },
     "sources": [
       {
@@ -9707,26 +9707,26 @@
     "dataset": "buildings",
     "title": "Casa Rosada",
     "image": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa_Rosada.%20Buenos_Aires.jpg",
-      "alt": "The pink Italianate-Eclectic facade of Casa Rosada in Buenos Aires.",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Rosada._Buenos_Aires.jpg",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa_Rosada%2C_frente.jpg",
+      "alt": "Close frontal view of Casa Rosada's pink facade behind the General Manuel Belgrano monument.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Rosada,_frente.jpg",
       "license": "CC BY-SA 3.0",
-      "attribution": "Hmlaplata"
+      "attribution": "Gino Lucas Turra"
     },
     "details": {
       "architect": "Carl Kihlberg, Henrik Aberg, and Francesco Tamburini",
       "constructionDates": "Built 1873-1898",
-      "style": "Other or Unknown",
+      "style": "Italianate or Eclectic",
       "epoch": "Industrial",
       "city": "Buenos Aires",
       "country": "Argentina",
       "location": "Buenos Aires, Argentina",
       "series": {
-        "key": "other-or-unknown",
-        "label": "Other or Unknown",
+        "key": "italianate-or-eclectic",
+        "label": "Italianate or Eclectic",
         "order": 18980000
       },
-      "gloss": "Casa Rosada joins a former post office and government house into Argentina's pink presidential seat. Its Italianate-Eclectic facade anchors Plaza de Mayo's political stage."
+      "gloss": "Casa Rosada joined earlier government buildings into Argentina's pink presidential palace. Eva Peron's balcony speeches and Plaza de Mayo protests made its facade a stage for national politics."
     },
     "sources": [
       {
@@ -9736,6 +9736,240 @@
       {
         "label": "Wikidata",
         "url": "https://www.wikidata.org/wiki/Q478926"
+      }
+    ]
+  },
+  {
+    "id": "building-berlin-tv-tower",
+    "dataset": "buildings",
+    "title": "Berlin TV Tower",
+    "image": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Pope%27s_Revenge.jpg",
+      "alt": "The mirrored sphere of the Berlin TV Tower showing the sunlit cross reflection known as the Pope's revenge.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Pope%27s_Revenge.jpg",
+      "license": "Public domain",
+      "attribution": "Tobi85"
+    },
+    "details": {
+      "architect": "Hermann Henselmann, Jörg Streitparth, Fritz Dieter, and Günter Franke",
+      "constructionDates": "Built 1965-1969; opened 3 October 1969",
+      "style": "Modernist",
+      "epoch": "Modern",
+      "city": "Berlin",
+      "country": "Germany",
+      "location": "Berlin, Germany",
+      "series": {
+        "key": "modernist",
+        "label": "Modernist",
+        "order": 19691003
+      },
+      "gloss": "East Germany built the Berlin TV Tower to dominate the divided capital's skyline. Its mirrored sphere and famous sunlit cross, nicknamed the Pope's revenge, turned propaganda into unintended symbolism."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fernsehturm_Berlin"
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q151356"
+      }
+    ]
+  },
+  {
+    "id": "building-national-museum-african-american-history-culture",
+    "dataset": "buildings",
+    "title": "National Museum of African American History and Culture",
+    "image": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Museum_of_African_American_History_and_Culture_%2897901%29.jpg",
+      "alt": "Exterior view of the bronze-colored National Museum of African American History and Culture on the National Mall.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_African_American_History_and_Culture_(97901).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Rhododendrites"
+    },
+    "details": {
+      "architect": "Freelon Adjaye Bond/SmithGroup",
+      "constructionDates": "Built 2012-2016; opened 24 September 2016",
+      "style": "Contemporary",
+      "epoch": "Contemporary",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "location": "Washington, D.C., United States",
+      "series": {
+        "key": "contemporary",
+        "label": "Contemporary",
+        "order": 20160924
+      },
+      "gloss": "David Adjaye and the Freelon Adjaye Bond/SmithGroup team gave African American history a permanent National Mall presence. Its bronze corona links Yoruba crowns, ironwork, and civic remembrance."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/National_Museum_of_African_American_History_and_Culture"
+      },
+      {
+        "label": "Smithsonian design fact sheet",
+        "url": "https://www.si.edu/newsdesk/factsheets/design-and-construction"
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3073495"
+      }
+    ]
+  },
+  {
+    "id": "building-56-leonard-street",
+    "dataset": "buildings",
+    "title": "56 Leonard Street",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/56_Leonard_Street_%2824249%29.jpg",
+      "alt": "56 Leonard Street seen from the Hudson River, showing the staggered stacked volumes that give it the Jenga Tower nickname.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:56_Leonard_Street_(24249).jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Rhododendrites"
+    },
+    "details": {
+      "architect": "Herzog & de Meuron; Goldstein, Hill & West Architects architect of record",
+      "constructionDates": "Built 2007-2017; completed 2017",
+      "style": "Contemporary",
+      "epoch": "Contemporary",
+      "city": "New York City",
+      "country": "United States",
+      "location": "New York City, United States",
+      "series": {
+        "key": "contemporary",
+        "label": "Contemporary",
+        "order": 20170003
+      },
+      "gloss": "Herzog & de Meuron's 56 Leonard stacked Tribeca apartments like shifting glass boxes in the sky. Nicknamed the Jenga Tower, it made luxury housing instantly recognizable through instability as image."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/56_Leonard_Street"
+      },
+      {
+        "label": "Herzog & de Meuron",
+        "url": "https://www.herzogdemeuron.com/projects/305-56-leonard-street/"
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q244358"
+      }
+    ]
+  },
+  {
+    "id": "building-the-shed",
+    "dataset": "buildings",
+    "title": "The Shed",
+    "image": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Shed.jpg",
+      "alt": "Exterior view of The Shed at Hudson Yards, showing its translucent telescoping shell and plaza entrance.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Shed.jpg",
+      "license": "CC0",
+      "attribution": "Kentuckyfriedtucker"
+    },
+    "details": {
+      "architect": "Diller Scofidio + Renfro and Rockwell Group",
+      "constructionDates": "Built 2015-2019; opened 5 April 2019",
+      "style": "Contemporary",
+      "epoch": "Contemporary",
+      "city": "New York City",
+      "country": "United States",
+      "location": "New York City, United States",
+      "series": {
+        "key": "contemporary",
+        "label": "Contemporary",
+        "order": 20190405
+      },
+      "gloss": "Diller Scofidio + Renfro and Rockwell Group gave Hudson Yards a machine for art: a shell that rolls out to cover the plaza. Opened in 2019, The Shed made flexibility itself the landmark."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)"
+      },
+      {
+        "label": "Diller Scofidio + Renfro",
+        "url": "https://dsrny.com/project/the-shed"
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q15961661"
+      }
+    ]
+  },
+  {
+    "id": "building-sacre-coeur-basilica",
+    "dataset": "buildings",
+    "title": "Sacré-Cœur Basilica",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg/1280px-Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg",
+      "alt": "Frontal view of Sacre-Coeur Basilica on Montmartre, with its white domes and twin equestrian statues against a blue sky.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilique_du_Sacré-Cœur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Terragio67"
+    },
+    "details": {
+      "architect": "Paul Abadie; completed by Lucien Magne and others",
+      "constructionDates": "Built 1875-1914; consecrated 1919",
+      "style": "Romanesque",
+      "epoch": "Industrial",
+      "city": "Paris",
+      "country": "France",
+      "location": "Paris, France",
+      "series": {
+        "key": "romanesque",
+        "label": "Romanesque",
+        "order": 19140000
+      },
+      "gloss": "Raised after the Franco-Prussian War and Paris Commune as a national vow, Sacré-Cœur made Montmartre a sacred skyline. Its white domes turn memory, politics, and pilgrimage into a Paris icon."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sacré-Cœur,_Paris"
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q28785"
+      }
+    ]
+  },
+  {
+    "id": "building-coit-tower",
+    "dataset": "buildings",
+    "title": "Coit Tower",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Francisco_%28CA%2C_USA%29%2C_Coit_Tower_--_2022_--_3082.jpg/1280px-San_Francisco_%28CA%2C_USA%29%2C_Coit_Tower_--_2022_--_3082.jpg",
+      "alt": "Coit Tower rising above Telegraph Hill in San Francisco, with its fluted concrete shaft and arched observation openings.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Coit_Tower_--_2022_--_3082.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Dietmar Rabich"
+    },
+    "details": {
+      "architect": "Arthur Brown Jr. and Henry Howard",
+      "constructionDates": "Built 1932-1933",
+      "style": "Art Deco",
+      "epoch": "Modern",
+      "city": "San Francisco",
+      "country": "United States",
+      "location": "San Francisco, United States",
+      "series": {
+        "key": "art-deco",
+        "label": "Art Deco",
+        "order": 19330000
+      },
+      "gloss": "Funded by Lillie Hitchcock Coit's bequest, Coit Tower gave Telegraph Hill a civic beacon in 1933. Inside, New Deal murals depict 1930s California labor and city life beneath the Bay views."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Coit_Tower"
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1107297"
       }
     ]
   }

@@ -160,9 +160,6 @@ function loadSelectedFilters(manifest) {
     const allowed = new Set(filter.options || []);
     const raw = Array.isArray(saved[filter.id]) ? saved[filter.id] : filter.options;
     next[filter.id] = raw.filter((value) => allowed.has(value));
-    if (next[filter.id].length === 0) {
-      next[filter.id] = [...(filter.options || [])];
-    }
   }
   return next;
 }
@@ -310,7 +307,13 @@ function renderFilters() {
         .join('');
       return `
         <section class="filter-group" aria-label="${escapeHtml(filter.label)}">
-          <div class="filter-group-title">${escapeHtml(filter.label)}</div>
+          <div class="filter-group-header">
+            <div class="filter-group-title">${escapeHtml(filter.label)}</div>
+            <div class="filter-group-actions" aria-label="${escapeHtml(filter.label)} selection controls">
+              <button type="button" class="filter-group-action" data-filter-id="${escapeHtml(filter.id)}" data-filter-bulk="all" aria-label="Select all ${escapeHtml(filter.label)}">All</button>
+              <button type="button" class="filter-group-action" data-filter-id="${escapeHtml(filter.id)}" data-filter-bulk="none" aria-label="Select no ${escapeHtml(filter.label)}">None</button>
+            </div>
+          </div>
           ${options}
         </section>
       `;
@@ -883,7 +886,7 @@ function jumpToSeriesCard(id) {
 
   currentIndex = idx;
   passIndex = Math.min(idx, Math.max((passSize || activeCards.length) - 1, 0));
-  flipped = true;
+  flipped = false;
   resetCardVisualState();
   hideSearchResults();
   closeMobileSearch();
@@ -967,6 +970,21 @@ filterPanel.addEventListener('change', (event) => {
   selectedFilters[filterId] = [...current];
   persistFilters();
   updateFilterButtonLabel();
+  applyFilters();
+});
+
+filterPanel.addEventListener('click', (event) => {
+  const target = event.target instanceof Element ? event.target.closest('[data-filter-bulk]') : null;
+  if (!(target instanceof HTMLButtonElement)) return;
+  event.stopPropagation();
+
+  const filterId = target.dataset.filterId;
+  const filter = (currentManifest?.filters || []).find((item) => item.id === filterId);
+  if (!filter) return;
+
+  selectedFilters[filter.id] = target.dataset.filterBulk === 'all' ? [...(filter.options || [])] : [];
+  persistFilters();
+  renderFilters();
   applyFilters();
 });
 
@@ -1091,7 +1109,7 @@ window.addEventListener('keydown', (event) => {
   } else if (event.key === 'ArrowLeft' || event.key.toLowerCase() === 'a') {
     event.preventDefault();
     grade(false);
-  } else if (event.key === 'ArrowRight' || event.key.toLowerCase() === 'f') {
+  } else if (event.key === 'ArrowRight' || event.key.toLowerCase() === 'd') {
     event.preventDefault();
     grade(true);
   } else if (event.key === 'ArrowDown' || event.key.toLowerCase() === 'b') {

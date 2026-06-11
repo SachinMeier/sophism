@@ -70,6 +70,21 @@ test('renders and grades a battle card with manifest-driven stats', async ({ pag
   await expect(page.locator('#front')).toContainText('Battle of Megiddo');
 });
 
+test('grades with A and D hotkeys', async ({ page }) => {
+  await boot(page);
+
+  await page.keyboard.press('a');
+  await expect(page.locator('#wrongScore')).toHaveText('❌ 1');
+  await expect(page.locator('#toast')).toHaveText('Wrong');
+
+  await page.locator('#backBtn').click();
+  await expect(page.locator('#wrongScore')).toHaveText('❌ 0');
+
+  await page.keyboard.press('d');
+  await expect(page.locator('#rightScore')).toHaveText('✅ 1');
+  await expect(page.locator('#toast')).toHaveText('Correct');
+});
+
 test('switches datasets and uses image-only fronts for paintings and buildings', async ({ page }) => {
   await boot(page);
 
@@ -93,6 +108,7 @@ test('builds filters from manifest paths and filters building styles', async ({ 
     const style = card.details?.style;
     return Array.isArray(style) ? style.includes('High-Tech') : style === 'High-Tech';
   }).length;
+  const allBuildingsCount = buildingCards.length;
 
   await boot(page);
   await page.locator('#datasetSelect').selectOption('buildings');
@@ -100,10 +116,11 @@ test('builds filters from manifest paths and filters building styles', async ({ 
 
   await expect(page.locator('#filterPanel')).toContainText('Style/Movement');
   const styleOptions = page.locator('#filterPanel input[data-filter-id="style"]');
-  const count = await styleOptions.count();
-  for (let index = 0; index < count; index += 1) {
-    await styleOptions.nth(index).setChecked(false);
-  }
+  await expect(page.locator('#filterPanel button[data-filter-id="style"][data-filter-bulk="all"]')).toHaveText('All');
+  await expect(page.locator('#filterPanel button[data-filter-id="style"][data-filter-bulk="none"]')).toHaveText('None');
+  await page.locator('#filterPanel button[data-filter-id="style"][data-filter-bulk="none"]').click();
+  await expect(page.locator('#filterPanel input[data-filter-id="style"]:checked')).toHaveCount(0);
+
   await page.locator('#filterPanel input[data-filter-id="style"][value="High-Tech"]').setChecked(true);
 
   await expect(page.locator('#progress')).toHaveText(`1 / ${highTechCount}`);
@@ -112,6 +129,11 @@ test('builds filters from manifest paths and filters building styles', async ({ 
   await page.locator('#searchResults li').first().click();
   await page.locator('#flipBtn').click();
   await expect(page.locator('#back')).toContainText('High-Tech');
+
+  await openFilters(page);
+  await page.locator('#filterPanel button[data-filter-id="style"][data-filter-bulk="all"]').click();
+  await expect(page.locator('#filterPanel input[data-filter-id="style"]:checked')).toHaveCount(await styleOptions.count());
+  await expect(page.locator('#progress')).toHaveText(`1 / ${allBuildingsCount}`);
 });
 
 test('shuffles the study deck by default', async ({ page }) => {
@@ -369,14 +391,17 @@ test('renders series previous and next navigation when series data exists', asyn
   await expect(page.locator('.series-btn.next')).toContainText('D-Day');
 
   await page.locator('.series-btn.next').click();
-  await expect(page.locator('#back')).toContainText('D-Day');
+  await expect(page.locator('#card')).not.toHaveClass(/flipped/);
+  await expect(page.locator('#front')).toContainText('D-Day');
+  await page.locator('#card').click();
   await expect(page.locator('.series-btn.previous')).toContainText('Battle of Anzio');
   await expect(page.locator('.series-btn.next')).toContainText('Battle of the Bulge');
   await expect(page.locator('#rightScore')).toHaveText('✅ 0');
   await expect(page.locator('#wrongScore')).toHaveText('❌ 0');
 
   await page.locator('.series-btn.previous').click();
-  await expect(page.locator('#back')).toContainText('Battle of Anzio');
+  await expect(page.locator('#card')).not.toHaveClass(/flipped/);
+  await expect(page.locator('#front')).toContainText('Battle of Anzio');
 });
 
 test('dataset visualization page opens generic search and item modals', async ({ page }) => {

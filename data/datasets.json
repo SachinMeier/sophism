@@ -117,7 +117,7 @@
         "type": "multi",
         "path": "details.style",
         "required": true,
-        "options": ["Ancient Egyptian", "Classical", "Ancient Roman", "Byzantine", "Romanesque", "Gothic", "Islamic", "Renaissance", "Neo-Renaissance", "Baroque", "Neoclassical", "Beaux-Arts", "Art Nouveau", "Art Deco", "Modernist", "Brutalist", "Postmodern", "High-Tech", "Contemporary", "Vernacular or Traditional", "Other or Unknown"]
+        "options": ["Ancient Egyptian", "Classical", "Ancient Roman", "Byzantine", "Romanesque", "Gothic", "Islamic", "Renaissance", "Neo-Renaissance", "Baroque", "Georgian", "Neoclassical", "Beaux-Arts", "Italianate or Eclectic", "Indo-Saracenic", "Art Nouveau", "Art Deco", "Iron and Glass", "Modernist", "Brutalist", "Postmodern", "High-Tech", "Contemporary", "Vernacular or Traditional"]
       }
     ],
     "requiredDetailFields": ["architect", "constructionDates", "style", "epoch", "city", "country", "location", "series", "gloss"],

@@ -54,11 +54,11 @@ button {
 }
 
 .app.swipe-right {
-  background: rgba(47, 111, 79, 0.18);
+  background: rgba(47, 111, 79, 0.3);
 }
 
 .app.swipe-left {
-  background: rgba(161, 58, 50, 0.18);
+  background: rgba(161, 58, 50, 0.3);
 }
 
 .topbar {
@@ -163,12 +163,44 @@ select {
   border-top: 1px solid rgba(199, 184, 148, 0.75);
 }
 
+.filter-group-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 7px 10px 5px 14px;
+}
+
 .filter-group-title {
   margin: 0;
-  padding: 7px 14px 5px;
+  min-width: 0;
   color: var(--blue-deep);
   font-size: 0.78rem;
   font-weight: 800;
+}
+
+.filter-group-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex: 0 0 auto;
+}
+
+.filter-group-action {
+  border: 1px solid rgba(199, 184, 148, 0.9);
+  border-radius: 6px;
+  background: rgba(255, 249, 236, 0.68);
+  color: var(--muted);
+  padding: 2px 6px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.66rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.filter-group-action:hover {
+  color: var(--blue-deep);
+  border-color: var(--blue);
 }
 
 .filter-option {
@@ -281,13 +313,13 @@ button:focus-visible {
 }
 
 .back-btn {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   border: 1px solid var(--line);
   background: rgba(255, 249, 236, 0.72);
   color: var(--muted);
-  font-size: 1.35rem;
+  font-size: 1.16rem;
   line-height: 1;
   cursor: pointer;
   display: flex;
@@ -296,6 +328,13 @@ button:focus-visible {
   padding: 0;
   transition: background 120ms ease, color 120ms ease;
   flex-shrink: 0;
+}
+
+.back-icon {
+  display: block;
+  line-height: 1;
+  transform: rotate(270deg);
+  transform-origin: center;
 }
 
 .back-btn:hover:not(:disabled) {

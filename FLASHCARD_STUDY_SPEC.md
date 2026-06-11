@@ -132,7 +132,6 @@ Proposed movement values should be normalized from source data, for example:
 - Abstract Expressionism.
 - Pop Art.
 - Contemporary.
-- Other or Unknown.
 
 ### Famous Buildings Filters
 
@@ -163,18 +162,22 @@ Proposed building style/movement values should be normalized from source data, f
 - Gothic.
 - Islamic.
 - Renaissance.
+- Neo-Renaissance.
 - Baroque.
+- Georgian.
 - Neoclassical.
 - Beaux-Arts.
+- Italianate or Eclectic.
+- Indo-Saracenic.
 - Art Nouveau.
 - Art Deco.
+- Iron and Glass.
 - Modernist.
 - Brutalist.
 - Postmodern.
 - High-Tech.
 - Contemporary.
 - Vernacular or Traditional.
-- Other or Unknown.
 
 ## Dataset-Agnostic Architecture
 
