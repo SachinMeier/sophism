@@ -22,6 +22,7 @@ import sys
 import tempfile
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from dataclasses import dataclass
 from io import BytesIO
@@ -70,6 +71,9 @@ def parse_args() -> argparse.Namespace:
   parser.add_argument("--format", choices=["webp", "jpeg"], default="webp", help="Optimized output format.")
   parser.add_argument("--workers", type=int, default=8, help="Concurrent download/convert workers.")
   parser.add_argument("--timeout", type=float, default=30.0, help="HTTP timeout in seconds.")
+  parser.add_argument("--retries", type=int, default=3, help="Retries for transient HTTP/download failures.")
+  parser.add_argument("--retry-delay", type=float, default=5.0, help="Initial retry delay in seconds.")
+  parser.add_argument("--request-delay", type=float, default=0.0, help="Delay before each download request.")
   parser.add_argument("--limit", type=int, default=0, help="Limit tasks per run, useful for smoke tests.")
   parser.add_argument("--force", action="store_true", help="Re-download/reprocess existing local files.")
   parser.add_argument(
@@ -102,6 +106,14 @@ def is_remote_url(value: str) -> bool:
 def safe_filename(card_id: str, extension: str) -> str:
   stem = SLUG_RE.sub("-", card_id.strip()).strip("-._").lower()
   return f"{stem or 'card-image'}.{extension}"
+
+
+def source_extension(url: str) -> str:
+  path = urllib.parse.unquote(urllib.parse.urlparse(url).path)
+  extension = posixpath.splitext(path)[1].lstrip(".").lower()
+  if extension in ("jpg", "jpeg", "png", "gif", "webp", "svg", "tif", "tiff"):
+    return "jpg" if extension == "jpeg" else extension
+  return ""
 
 
 def local_src_for(output_path: Path, root: Path) -> str:
@@ -152,7 +164,8 @@ def build_tasks(
         continue
 
       card_id = str(card.get("id") or "").strip()
-      output_path = assets_dir / str(dataset_id) / safe_filename(card_id, extension)
+      task_extension = "svg" if source_extension(source_url) == "svg" else extension
+      output_path = assets_dir / str(dataset_id) / safe_filename(card_id, task_extension)
       tasks.append(
         ImageTask(
           dataset_id=str(dataset_id),
@@ -168,13 +181,41 @@ def build_tasks(
   return tasks, dataset_cards
 
 
-def fetch_url(url: str, timeout: float) -> bytes:
+def bounded_source_url(url: str, long_edge: int) -> str:
+  parsed = urllib.parse.urlparse(url)
+  if parsed.netloc != "commons.wikimedia.org":
+    return url
+  if "/wiki/Special:FilePath/" not in parsed.path and "/wiki/Special:Redirect/file/" not in parsed.path:
+    return url
+
+  query = urllib.parse.parse_qs(parsed.query)
+  if "width" not in query:
+    query["width"] = [str(long_edge)]
+
+  next_query = urllib.parse.urlencode(query, doseq=True)
+  return urllib.parse.urlunparse(parsed._replace(query=next_query))
+
+
+def fetch_url(url: str, timeout: float, long_edge: int) -> bytes:
+  url = bounded_source_url(url, long_edge)
   request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
   with urllib.request.urlopen(request, timeout=timeout) as response:
     return response.read()
 
 
 def convert_image(raw: bytes, output_path: Path, *, long_edge: int, quality: int, output_format: str) -> int:
+  if output_path.suffix.lower() == ".svg":
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.NamedTemporaryFile(dir=output_path.parent, delete=False) as temp:
+      temp_path = Path(temp.name)
+      temp.write(raw)
+    try:
+      os.replace(temp_path, output_path)
+    finally:
+      if temp_path.exists():
+        temp_path.unlink()
+    return output_path.stat().st_size
+
   try:
     from PIL import Image, ImageOps
   except ModuleNotFoundError as exc:
@@ -217,22 +258,41 @@ def convert_image(raw: bytes, output_path: Path, *, long_edge: int, quality: int
   return output_path.stat().st_size
 
 
-def process_task(task: ImageTask, *, timeout: float, long_edge: int, quality: int, output_format: str, force: bool) -> ImageResult:
+def process_task(
+  task: ImageTask,
+  *,
+  timeout: float,
+  long_edge: int,
+  quality: int,
+  output_format: str,
+  force: bool,
+  retries: int,
+  retry_delay: float,
+  request_delay: float,
+) -> ImageResult:
   if task.output_path.exists() and not force:
     return ImageResult(task, "skipped", "already exists", task.output_path.stat().st_size)
 
-  try:
-    raw = fetch_url(task.source_url, timeout)
-    bytes_written = convert_image(
-      raw,
-      task.output_path,
-      long_edge=long_edge,
-      quality=quality,
-      output_format=output_format,
-    )
-    return ImageResult(task, "written", bytes_written=bytes_written)
-  except (urllib.error.URLError, TimeoutError, RuntimeError, OSError) as error:
-    return ImageResult(task, "failed", str(error))
+  attempts = max(1, retries + 1)
+  for attempt in range(1, attempts + 1):
+    try:
+      if request_delay > 0:
+        time.sleep(request_delay)
+      raw = fetch_url(task.source_url, timeout, long_edge)
+      bytes_written = convert_image(
+        raw,
+        task.output_path,
+        long_edge=long_edge,
+        quality=quality,
+        output_format=output_format,
+      )
+      return ImageResult(task, "written", bytes_written=bytes_written)
+    except (urllib.error.URLError, TimeoutError, RuntimeError, OSError) as error:
+      if attempt >= attempts:
+        return ImageResult(task, "failed", str(error))
+      time.sleep(retry_delay * attempt)
+
+  return ImageResult(task, "failed", "exhausted retries")
 
 
 def rewrite_cards(dataset_cards: dict[Path, list[dict[str, Any]]], tasks: list[ImageTask], successful: set[tuple[Path, str]]) -> int:
@@ -281,14 +341,14 @@ def main() -> int:
     print("No remote image tasks found.")
     return 0
 
-  print(f"Planned {len(tasks)} image task(s).")
+  print(f"Planned {len(tasks)} image task(s).", flush=True)
   for task in tasks[:10]:
-    print(f"- {task.dataset_id}/{task.card_id}: {task.source_url} -> {task.local_src}")
+    print(f"- {task.dataset_id}/{task.card_id}: {task.source_url} -> {task.local_src}", flush=True)
   if len(tasks) > 10:
-    print(f"- ... {len(tasks) - 10} more")
+    print(f"- ... {len(tasks) - 10} more", flush=True)
 
   if args.dry_run:
-    print("Dry run only. Add --rewrite-json to update dataset image.src values after successful conversion.")
+    print("Dry run only. Add --rewrite-json to update dataset image.src values after successful conversion.", flush=True)
     return 0
 
   started = time.time()
@@ -303,6 +363,9 @@ def main() -> int:
         quality=args.quality,
         output_format=args.format,
         force=args.force,
+        retries=args.retries,
+        retry_delay=args.retry_delay,
+        request_delay=args.request_delay,
       )
       for task in tasks
     ]
@@ -311,14 +374,15 @@ def main() -> int:
       results.append(result)
       detail = f" ({result.bytes_written / 1024:.0f} KB)" if result.bytes_written else ""
       suffix = f": {result.message}" if result.message else ""
-      print(f"{result.status.upper():7} {result.task.dataset_id}/{result.task.card_id}{detail}{suffix}")
+      print(f"{result.status.upper():7} {result.task.dataset_id}/{result.task.card_id}{detail}{suffix}", flush=True)
 
   written = [result for result in results if result.status == "written"]
   skipped = [result for result in results if result.status == "skipped"]
   failed = [result for result in results if result.status == "failed"]
   print(
     f"Finished in {time.time() - started:.1f}s: "
-    f"{len(written)} written, {len(skipped)} skipped, {len(failed)} failed."
+    f"{len(written)} written, {len(skipped)} skipped, {len(failed)} failed.",
+    flush=True,
   )
 
   if args.rewrite_json:
@@ -328,9 +392,9 @@ def main() -> int:
       if result.status in ("written", "skipped")
     }
     changed = rewrite_cards(dataset_cards, tasks, successful)
-    print(f"Rewrote {changed} image.src value(s).")
+    print(f"Rewrote {changed} image.src value(s).", flush=True)
   else:
-    print("JSON unchanged. Re-run with --rewrite-json to point cards at local assets.")
+    print("JSON unchanged. Re-run with --rewrite-json to point cards at local assets.", flush=True)
 
   return 1 if failed else 0
 
